@@ -358,6 +358,97 @@
       .col-lg-6
         figure
           img(src="@/assets/curso/tema2-imagen39.svg")
+        SlyderC.mb-5(:datos="datosSlyder3")
+        figure
+          img(src="@/assets/curso/tema2-imagen44.svg")
+      .col-lg-8
+        p.mb-4 La perilla es la pieza que complementa y da terminación a la abertura de la manga. Este molde se elabora teniendo en cuenta el ancho, largo y abertura de perilla deseada. Para realizar la perilla se traza un rectángulo de 7.5 cm que corresponden al ancho por 17 cm que es largo de la perilla terminada. (Figura 1).
+          br
+          br
+          | La portañuela se realiza siguiendo las indicaciones de la figura a continuación (Figura 2).
+    .row.justify-content-center.mb-5
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido
+          span Figura 1. Perilla
+        figure
+          img(src="@/assets/curso/tema2-imagen47.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido
+          span Figura 2. Portañuela
+        figure
+          img(src="@/assets/curso/tema2-imagen48.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+
+    .row.justify-content-center.mb-5
+      .col-lg-11.mb-5
+        .row.justify-content-center
+          .col-lg-6.mb-lg-0.mb-5
+            figure.mb-4
+              img(src="@/assets/curso/tema2-imagen50.svg")
+            SlyderC.mb-5(:datos="datosSlyder4")
+            figure.mb-4
+              img(src="@/assets/curso/tema2-imagen50.svg")
+            SlyderC.mb-5(:datos="datosSlyder5")
+          .col-lg-6
+            figure
+              img(src="@/assets/curso/tema2-imagen49.jpg")
+      .col-lg-6.mb-4
+        figure
+          img(src="@/assets/curso/tema2-imagen60.svg")    
+      .col-lg-11.mb-5
+        .row.justify-content-center.mb-5
+          .col-lg-6
+            .caja.temporal--azul.text-center.py-3.px-4.mb-4
+              p.mb-0 Desde el vértice de centro frente – cuello hacia la derecha, marcar 7 cm, subir 1.5 cm y unir en curva. Marcar piquetes a los 3 cm y a los 6 cm, partiendo del centro frente. 
+            figure
+              img(src="@/assets/curso/tema2-imagen61.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-6
+            .caja.temporal--azul.text-center.py-3.px-4.mb-4
+              p.mb-0 Desde el vértice de centro frente – ruedo, hacia la derecha marcar 7 cm, unir con recta los puntos hechos en el paso 1 con los del paso 2 y marcar piquetes a los 3 cm y a los 6 cm.
+            figure
+              img(src="@/assets/curso/tema2-imagen62.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+      .col-lg-6.mb-4
+        figure
+          img(src="@/assets/curso/tema2-imagen63.svg")
+      .col-lg-9.mb-4
+        .row.justify-content-center
+          .col-lg-6.mb-4
+            figure
+              img(src="@/assets/curso/tema2-imagen64.jpg")
+          .col-lg-6.mb-4
+            SlyderC(:datos="datosSlyder6")
+          .col-lg-12
+            p.mb-0.caja.temporal--azul.px-4.py-3 Instrucciones tomadas de Gutiérrez et al., 2011; SENA, s.f.-b
+
+    Separador
+
+    #t_2_4.titulo-segundo
+      h2 2.4    Variaciones de la camisa: diferentes tipos de cortes, recogidos y almillas alforzas.
+
+    .cajon.color-primario.p-5.mb-4
+      p.mb-0 Para desarrollar diferentes tipos de camisas se hace necesario modificar los moldes básicos, dependiendo de las especificaciones del diseño o ficha técnica. A continuación, se presentan algunas de las más comunes.
+
+    .row.justify-content-center
+      .col-lg-6.mb-4
+        p.mb-4.fw-bold.texto-rosa Cortes
+        p.mb-4 Es fundamental tener en cuenta que siempre que se realice un corte a una pieza se le debe adicionar la margen de costura para poder confeccionar (unir) ambas piezas en la tela.
+        .titulo-sexto.color-acento-contenido
+          span Ejemplo de corte y costuras. 
+        figure.mb-4
+          img(src="@/assets/curso/tema2-imagen70.svg").mb-2
+          figcaption Fuente: elaboración propia en Optitex.
+        
+      .col-lg-9.mb-4
+        .cajon.color-acento-contenido.p-5.mb-4
+          p.mb-0 Recogidos: si al hacer un corte llevará un recogido, a la pieza que se va a recoger se le deberá aumentar la medida para dicho recogido, en la zona en que se ha de recoger y marcarse con piquetes tanto en la pieza que se recoge, como en la pieza en la que se une, como guía de confección.
+
+      .col-lg-7.mb-4
+        SlyderC(:datos="datosSlyder7")
+        
+
     //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
     //- se encuentra en src/components/Muestras.vue
     //- Una vez el componente "Muestras" no se necesite 
@@ -504,6 +595,157 @@ export default {
         texto:
           'Del vértice inferior izquierdo hacia la derecha marcar la mitad (½) del contorno de puño. Unir los puntos con línea recta.',
         imagen: require('@/assets/curso/tema2-imagen37.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder3: [
+      {
+        titulo: '',
+        texto:
+          'Trazar un rectángulo de 28 cm, que corresponden al contorno de puño, por 5 cm que son ancho del puño. ',
+        imagen: require('@/assets/curso/tema2-imagen40.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: 'Dar 1 cm de costuras por todo el contorno. ',
+        imagen: require('@/assets/curso/tema2-imagen41.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Después de dar costuras al rectángulo se le da la forma que se dese en las esquinas, diamante o redondas.',
+        imagen: require('@/assets/curso/tema2-imagen42.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
+        imagen: require('@/assets/curso/tema2-imagen43.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder4: [
+      {
+        titulo: '',
+        texto:
+          'Trazar un rectángulo de 5 cm que son el ancho por la mitad (½) del contorno de cuello. La línea vertical derecha del rectángulo será el Centro.',
+        imagen: require('@/assets/curso/tema2-imagen51.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Desde el vértice inferior izquierdo del rectángulo bajar 2 cm, unir en curva suave utilizando la regla de cadera y cayendo sobre la línea inferior del rectángulo.',
+        imagen: require('@/assets/curso/tema2-imagen52.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Del vértice superior izquierdo del rectángulo salir 1.5 cm y unir en recta con el punto anteriormente trazado.',
+        imagen: require('@/assets/curso/tema2-imagen53.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Dar costuras por el contorno superior, izquierdo e inferior del rectángulo, menos por el centro frente.',
+        imagen: require('@/assets/curso/tema2-imagen54.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder5: [
+      {
+        titulo: '',
+        texto:
+          'Trazar un rectángulo de 4.5 cm que equivale al ancho de la banda por la mitad (½) del contorno de cuello. La línea vertical derecha del rectángulo será el centro atrás. ',
+        imagen: require('@/assets/curso/tema2-imagen56.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Del vértice inferior izquierdo del rectángulo subir 2 cm y desde este punto, escuadrar hacia la izquierda saliendo 3 cm para el cruce de botones. Unir este nuevo punto en curva suave utilizando la regla de cadera y cayendo sobre la línea inferior del rectángulo. ',
+        imagen: require('@/assets/curso/tema2-imagen57.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Del vértice superior izquierdo del rectángulo subir 2 cm para recuperar los 2 cm anteriores dejando la banda del mismo ancho que el de centro frente. Unir con curva pronunciada este punto con los 3 cm sacados en el paso anterior y con curva suave utilizando la regla de cadera y cayendo sobre la línea superior del rectángulo. ',
+        imagen: require('@/assets/curso/tema2-imagen58.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Dar costuras por el contorno superior, izquierdo e inferior del rectángulo, menos por el centro atrás. ',
+        imagen: require('@/assets/curso/tema2-imagen59.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder6: [
+      {
+        titulo: '',
+        texto: 'Trazar un rectángulo de 13.5 cm de ancho por 15 cm de largo.',
+        imagen: require('@/assets/curso/tema2-imagen65.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Desde los vértices inferiores subir 1.5 cm a cada lado y sobre la línea horizontal inferior ubicar la mitad (½). Unir en recta estos tres puntos.',
+        imagen: require('@/assets/curso/tema2-imagen66.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'En los laterales y en el inferior dar 1 cm para costura. Sobre la parte superior dar 3 cm y marcar piquete para boca de bolsillo',
+        imagen: require('@/assets/curso/tema2-imagen67.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder7: [
+      {
+        titulo: '',
+        texto:
+          '1. Marcar los cortes para el recogido y los piquetes en las piezas de unión.',
+        imagen: require('@/assets/curso/tema2-imagen71.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          '2. Dar recogido, cuando es un recogido paralelo se abre la pieza y se separa paralelamente la medida deseada (tamaño del recogido) y se marca con piquete de inicio y fin.',
+        imagen: require('@/assets/curso/tema2-imagen72.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          '3.  Cuando el recogido es en uno solo de los lados, se debe seccionar o fragmentar el área del recogido en partes iguales, abrir solo el lado al que se le dará recogido, pegar sobre un nuevo papel y marcar el nuevo molde.',
+        imagen: require('@/assets/curso/tema2-imagen73.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
+        imagen: require('@/assets/curso/tema2-imagen74.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
+        imagen: require('@/assets/curso/tema2-imagen75.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
+        imagen: require('@/assets/curso/tema2-imagen76.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
     ],

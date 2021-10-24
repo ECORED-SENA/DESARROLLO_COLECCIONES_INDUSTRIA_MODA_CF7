@@ -1541,7 +1541,7 @@
                 .cajon.color-acento-contenido.p-4.mb-4
                   p.mb-0 Dentro de los acabados, los expuestos en la sección de acabados en húmedo, aportan a la estabilización de las dimensiones de la tela, ayudando así al manejo del encogimiento textil.
                 p.mb-0 Estos acabados son algunos de los más comunes y se pueden dar en tejidos o prendas. Para el patronista es relevante esta información pues al momento de desarrollar los patrones debe contemplar el efecto del proceso en la construcción de la prenda y los cambios dimensionales para hacer las correcciones necesarias en la moldería.
-  
+                
 </template>
 
 <script>
