@@ -1541,23 +1541,15 @@
                 .cajon.color-acento-contenido.p-4.mb-4
                   p.mb-0 Dentro de los acabados, los expuestos en la sección de acabados en húmedo, aportan a la estabilización de las dimensiones de la tela, ayudando así al manejo del encogimiento textil.
                 p.mb-0 Estos acabados son algunos de los más comunes y se pueden dar en tejidos o prendas. Para el patronista es relevante esta información pues al momento de desarrollar los patrones debe contemplar el efecto del proceso en la construcción de la prenda y los cambios dimensionales para hacer las correcciones necesarias en la moldería.
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 import TabSpecial from '../components/TabSpecial1.vue'
 import SlyderEspecial from '../components/SlyderBSpecial.vue'
 export default {
   name: 'Tema1',
   components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
     TabSpecial,
     SlyderEspecial,
   },
@@ -1660,27 +1652,32 @@ export default {
     datosSlyder2: [
       {
         titulo: 'OPTITEX',
-        texto: 'https://optitex.com/',
+        texto:
+          '<a href="https://optitex.com/" target="_blank">https://optitex.com/</a>',
         imagen: require('@/assets/curso/tema1-imagen106.jpg'),
       },
       {
         titulo: 'GERBER TECHNOLOGY – AccuMarK.',
-        texto: 'https://gerbersoftware.com/products/accumark-2d/',
+        texto:
+          '<a href="https://gerbersoftware.com/products/accumark-2d/" target="_blank">https://gerbersoftware.com/products/accumark-2d/</a>',
         imagen: require('@/assets/curso/tema1-imagen107.jpg'),
       },
       {
         titulo: 'LECTRA MODARIS.',
-        texto: 'https://www.lectra.com/es',
+        texto:
+          '<a href="https://www.lectra.com/es" target="_blank">https://www.lectra.com/es</a>',
         imagen: require('@/assets/curso/tema1-imagen108.jpg'),
       },
       {
         titulo: 'OPTITAUDACES.EX',
-        texto: 'https://www.audaces.com/es/',
+        texto:
+          '<a href="https://www.audaces.com/es/" target="_blank">https://www.audaces.com/es/</a>',
         imagen: require('@/assets/curso/tema1-imagen109.jpg'),
       },
       {
         titulo: 'MORGAN',
-        texto: 'https://www.morgantecnica.com/es/blog/',
+        texto:
+          '<a href="https://www.morgantecnica.com/es/blog/" target="_blank">https://www.morgantecnica.com/es/blog/</a>',
         imagen: require('@/assets/curso/tema1-imagen110.jpg'),
       },
     ],
