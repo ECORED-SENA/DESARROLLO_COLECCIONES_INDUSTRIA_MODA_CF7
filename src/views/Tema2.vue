@@ -448,7 +448,281 @@
       .col-lg-7.mb-4
         SlyderC(:datos="datosSlyder7")
         
+    p.mb-5 
+      strong.texto-rosa.fw-bold Alforzas
+      br
+      br
+      | son una serie de pliegues planos cosidos secuencialmente en la tela, que se vuelcan hacia un lado, las hay de todas las medidas. Para realizar las alforzas se deben marcar las líneas por las cuales se abrirá la pieza, para el ejemplo se harán en el frente cuatro (4) alforzas paralelas al centro frente, con una separación de 1.5 cm, la primera a 4 cm del punto hombro por escote, así:
+    
+    .row.justify-content-center
+      .col-lg-8.mb-5
+        .titulo-sexto.color-acento-contenido
+          span Alforzas.
+        figure.mb-4
+          img(src="@/assets/curso/tema2-imagen78.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+        .cajon.color-acento-contenido.p-5.mb-5
+          p.mb-0 Se corta la pieza por las líneas de las alforzas y se ubican sobre una nueva pieza de papel con una línea horizontal que servirá de guía (para el ejemplo en el ruedo), separando cada una de las piezas el ancho deseado de la alforza por dos (se hace doble para que la tela forme el prense o pliegue de la alforza) y marcando la mitad de este espacio. Para el ejemplo se harán las alforzas de 0.5 cm, por lo que se separarán 1 cm.
+        .titulo-sexto.color-acento-contenido
+          span Alforzas.
+        figure
+          img(src="@/assets/curso/tema2-imagen85.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+      .col-lg-6.mb-5
+        p.mb-5 Se presentan algunos ejemplos de trabajos en almillas y recogidos en frente y posterior
+        figure
+          img(src="@/assets/curso/tema2-imagen86.jpg")
+          figcaption Fuente: ayelenpellegrino.files.wordpress.com; 2010.
+      .col-lg-8.mb-5
+        figure
+          img(src="@/assets/curso/tema2-imagen87.svg").mb-3
+          figcaption Fuente: ayelenpellegrino.files.wordpress.com; 2010.
+    
+    Separador
 
+    #t_2_5.titulo-segundo
+      h2 2.5    Cuellos, puños perillas, tapas y charreteras.
+
+    p.mb-5 Así como la silueta, los cortes y recogidos modifican un molde, es fundamental entender que los cuellos, puños, perillas, tapas y charreteras intervienen en la creación de múltiples diseños a partir de la camisa básica, su modificación da como resultado un modelo diferente.
+
+    .row.justify-content-center
+      .col-lg-10
+        .row.justify-content-center.mb-5
+          .col-lg-4.mb-lg-0.mb-5
+            figure
+              img(src="@/assets/curso/tema2-imagen88.jpg")
+          .col-lg-8
+            .row
+              .col-auto
+                div.mb-4.px-5.py-2.caja-titulo-bordes-especial.w-auto.fw-bold Cuellos
+            p.mb-0 Son la pieza que rodea el cuello en las prendas superiores. Su función es abrigar y proteger dicha parte del cuerpo. Con las variaciones en su diseño se busca aportar una función estética a la prenda. 
+              br
+              br
+              | El tipo de cuello también variará dependiendo de la finalidad de la camisa, es decir, depende del diseño de este se recomienda el uso de otros accesorios como corbatas o corbatines según la ocasión de uso para la que fue pensada la prenda.
+              br
+              br
+              | En función de la moda y de la prenda, el cuello ha adoptado numerosas variaciones de forma a lo largo de la historia. En la indumentaria masculina, los cuellos camiseros se han popularizado para el resto de las prendas como abrigos o chaquetas en que va unido a la solapa.
+              br
+              br
+              | El trazo de estos cuellos está basado en el patrón base dado en la camisa básica.
+              br
+              br
+              | En camisas, se distinguen los siguientes tipos de cuellos:
+        .row.mb-4.align-items-center
+          .col-lg-auto
+            .circle
+          .col-lg-auto
+            p.mb-0.fw-bold.texto-rosa Cuello inglés
+        p.mb-5 Es el tradicional de las camisas de vestir, lo cual tiene sentido si se toma en cuenta que la sastrería nació en Inglaterra.  Sus puntas son alargadas, aunque el tamaño puede variar dependiendo del vestido sastre.
+          br
+          br
+          | La altura de este cuello suele llegar un poco más arriba, por lo que sí está cerrado da la sensación de estar más arreglado; por el tamaño de las puntas, no es recomendable usarlo abierto ya que puede dar un efecto de “avión”.  Cuando se usa con corbata, el nudo debe ser más estrecho por el espacio que hay y puede lucir un poco menos. 
+        .row.mb-4.align-items-center
+          .col-lg-auto
+            .circle
+          .col-lg-auto
+            p.mb-0.fw-bold.texto-rosa Cuello americano
+        .row.justify-content-center.mb-5
+          .col-lg-7.mb-lg-0.mb-5
+            p.mb-0 Este tipo de cuello tiene su origen en Inglaterra, concretamente en el deporte del polo, donde se decidió por abotonar las palas de los polos (alas del cuello) para que estas no golpearan la cara del jinete al cabalgar. Sin embargo, fue en Estados Unidos donde se popularizó esta solución y se llevó fuera del mundo del deporte. Suele tener botones en las puntas.
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/tema2-imagen89.svg")
+        .row.justify-content-center.mb-5
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/tema2-imagen90.svg")
+          .col-lg-7.mb-lg-0.mb-5
+            .row.mb-4.align-items-center
+              .col-lg-auto
+                .circle
+              .col-lg-auto
+                p.mb-0.fw-bold.texto-rosa Cuello francés
+            p.mb-0 Este tipo de cuello tiene su origen en Inglaterra, concretamente en el deporte del polo, donde se decidió por abotonar las palas de los polos (alas del cuello) para que estas no golpearan la cara del jinete al cabalgar. Sin embargo, fue en Estados Unidos donde se popularizó esta solución y se llevó fuera del mundo del deporte. Suele tener botones en las puntas.
+        .row.mb-4.align-items-center
+          .col-lg-auto
+            .circle
+          .col-lg-auto
+            p.mb-0.fw-bold.texto-rosa Cuello de smoking, opera o wing collar
+        .row.justify-content-center.mb-5
+          .col-lg-9.mb-lg-0.mb-5
+            p.mb-0 Se caracteriza por tener picos pequeños, separados y muy abiertos donde las palas(alas) son muy pequeñas. El objetivo es no restar ni un centímetro de protagonismo a la pajarita o corbatín, la cual se debe llevar sí o sí.
+              br
+              br
+              | Para el trazo del cuello de Smoking se debe dibujar un rectángulo de 11 x 22 cm. Paralelas a la línea horizontal, trazar dos líneas más de 5 y 3 cm. de separación, quedando el rectángulo dividido en 3 secciones, una de 5 cm, y dos de 3 cm.
+          .col-lg-3
+            figure
+              img(src="@/assets/curso/tema2-imagen91.svg")
+      .col-lg-8
+        ol.lista-ol.lista-ol--separador.color-primario.pt-3.mb-5
+          li
+            p.mb-0.w-100.text-center En la primera línea horizontal superior, se marca un punto a 14 cm. dividiéndola en dos partes.
+          li 
+            p.mb-0.w-100.text-center La segunda línea se divide en 4 puntos: a 11,5 cm, luego a 5 cm. luego a 3.
+          li 
+            p.mb-0.w-100.text-center Lo que resta es unir los puntos marcados como se muestra en la imagen.
+      .col-lg-10
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen92.svg")
+      .col-lg-8
+        .row.justify-content-center.mb-5
+          .col-lg-3
+            figure
+              img(src="@/assets/curso/tema2-imagen93.svg")
+          .col-lg-9.mb-lg-0.mb-5
+            .row.mb-4.align-items-center
+              .col-lg-auto
+                .circle
+              .col-lg-auto
+                p.mb-0.fw-bold.texto-rosa Cuello francés
+            p.mb-0 También llamado Cuello Club (o vintage). Es poco común e informal se distingue por las puntas del ala del cuello redondeadas. Se usa sin corbata
+        .row.justify-content-center.mb-5
+          .col-lg-9.mb-lg-0.mb-5
+            .row.mb-4.align-items-center
+              .col-lg-auto
+                .circle
+              .col-lg-auto
+                p.mb-0.fw-bold.texto-rosa Cuello italiano
+            p.mb-0 Se conoce en inglés como spread collar (o cuello ancho), es una pieza más abierta y con puntas un poco más cortas que el inglés. Se caracteriza porque las puntas de este tipo de camisa están más separadas. Ideal para usar con un nudo gruesos como el doble o el Windsor. No se debe usar sin corbata.
+          .col-lg-3
+            figure
+              img(src="@/assets/curso/tema2-imagen94.svg")
+        .row.justify-content-center.mb-5
+          .col-lg-3
+            figure
+              img(src="@/assets/curso/tema2-imagen95.svg")
+          .col-lg-9.mb-lg-0.mb-5
+            .row.mb-4.align-items-center
+              .col-lg-auto
+                .circle
+              .col-lg-auto
+                p.mb-0.fw-bold.texto-rosa Cuello mao
+            p.mb-0 Es de origen chino sube entre 2 y 5 cm por la base del cuello, no tiene doblez, sus bordes pueden ser rectos o redondeados. Se caracteriza por su poca altura y sobre todo por no tener palas o alas de cuello.
+    
+    .row
+      .col-auto
+        div.mb-4.px-5.py-2.caja-titulo-bordes-especial.w-auto.fw-bold Puños de la camisa
+
+    p.mb-5 Los puños como complementos de las camisas pueden variar el diseño y además indicar la ocasión de uso de la misma. Ejemplo: en Inglaterra la alternativa al puño doble suele ser un puño con dos botones. En cambio, los italianos, optan por el clásico puño con un botón o por el puño con corte también con un sólo botón. 
+
+    figure.mb-5
+      img(src="@/assets/curso/tema2-imagen96.jpg")
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8.mb-lg-0.mb-5
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen97.svg")
+          figcaption Fuente: i.pinimg.com/originals, (s.f.).
+        p.mb-5 En el trabajo de diseño es válido añadir otro tipo de dobleces, cortes y algunas piezas como sucede en el modelo italiano o con botón anudado. Todos estos modelos son para elaborar camisas sobre medida muy utilizado en sastrería y en vestuario de fiesta y gala. Aquí el ojal del puño se puede dividir en dos tipos, en ojal para botón, y el ojal para gemelos. Mucho más formal el segundo, y el único indicado para camisas que vayan a llevarse con un traje de etiqueta.
+        figure.mb-3
+          img(src="@/assets/curso/tema2-imagen98.svg")
+      .col-lg-6.mb-lg-0.mb-5
+        p.mb-4.text-center.py-2.px-5.caja.temporal--rosa En cuanto al corte del puño, se tienen tres modelos principalmente:
+      .col-lg-8.mb-lg-0.mb-5
+        ol.lista-ol--cuadro.lista-ol--separador.list-with--borders.py-4.mb-5
+          li 
+            .lista-ol--cuadro__vineta.circle.color-acento-contenido
+              span 1
+            | Corte recto o inglés. Los extremos del puño se unen formando una línea horizontal.
+          li 
+            .lista-ol--cuadro__vineta.circle.color-acento-contenido
+              span 2
+            | Corte redondeado o americano. Los extremos del puño se meten hacia dentro con forma redondeada.
+          li 
+            .lista-ol--cuadro__vineta.circle.color-acento-contenido
+              span 3
+            | Corte italiano o sesgado. Los extremos del puño se meten hacia dentro formando un pico.
+        .cajon.color-primario.p-5.mb-5
+          p.mb-0 Y ya siendo de puño más elegante y formal se encuentra el puño doble o francés: va doblado hacia dentro y consta de 4 ojales, que debemos hacer coincidir dos a dos para colocar entre ellos el gemelo. Se usa si se viste chaqué, esmoquin o frac.
+
+    .row.mb-5
+      .col-auto
+        .mb-0.px-5.py-2.caja-titulo-bordes-especial.w-auto.fw-bold Perillas
+
+    p.mb-5 Las perillas de la camisa por lo regular son de dos tipos, uno en el frente de esta reforzada con entretela para que allí se alojen los ojales y botones y otra en las mangas con puño, también llamada la portañuela o vista de la manga, como se vio en el trazo básico de la camisa; esta es una pieza que tapa el corte de la manga aportándole una funcionalidad adicional. En la camiseta tipo polo la perilla frontal es más corta ya que cumple la función de ajustar el cuello al cerrarse.
+      br
+      br
+      | Se debe determinar si la perilla frontal va incluida en el delantero o será independiente pues esto influirá en la forma de trazarla y las márgenes de costuras.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10.mb-5
+        p.mb-5.text-center.py-2.px-5.caja.temporal--azul A continuación, algunas de las perillas más usuales y como se presenta el doblez y la costura para su montaje:
+        .row.justify-content-center
+          .col-lg-6.mb-5
+            div
+              figure.mb-3
+                img(src="@/assets/curso/tema2-imagen99.svg")
+                figcaption Fuente: folguiasorion.com/services/camisa/ (s.f.)
+              .row.align-items-center
+                .col-lg-auto
+                  .circle
+                .col-lg
+                  p.mb-0 Perilla con doblez superior con o sin alma: Viene incluida en el delantero y su doblez voltea hacia el revés de la tela.
+          .col-lg-6.mb-5
+            div
+              figure.mb-3
+                img(src="@/assets/curso/tema2-imagen100.svg")
+                figcaption Fuente: folguiasorion.com/services/camisa/ (s.f.)
+              .row.align-items-center
+                .col-lg-auto
+                  .circle
+                .col-lg
+                  p.mb-0 Perilla con tipo pellizco derecha con o sin alma: se le adiciona aparte del ancho de la perilla y de las costuras el pellizco que por lo regular es de ¼ de pulgada.
+          .col-lg-6.mb-lg-0.mb-5
+            div
+              figure.mb-3
+                img(src="@/assets/curso/tema2-imagen101.svg")
+                figcaption Fuente: folguiasorion.com/services/camisa/ (s.f.)
+              .row.align-items-center
+                .col-lg-auto
+                  .circle
+                .col-lg
+                  p.mb-0 Perilla sobre puesta con entretela individual en dos agujas: la perilla es independiente y va encima del delantero y se le debe agregar la costura a este.
+          .col-lg-6
+            div
+              figure.mb-3
+                img(src="@/assets/curso/tema2-imagen102.svg")
+                figcaption Fuente: folguiasorion.com/services/camisa/ (s.f.)
+              .row.align-items-center
+                .col-lg-auto
+                  .circle
+                .col-lg
+                  p.mb-0 Perilla tipo pretina recta: Esta perilla va totalmente independiente y se añade al delantero no va encima o esta añadida a ella como las anteriores y su forma de unión como de terminado es igual a una pretina de pantalón.
+
+      .col-lg-6
+        figure
+          img(src="@/assets/curso/tema2-imagen103.svg")
+    
+    .row.mb-5
+      .col-auto
+        .mb-0.px-5.py-2.caja-titulo-bordes-especial.w-auto.fw-bold Tapas o Tapetas
+
+    p.mb-5 Son un complemento a los bolsillos y cumplen la función tanto de cierre como aportante al diseño de la camisa o pantalón. En su trazo se toma en cuenta dos factores, el primero es el ancho del bolsillo donde se aplicarán y el segundo el diseño inferior de este.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        figure
+          img(src="@/assets/curso/tema2-imagen104.svg")
+
+    .row.mb-5
+      .col-auto
+        .mb-0.px-5.py-2.caja-titulo-bordes-especial.w-auto.fw-bold Charreteras
+
+    .row.justify-content-center
+      .col-lg-6.mb-lg-0.mb-5
+        p.mb-0 También llamada jarretera o jareta. Su utilidad es sostener o dar soporte en el hombro, sin embargo, en nuestro tiempo da cierto manejo de diseño, entre los cuales está el soporte de manga, adonar bolsillos, en la espalda en la amilla y por supuesto en los hombros.
+          br
+          br
+          | En cuanto a su trazo esta varía entre 2.5 cm y 3.5 cm de ancho y el largo corresponde al lugar donde será aplicada. En  algunas de ellas su terminación es en flecha y / o rectangular con ojal para sujeción con botón.
+
+      .col-lg-6
+        figure
+          img(src="@/assets/curso/tema2-imagen105.svg")
+    .row.justify-content-center
+      .col-lg-6
+        p.mb-0 Camisa, s.f.; HISTORIA DE LA MODA - FASHION HISTORY : CUELLOS, s.f.; Tipos de Puño de Camisa, 2014; Hatem, 2017; Nuñez de Arenas, 2016; Wikipedia, s.f.
+
+    Separador
     //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
     //- se encuentra en src/components/Muestras.vue
     //- Una vez el componente "Muestras" no se necesite 
