@@ -723,6 +723,140 @@
         p.mb-0 Camisa, s.f.; HISTORIA DE LA MODA - FASHION HISTORY : CUELLOS, s.f.; Tipos de Puño de Camisa, 2014; Hatem, 2017; Nuñez de Arenas, 2016; Wikipedia, s.f.
 
     Separador
+
+    #t_2_6.titulo-segundo
+      h2 2.6    Escalado de la camisa
+
+    p.mb-5
+      span.texto-rosa GRADACION O ESCALADO DE LA CAMISA
+      br
+      br
+      | El escalado o gradación es la técnica por utilizar para la generación de las tallas mayores o inferiores al patrón base, sin necesidad de desarrollar cada patrón desde cero. 
+
+    .row.justify-content-center.caja.temporal--pink.g-0
+      .col-lg-3.mb-lg-0.mb-5
+        figure
+          img(src="@/assets/curso/tema2-imagen106.jpg")
+      .col-lg-9
+        p.mb-0.px-5.py-4 Se le llama talla base a la talla que usamos para elaborar el patrón inicial o central del cual se partirá la gradación tanto en sentido positivo (tallas superiores) como en negativo (tallas inferiores).
+          br
+          br
+          | Para lograr que el escaldo sea equitativo, el cuadro de tallas es fundamental pues brinda la guía en los incrementos entre talla y talla tanto en dirección horizontal como  vertical.
+          br
+          br
+          | Se parte de los ejes verticales de centro frente, hombro y cuello como puntos fijos a partir de los cuales se empieza a elaborar el plano cartesiano para desarrollar la partición de tallas.
+
+    .pt-5.contenedor-slider-tema2
+      .row.justify-content-center
+        .col-lg-9
+          SlyderC.mt-5(:datos="datosSlyder8")
+
+    Separador
+
+    #t_2_7.titulo-segundo
+      h2 2.7    Desarrollo de modelos de camisa
+
+    p.mb-5 Como se dijo al inicio, partiendo del patrón básico de camisa y sus complementos, se pueden conseguir diferentes desarrollos de modelos a partir de la variación en algunas piezas o detalles, modificar mangas, cuellos, ajuste, cortes, todas estas transformaciones darán como resultado diferentes propuestas de diseños.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8.mb-5
+        .titulo-sexto.color-acento-contenido
+          span Figura 1. Perilla frontal o tapetas
+        .row
+          .col-lg-7.mb-lg-0.mb-5
+            figure
+              img(src="@/assets/curso/tema2-imagen111.svg")
+              figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+          .col-lg-4
+            figure
+              img(src="@/assets/curso/tema2-imagen112.jpg")
+      .col-lg-8.mb-5
+        .cajon.color-primario.p-5.mb-4
+          p.mb-0.text-center A continuación se muestran algunos ejemplos en la modificación del largo de manga y la adición de charreteras.
+      .col-lg-8.mb-5
+        .titulo-sexto.color-acento-contenido
+          span Figura 2. Largos de manga y adiciones como charreteras o chapetas.
+        figure
+          img(src="@/assets/curso/tema2-imagen113.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.).
+      .col-lg-8.mb-5.caja.temporal--azul
+        p.mb-4 Las perillas de manga, portañuelas o sardinetas, las cuales difieren en ancho y en largo o combinación de material, según diseño y tipo de camisa, también cumplen una función de diseño en la prenda.
+        .titulo-sexto.color-acento-contenido
+          span Figura 3. Perilla de manga, portañuela o sardineta,
+        figure.mb-3
+          img(src="@/assets/curso/tema2-imagen114.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.).
+      .col-lg-8.mb-5
+        p.text-center.mb-5 Ejemplos de cortes, pinzas, pliegues, tabla en la espalda, modificando el modelo clásico o base de camisa. 
+        .titulo-sexto.color-acento-contenido
+          span Figura 4. Espalda.
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen115.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+        .row.justify-content-center
+          .col-lg-9
+            figure
+              img(src="@/assets/curso/tema2-imagen116.svg")
+      .col-lg-6.mb-5
+        .titulo-sexto.color-acento-contenido
+          span Figura 5. Almilla o canesú.
+        figure.mb-3
+          img(src="@/assets/curso/tema2-imagen117.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+      .col-lg-8.mb-5
+        p.mb-5 El tipo de bolsillo más usado en las camisas es el bolsillo plaque o parque que como su nombre lo indica va sobrepuesto como un parche sobre el delantero de la camisa. 
+        .titulo-sexto.color-acento-contenido
+          span Figura 6. Ubicación del bolsillo.
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen118.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+        .cajon.color-primario.p-5.mb-4
+          p.mb-0.text-center En cuanto a ubicación y cantidad lo que muestra la Figura 7 y como diseño de bolsillo de parche se da a través de pespuntes, dobleces y cortes a juego con los puños de la camisa. 
+        .titulo-sexto.color-acento-contenido
+          span Figura 7. Cantidad de bolsillos.
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen119.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+        .titulo-sexto.color-acento-contenido
+          span Figura 8. Diseño de bolsillos.
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen120.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+        p.mb-5.text-center Otra variación de las camisas es en el costado sobre la línea de ruedo, allí se puede generar una abertura según diseño, la cual se conoce como mosca. 
+        .titulo-sexto.color-acento-contenido
+          span Figura 9. Abertura o mosca del bajo o ruedo 
+        figure.mb-5
+          img(src="@/assets/curso/tema2-imagen121.jpg")
+          figcaption Fuente: repunte.com/es/confeccion-de-camisas-para-hombre/ (s.f.)
+      .col-lg-9
+        p.mb-0.px-5.py-2.text-center.caja.temporal--rosa Para la ubicación de bordados en la camisa como forma de personalizar el diseño y en cuales áreas de esta pueden hacerse, de esto nos habla la Figura 10. Se describen los puntos numerados donde se pueden hallar estos.
+    
+    .titulo-sexto.color-acento-contenido
+      span Figura 10. Ubicación de bordados
+    ImagenInfografica.color-secundario.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema2-imagen122.svg')
+      .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
+        p.mb-0 Delantero izquierdo
+      .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
+        p.mb-0 Pico izqdo. cuello
+    
+    .row.justify-content-center
+      .col-lg-9
+        p.mb-0 De esta manera, el jugar con los complementos, largos y ajustes, permite la generación de diferentes propuestas de diseño que van a partir del patrón básico de camisa; dichas variaciones dependerán del tipo de consumidor, temporada, ideas de diseño, entre otros factores que pueden influir en el proceso de diseño.
+        figure
+          img(src='@/assets/curso/tema2-imagen123.jpg')
+    
+    Separador
+
+    
+
+
+
+        
+    
+
     //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
     //- se encuentra en src/components/Muestras.vue
     //- Una vez el componente "Muestras" no se necesite 
@@ -1021,6 +1155,28 @@ export default {
         texto: '',
         imagen: require('@/assets/curso/tema2-imagen76.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder8: [
+      {
+        titulo: '',
+        texto: 'Escalado camisa masculina clásico.',
+        imagen: require('@/assets/curso/tema2-imagen107.jpg'),
+      },
+      {
+        titulo: '',
+        texto: 'Escalado en nido camisa masculina.',
+        imagen: require('@/assets/curso/tema2-imagen108.jpg'),
+      },
+      {
+        titulo: '',
+        texto: 'Escalado camisa masculina clásica.',
+        imagen: require('@/assets/curso/tema2-imagen109.jpg'),
+      },
+      {
+        titulo: '',
+        texto: 'Escalado en nido, camisa clásica masculina.',
+        imagen: require('@/assets/curso/tema2-imagen110.jpg'),
       },
     ],
   }),
