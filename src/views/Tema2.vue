@@ -844,13 +844,13 @@
     
     .row.justify-content-center
       .col-lg-9
-        p.mb-0 De esta manera, el jugar con los complementos, largos y ajustes, permite la generación de diferentes propuestas de diseño que van a partir del patrón básico de camisa; dichas variaciones dependerán del tipo de consumidor, temporada, ideas de diseño, entre otros factores que pueden influir en el proceso de diseño.
+        p.mb-4 De esta manera, el jugar con los complementos, largos y ajustes, permite la generación de diferentes propuestas de diseño que van a partir del patrón básico de camisa; dichas variaciones dependerán del tipo de consumidor, temporada, ideas de diseño, entre otros factores que pueden influir en el proceso de diseño.
         figure
-          img(src='@/assets/curso/tema2-imagen123.jpg')
+          img(src='@/assets/curso/tema2-imagen123.png')
     
     Separador
 
-    
+
 
 
 
@@ -862,7 +862,7 @@
     //- Una vez el componente "Muestras" no se necesite 
     //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
     //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
+    //- Muestras
   
 </template>
 
