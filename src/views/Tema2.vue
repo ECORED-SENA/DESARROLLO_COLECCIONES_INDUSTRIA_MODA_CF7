@@ -850,13 +850,361 @@
     
     Separador
 
+    #t_2_8.titulo-segundo
+      h2 2.8   Básico del pantalón clásico y avíos
 
+    p.mb-4 De las prendas inferiores, el pantalón es el patrón básico para el desarrollo de diferentes propuestas a partir de la modificación de su construcción, reducción o ampliación de largos, anchos, entre otros. 
+      br
+      br
+      | Para la construcción del patrón básico de pantalón se necesitarán las medidas de: 
 
+    .row.justify-content-center.mb-5
+      .col-lg-9
+        figure
+          img(src="@/assets/curso/tema2-imagen124.jpg")
+      .col-lg-3
+        ol.lista-ol--cuadro
+          li 
+            .lista-ol--cuadro__vineta
+              span 1
+            | Contorno de cadera
+          li 
+            .lista-ol--cuadro__vineta
+              span 2
+            | Contorno de cintura
+          li 
+            .lista-ol--cuadro__vineta
+              span 3
+            | Largo de pantalón 
+          li 
+            .lista-ol--cuadro__vineta
+              span 4
+            | Base
+          li 
+            .lista-ol--cuadro__vineta
+              span 5
+            | Largo de tiro
+          li 
+            .lista-ol--cuadro__vineta
+              span 6
+            | Semicadera
 
+    .row.justify-content-center.mb-5
+      .col-lg-8.mb-5
+        p.mb-4.text-center Trazar un rectángulo de 1/4 de cadera (esta medida se llamará base) por el largo del pantalón. 
+        figure
+          img(src="@/assets/curso/tema2-imagen125.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+      .col-lg-5.mb-5
+        figure
+          img(src="@/assets/curso/tema2-imagen126.svg")
 
-        
+    SlyderEspecial.mb-5(type="especial"  :datos="datosSlyder9")
     
+    .row.justify-content-center.mb-4
+      .col-lg-5
+        figure
+          img(src="@/assets/curso/tema2-imagen134.svg")
 
+    SlyderEspecial.mb-5(type="especial" :inverted="true" :datos="datosSlyder10")
+
+    .row.justify-content-center.mb-5
+      .col-lg-10.mb-4
+        p.mb-0.caja--outline-rosa.px-5.py-2 Para marcar el bolsillo posterior, escuadrar a 10 cm o 12 cm (en la punta de la pinza) sobre la línea de centro de la pinza a ambos lados la mitad de la boca del bolsillo posterior (bolsillo de ribete)
+      .col-lg-8
+        .row
+          .col-lg-6.mb-lg-0.mb-5
+            figure
+              img(src="@/assets/curso/tema2-imagen148.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-6
+            figure
+              img(src="@/assets/curso/tema2-imagen147.jpg")
+
+    .row.justify-content-center.mb-5
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Bolsillo lateral
+    
+    p.mb-5 El bolsillo es una bolsa de tela, que va cosida a una abertura lateral o boca de bolsillo, esta pieza es llamada fondo de bolsillo, está ubicada sobre los costados superiores del pantalón y sirve para guardar dinero u objetos pequeños.
+      br
+      br
+      | Para la construcción del bolsillo y sus componentes se trabaja con la pernera delantera.
+
+    .row.justify-content-center.mb-0
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Boca de bolsillo
+    
+    .row.justify-content-center.px-5.py-4.background1-especial2.mb-5
+      .col-lg-4
+        p.mb-3 Desde el vértice de cintura y sobre el costado hacia abajo medir 16 cm.
+        figure
+          img(src="@/assets/curso/tema2-imagen149.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+      .col-lg-7.offset-1
+        p.mb-3 Desde el vértice del costado, medir 4 cm sobre la cintura hacia el tiro y unir en recta con el punto del paso anterior. Eliminar la esquina del vértice de cintura – costado 
+        figure
+          img(src="@/assets/curso/tema2-imagen150.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+    
+    .row.justify-content-center.mb-4
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Falso
+
+    .row.justify-content-center.mb-5
+      .col-lg-7
+        p.mb-5 El falso es la pieza que se ubica en la parte posterior de la boca de bolsillo, dándole un mejor acabado en el momento de la confección.
+          br
+          br
+          | Para su desarrollo se marca el nuevo delantero y se dan 6cm paralelos a la boca de bolsillo, desde la línea de cintura hasta la línea de costado.
+        figure
+          img(src="@/assets/curso/tema2-imagen151.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+    
+    .row.justify-content-center.mb-4
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Fondo de bolsillo
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        p.mb-5 El fondo de bolsillo es la bolsa de tela en donde se guarda dinero u objetos pequeños, consta de dos fondos o tapas y una vista.
+    
+    .row.justify-content-center.mb-4
+      .col-md-auto
+        p.mb-4.border-dotted-especial.px-4.py-2 Fondo 1
+    .row.justify-content-center.mb-5
+      .col-lg-9
+        .tarjeta.tarjeta--gris.p-4.mb-5
+          LineaTiempoC.color-acento-contenido(text-small)
+            .row.px-5.py-4(titulo="Parte 1")
+              .col-lg-6.mb-lg-0.mb-5
+                p.mb-0 Hace referencia a los diferentes procesos industriales para perfeccionar un producto. El acabado en los tejidos y prendas comprende el blanqueado, teñido, encogido, estirado, estampado, satinado y planchado, entre otros.
+              .col-lg-6
+                figure
+                  img(src="@/assets/curso/tema2-imagen152.svg")
+                  figcaption Fuente: elaboración propia en Optitex.
+            .row.px-5.py-4(titulo="Parte 2")
+              .col-lg-6.mb-lg-0.mb-5
+                p.mb-0 Desde el vértice de cintura - costado bajar 30 cm, que son la profundidad del fondo de bolsillo. Escuadrar hacia adentro apoyándose sobre la línea de aplome y prologándolo 2cm más
+              .col-lg-6
+                figure
+                  img(src="@/assets/curso/tema2-imagen153.svg")
+                  figcaption Fuente: elaboración propia en Optitex.
+            .row.px-5.py-4(titulo="Parte 3")
+              .col-lg-4.mb-lg-0.mb-5
+                p.mb-0 Desde los últimos 2 cm, sobre la misma línea escuadrar hasta la cintura y suavizar el ángulo formado.
+              .col-lg-8
+                figure
+                  img(src="@/assets/curso/tema2-imagen154.svg")
+                  figcaption Fuente: elaboración propia en Optitex.
+            .row.px-5.py-4(titulo="Parte 4")
+              .col-lg-4.mb-lg-0.mb-5
+                p.mb-0 Por último, desde el vértice de cintura – tiro, bajar 10 cm, escuadrarlos hasta encontrarse con la línea anterior y suavizar este ángulo con curva.
+              .col-lg-8
+                figure
+                  img(src="@/assets/curso/tema2-imagen155.svg")
+                  figcaption Fuente: elaboración propia en Optitex.
+            .row.px-5.py-4(titulo="Parte 5")
+              .col-lg-6.mb-lg-0.mb-5
+                p.mb-0 Nota: El fondo de bolsillo 1 es el área que esta sombreada, se le marca la línea de aplome y se corta 2 por talla.
+              .col-lg-6
+                figure
+                  img(src="@/assets/curso/tema2-imagen156.svg")
+                  figcaption Fuente: elaboración propia en Optitex.
+    
+    .row.justify-content-center.mb-4
+      .col-md-auto
+        p.mb-4.border-dotted-especial.px-4.py-2 Fondo 2
+
+    .row.justify-content-center.mb-5
+      .col-lg-9
+        .row.justify-content-center
+          .col-lg-6.mb-lg-0.mb-5.py-5.px-5(style="background-color: #EEF3F9")
+            p.mb-4 Se traza en otro papel el fondo de bolsillo N°1, seguidamente se sobrepone el delantero con la variación en el costado para la boca de bolsillo y se marca la boca de bolsillo, se traza esta diagonal y se elimina la esquina donde está el vértice de cintura costado.
+            figure.px-5
+              img(src="@/assets/curso/tema2-imagen157.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-6.py-5.px-5(style="background-color: #FCF5F8")
+            p.mb-4 Se traza en otro papel el fondo de bolsillo N°1, seguidamente se sobrepone el delantero con la variación en el costado para la boca de bolsillo y se marca la boca de bolsillo, se traza esta diagonal y se elimina la esquina donde está el vértice de cintura costado.
+            figure.px-5
+              img(src="@/assets/curso/tema2-imagen158.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+    
+    .row.justify-content-center.mb-4
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Vista
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        p.mb-0 La vista es la pieza que va sobrepuesta en el fondo de bolsillo N° 1 y se corta en la misma tela del pantalón, esta pieza no permite que el fondo de bolsillo se vea que va en diferente tela.
+          br
+          br
+          | Marcar en otro papel el fondo de bolsillo N°1, trazar la diagonal de la boca de bolsillo y luego una paralela de 5 cm hacia el interior del bolsillo (La vista es la zona que está sombreada). 
+
+    .row.justify-content-center.mb-5
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema2-imagen159.svg").mb-3
+          figcaption Fuente: elaboración propia en Optitex.
+
+    .row.justify-content-center.mb-4
+      .col-lg-5
+        p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Aletilla
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        p.mb-5 La aletilla es una aleta que se le coloca al lado izquierdo de la parte superior del tiro delantero y sirve para ubicar el cierre del pantalón en el momento de la confección. Para la elaboración de este molde se han estandarizado ciertas medidas que corresponden a la distancia de la recta del tiro desde la cintura hasta donde empieza la curva de tiro o gavilán.
+          br
+          br
+          | Dichas medidas son: 
+        .row.justify-content-center.mb-5
+          .col-lg-4.mb-lg-0.mb-5
+            figure
+              img(src="@/assets/curso/tema2-imagen160.jpg")
+          .col-lg-8
+            ol.lista-ol--cuadro.lista-ol--separador.list-with--borders.py-4
+              li 
+                .lista-ol--cuadro__vineta.circle.color-acento-contenido
+                  span 1
+                | Para las tallas 28, 30 y 32 de 19 cm de largo por 5 cm de ancho.
+              li 
+                .lista-ol--cuadro__vineta.circle.color-acento-contenido
+                  span 2
+                | Para las tallas 34, 36 y 38 de 21 cm de largo por 5 cm de ancho.
+              li 
+                .lista-ol--cuadro__vineta.circle.color-acento-contenido
+                  span 3
+                | Para las tallas 40 y 42 de 24 cm de largo por 5 cm de ancho.
+    
+        .row.justify-content-center.align-items-center.mb-5.caja.temporal--rosa
+          .col-lg-4
+            figure
+              img(src="@/assets/curso/tema2-imagen161.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-8
+            p.mb-0 Para su construcción de parte de un rectángulo de 19 cm de largo por 5 cm de ancho, éste corresponde al estándar de una talla 32.
+    
+        .row.justify-content-center.align-items-center.mb-5.caja.temporal--azul
+          .col-lg-4
+            figure
+              img(src="@/assets/curso/tema2-imagen162.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-8
+            p.mb-0 Suavizar el extremo inferior izquierdo de la aletilla con curva.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .row.justify-content-center.mb-4
+          .col-lg-5
+            p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Aletillón
+
+        p.mb-5 El aletillón es una aleta doble que se le coloca al lado derecho de la parte superior del tiro delantero y sirve para proteger la piel de cualquier accidente en el momento que se esté subiendo el cierre.
+          br
+          br
+          |  Así como en el caso de la aletilla, ya se cuentan con unas medidas estandarizadas según la talla de la siguiente manera:
+
+        .row.justify-content-center
+          .col-lg-8
+            .tabla-a.color-acento-botones.mb-5 
+              table
+                thead
+                  tr
+                    th Talla
+                    th Largo
+                    th Ancho
+                tbody
+                  tr
+                    td 28 – 30 – 32
+                    td 19 cm
+                    td 10 cm
+                  tr
+                    td 34 – 36 – 38
+                    td 21 cm
+                    td 10 cm
+                  tr
+                    td 40 – 42
+                    td 24 cm
+                    td 10 cm
+            p.mb-0 Primero realizar un rectángulo de 19 cm de largo por 10 cm de ancho, éste corresponde al estándar de una talla 32. Luego ubicar un piquete en la mitad de cada una de las líneas horizontales.
+          .col-lg-4
+            figure
+              img(src="@/assets/curso/tema2-imagen163.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+        
+        .row.justify-content-center.mb-4
+          .col-lg-5
+            p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Pretina
+        
+        p.mb-5 La pretina es la cinta que se utiliza para sujetar el pantalón de la cintura y se ubica en la parte superior de éste. Para la elaboración de este molde básico es necesario la sumatoria de las medidas de: contorno de cintura más ancho de aletilla más mitad (½) del ancho de aletillón.
+
+        .cajon.color-primario.p-5.mb-4
+          p.mb-0.text-center Para construirla se realiza un rectángulo con el resultado de esta sumatoria por el ancho de pretina deseado, este puede variar de acuerdo al diseño. El ancho de una pretina básica es de 9 cm, la cual al ser confeccionada quedaría de 3.5 cm (este ancho de pretina varía de acuerdo al diseño), ya que se usan 2 cm para costura entalegada y se dobla a la mitad.
+
+        p.mb-5 Luego, ubicar sobre las líneas horizontales del rectángulo la mitad y a cada lado 5 cm con un piquete sobre cada una de ellas, estos piquetes son de ayuda en el momento de la confección.
+
+    .row.justify-content-center.mb-5
+      .col-lg-7
+        figure
+          img(src="@/assets/curso/tema2-imagen164.svg").mb-3
+          figcaption Fuente: elaboración propia en Optitex.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .row.justify-content-center.mb-4
+          .col-lg-5
+            p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Ribete
+
+        p.mb-5 El ribete es una cinta o tira de tela con que se adorna y refuerza la orilla de la boca del bolsillo.
+          br
+          br
+          | Este molde es solo un simple rectángulo que equivale a la medida de la boca del bolsillo + 5 cm para terminaciones de confección por un ancho de 8 cm
+
+        .row.justify-content-center.mb-5
+          .col-lg-7
+            figure
+              img(src="@/assets/curso/tema2-imagen165.svg").mb-3
+              figcaption Fuente: elaboración propia en Optitex.
+
+        .row.justify-content-center.mb-0
+          .col-lg-5
+            p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Fondo de bolsillo ribete
+
+        .px-5.py-4.caja.temporal--rosa.mb-5
+          p.mb-0 Es la pieza en la que se guardan las pertenencias en el bolsillo posterior, va en la tela empleada para los forros de bolsillos o fondos de bolsillos delanteros.
+            br
+            br
+            | Para realizar el molde de esta pieza se traza un rectángulo del ancho del bolsillo más 5 cm, por el largo del bolsillo (16 cm) por 2 más 8 cm más la distancia del bolsillo a la cintura (10 cm o 12 cm), así 16+16+8+12=52 cm
+
+        .row.justify-content-center.mb-4
+          .col-lg-5
+            p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Fondo de bolsillo
+
+        .row.justify-content-center.mb-5
+          .col-lg-7
+            p.mb-4 El fondo de bolsillo es una bolsa de tela; en el caso del bolsillo ribete se usa generalmente para guardar la billetera en el bolsillo del lado izquierdo y en pañuelo en el lado derecho, este molde también se desarrolla con una medida estándar para todas las tallas.
+            figure
+              img(src="@/assets/curso/tema2-imagen165.svg").mb-3
+              figcaption Fuente: elaboración propia en Optitex.
+    
+        .caja.temporal--azul.mb-5.py-5
+          .row.justify-content-center.mb-4
+            .col-lg-5
+              p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Vista del fondo de bolsillo
+          .row.justify-content-center.mb-5
+            .col-lg-7
+              p.mb-0 Al igual que la vista del bolsillo lateral es la pieza que va sobrepuesta en la parte interna del fondo de bolsillo y va en la misma tela del resto del pantalón, esta pieza también se traza con medidas estándar.
+          .row.justify-content-center.mb-4
+            .col-lg-5
+              p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Pasador
+          .row.justify-content-center.mb-0
+            .col-lg-7
+              p.mb-4  Los pasadores son tiras fijadas en sus extremos que se colocan en el contorno de la pretina y sirven para sostener la correa. El tamaño, la forma y la cantidad de pasadores depende del diseño que se esté realizando, sin embargo, el jean clásico lleva cinco pasadores de 1.2 cm de ancho por 6.5 cm o 7 cm de largo. Se ubican así: uno en cada pernera delantera justo en la boca de bolsillo, uno en el centro del tiro posterior y uno en cada pernera posterior a 4 cm o 5 cm del costado.  Para construirlo se realiza un rectángulo de 3.5 cm de ancho por 40 cm de largo.
+              figure
+                img(src="@/assets/curso/tema2-imagen166.svg")
+              
+
+
+    
+    
     //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
     //- se encuentra en src/components/Muestras.vue
     //- Una vez el componente "Muestras" no se necesite 
@@ -1177,6 +1525,140 @@ export default {
         titulo: '',
         texto: 'Escalado en nido, camisa clásica masculina.',
         imagen: require('@/assets/curso/tema2-imagen110.jpg'),
+      },
+    ],
+    datosSlyder9: [
+      {
+        titulo: '',
+        texto:
+          '● Primero: desde el largo total del rectángulo hacia arriba mide el ancho del dobladillo y traza <strong>línea de largo de pantalón.</strong><br>● Segundo: desde la línea de cintura hacia abajo medir el largo de tiro, si no se cuenta con esta medida se puede deducir así: ¼ de contorno de cadera + 2 cm. Donde da esta medida, traza una línea horizontal llamada <strong>línea de base.</strong><br>● Tercero: desde la línea de largo de pantalón hacia arriba medir la mitad de la medida de entrepierna (o sea, desde largo del pantalón hasta la línea de base) más 5 cm y traza una línea horizontal llamada <strong>línea de rodilla.</strong><br><br><strong>Nota: línea superior horizontal del rectángulo, es llamada línea de cintura.</strong>',
+        imagen: require('@/assets/curso/tema2-imagen127.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Prolongar línea de cadera, hacia afuera con la medida de un décimo (1/10) de semicadera, para formar la curva al tiro. Esta misma medida ubicarla hacia arriba, haciendo una seña cómo se observa en el dibujo.<br><br><strong>Nota: la semicadera corresponde a la mitad de medida de contorno de cadera.</strong>',
+        imagen: require('@/assets/curso/tema2-imagen128.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Del ángulo formado por las dos últimas medidas, marcar en diagonal (45°) 2 cm y pasando por los 3 últimos puntos unir con curva para formar el tiro.',
+        imagen: require('@/assets/curso/tema2-imagen129.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Para ubicar la línea de aplome se toma la medida de la línea de base incluyendo el tiro y se marca la mitad. A partir de este punto se escuadra verticalmente hasta el extremo de largo total de pantalón.',
+        imagen: require('@/assets/curso/tema2-imagen130.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Marcar las medidas de rodilla de forma equitativa a cada lado de la línea de aplome como lo muestra el dibujo. Lo mismo con la medida de bota y unir los puntos para formar el costado y la entrepierna.<br><br><strong>Nota: La medida de la rodilla y de la bota dependen del diseño a realizar, para el pantalón clásico talla 32 se puede trabajar como medida estándar 25 cm de semirodilla (12.5 cm a cada lado) y 22 cm de ancho bota (11 cm a cada lado).</strong>',
+        imagen: require('@/assets/curso/tema2-imagen131.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Entrar y bajar 1 cm en el vértice de línea de cintura por tiro (vértice superior derecho del rectángulo). Desde este último punto, marcar la medida de cintura (¼ de contorno de cintura) más 2 cm en la línea de cintura y termina con semicurva el costado',
+        imagen: require('@/assets/curso/tema2-imagen132.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: 'Quedando así la pernera delantera.',
+        imagen: require('@/assets/curso/tema2-imagen133.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+    ],
+    datosSlyder10: [
+      {
+        titulo: '',
+        texto:
+          'Usando de guía el molde de la pernera delantera, aumentar sobre el costado y entrepierna 2 cm hacia afuera sobre la línea de rodilla y la línea de largo total. Luego unir los puntos con una recta como en la imagen.',
+        imagen: require('@/assets/curso/tema2-imagen135.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Aumentar en la línea de base desde el costado, hacia afuera 2,5cm y unir este punto, con los 2cm que salieron en rodilla en el paso anterior.',
+        imagen: require('@/assets/curso/tema2-imagen136.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Desde el ángulo formado por la línea de tiro y la línea de base hacia la izquierda entrar 0.5 cm y hacer una marcación.',
+        imagen: require('@/assets/curso/tema2-imagen137.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Desde el vértice de centro frente -cintura del delantero entrar 3 cm y colocar una seña',
+        imagen: require('@/assets/curso/tema2-imagen138.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'A continuación, unir en línea recta inclinada el punto de los 0,5 cm con los 3 cm marcados anterior, prolongándola hacia arriba 3 cm.',
+        imagen: require('@/assets/curso/tema2-imagen139.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Sobre la línea anterior, desde el ángulo formado por la línea de base y esta, hacer una marca hacia arriba con una medida igual a un sexto (1/6) de base.',
+        imagen: require('@/assets/curso/tema2-imagen140.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: 'Ahora prolongar 10 cm la línea de cintura hacia la afuera.',
+        imagen: require('@/assets/curso/tema2-imagen141.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'A partir de los 3 cm que se subió en el paso 5, colocar la regla inclinada, cayendo sobre la prolongación de la línea de cintura y medir 1/4 de cintura más 7 cm (estos 7 cm son 4 cm para costuras del delantero y posterior y 3 cm para la pinza de la parte posterior).',
+        imagen: require('@/assets/curso/tema2-imagen142.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Desde la línea de base y, sobre la línea de aplome bajar 1 cm, escuadrarlo hacia el tiro y prolongar esta línea, con una medida igual a 1/6 de base.',
+        imagen: require('@/assets/curso/tema2-imagen143.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'En el ángulo que se forma entre las líneas de tiro y base posterior, medir 3 cm en diagonal (45°) y trazar una curva que una los 3 puntos.',
+        imagen: require('@/assets/curso/tema2-imagen144.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Para realizar la pinza posterior del pantalón clásico, ubicar la mitad (½) de cintura del posterior, marcar 1.5 cm hacia cada lado y sobre la seña que indica la mitad (½) de cintura escuadra hacia abajo de 10 a 12 cm, según el largo de pinza deseado. Dibujar la pinza uniendo los puntos de los lados con la punta o vértice de pinza.',
+        imagen: require('@/assets/curso/tema2-imagen145.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: 'Quedando así, la pernera posterior:',
+        imagen: require('@/assets/curso/tema2-imagen146.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
     ],
   }),

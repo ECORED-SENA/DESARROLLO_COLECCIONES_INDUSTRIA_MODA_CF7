@@ -7,12 +7,16 @@
       :id="getId(index)"
     )
       .row
-        .col-lg-6.order-lg-2.mb-4.mb-lg-0
+        .mb-4.mb-lg-0(
+          :class="`${type === 'normal' ? 'col-lg-6' : 'col-lg-7'} ${inverted ? 'order-start' : 'order-lg-2'}`"
+        )
           figure.slyder-b__img
             img(:src='item.imagen', :alt='item.leyendaImagen')
             figcaption(v-if="item.leyendaImagen" v-html="item.leyendaImagen")
 
-        .col-lg-6.order-lg-1
+        .mb-lg-0(
+          :class="`${type === 'normal' ? 'col-lg-6' : 'col-lg-5'} ${inverted ? 'order-end' : '.order-lg-1'}`"
+        )
           h3.titulo-slyder-special(v-html="item.titulo")
           p.mb-3(v-html="item.texto")
           .slyder__action
@@ -36,6 +40,16 @@ export default {
   name: 'SlyderEspecial',
   components: { ScrollHorizontal },
   mixins: [slyderMixins],
+  props: {
+    type: {
+      type: String,
+      default: 'normal',
+    },
+    inverted: {
+      type: Boolean,
+      default: false,
+    },
+  },
   data: () => ({
     mostrarIndicador: true,
   }),
