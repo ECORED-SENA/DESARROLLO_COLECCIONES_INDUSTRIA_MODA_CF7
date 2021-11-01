@@ -841,6 +841,57 @@
         p.mb-0 Delantero izquierdo
       .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
         p.mb-0 Pico izqdo. cuello
+      .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
+        p.mb-0 Pico dcho. cuello
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
+        p.mb-0 Puño derecho centro
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
+        p.mb-0 Encima bolsillo izquierdo
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
+        p.mb-0 Centro bolsillo izquierdo
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
+        p.mb-0 Debajo bolsillo izquierdo
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
+        p.mb-0 Delantero izqdo. 5º botón
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
+        p.mb-0 Delantero dcho. 5º botón
+      .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
+        p.mb-0 Delantero izqdo. 4º botón
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
+        p.mb-0 Bolsillo izquierdo esquina derecha
+      .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
+        p.mb-0 Delantero derecho. 4º botón
+      .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
+        p.mb-0 Delantero izquierdo 6º botón
+      .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
+        p.mb-0 Puño izquierdo esquina inferior
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
+        p.mb-0 Puño izquierdo esquina superior
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
+        p.mb-0 Puño derecho esquina inferior
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
+        p.mb-0 Puño derecho esquina superior
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
+        p.mb-0 Izquierda altura 7º botón
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
+        p.mb-0 Derecha altura 7º botón
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
+        p.mb-0 Izquierda entre 7º y 8º botón
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
+        p.mb-0 Derecha entre 7º y 8º botón
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
+        p.mb-0 Bajo delantero izquierdo
+      .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
+        p.mb-0 Interior canesú
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
+        p.mb-0 Tirilla interior
+      .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
+        p.mb-0 Encima bolsillo derecho
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
+        p.mb-0 Centro bolsillo derecho
+      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
+        p.mb-0
+
 
 
     .row.justify-content-center
