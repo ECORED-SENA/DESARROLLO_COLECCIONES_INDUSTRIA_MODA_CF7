@@ -890,6 +890,8 @@
       .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
         p.mb-0 Centro bolsillo derecho
       .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
+        p.mb-0 Debajo bolsillo derecho
+      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
         p.mb-0
 
 
