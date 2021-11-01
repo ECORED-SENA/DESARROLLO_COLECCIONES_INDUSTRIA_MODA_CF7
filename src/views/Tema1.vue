@@ -32,7 +32,7 @@
         figure
           img(src="@/assets/curso/tema1-imagen3.svg")
       .col-md-10.mb-5
-        p.mb-0 El ejercicio del patronaje comienza por el análisis y toma de medidas del cuerpo humano, su constitución, dimensiones, proporciones y tipología, para así, interpretar la construcción adecuada de cada molde o pieza y cumplir con los requerimientos de la prenda (Gutiérrez Rengifo et al., 2011). 
+        p.mb-0 El ejercicio del patronaje comienza por el análisis y toma de medidas del cuerpo humano, su constitución, dimensiones, proporciones y tipología, para así, interpretar la construcción adecuada de cada molde o pieza y cumplir con los requerimientos de la prenda (Gutiérrez Rengifo et al., 2011).
       .col-md-10.mb-4
         figure.mb-0
           img(src="@/assets/curso/tema1-imagen4.jpg")
@@ -59,7 +59,7 @@
       .col-md-8
         .cajon-adicional--con-bordes.px-3.py-2.mb-5
           p.mb-0 (Adaptado de: Carrera de Diseño y Gestión en Moda, 2015a).
-    
+
     Separador
 
     #t_1_2.titulo-segundo
@@ -94,7 +94,7 @@
                 p.mb-0.px-5 Superficie comprendida dentro de un perímetro, así el área se refiere a la superficie de cada una de las piezas, la suma de éstas será el área del modelo.
             .row.px-5.py-4(titulo="Banda de cuello")
               .col-12
-                p.mb-0.px-5 También llamada pie de cuello, es la parte inferior del cuello camisero. 
+                p.mb-0.px-5 También llamada pie de cuello, es la parte inferior del cuello camisero.
             .row(titulo="Bisectriz")
               .col-lg-5.mb-lg-0.mb-5
                 figure
@@ -106,7 +106,7 @@
                 p.mb-0.px-5 Prenda superior de tela fina, similar a la camisa, que usan las mujeres y los niños.
             .row.px-5.py-4(titulo="Bocamanga")
               .col-12
-                p.mb-0.px-5 Parte inferior de las mangas, también conocida como bajo o ruedo. 
+                p.mb-0.px-5 Parte inferior de las mangas, también conocida como bajo o ruedo.
             .row.px-5.py-4(titulo="Bolsillo")
               .col-12
                 p.mb-0.px-5 Pieza que va cosida y forma una bolsa utilizada para guardar objetos en las prendas y accesorios, puede ser sobrepuesto (tipo parche) o interno (de ribete o lateral).
@@ -127,10 +127,10 @@
                 p.mb-0.px-5 Serie de puntadas que une dos piezas cosidas, en patronaje se denomina costura a la margen que se adiciona para este fin.
             .row.px-5.py-4(titulo="Cuello")
               .col-12
-                p.mb-0.px-5 Pieza superior de la camisa que rodea el cuello. Para la elaboración del patrón se requieren las medidas de escote delantero y escote espalda. 
+                p.mb-0.px-5 Pieza superior de la camisa que rodea el cuello. Para la elaboración del patrón se requieren las medidas de escote delantero y escote espalda.
             .row.px-5.py-4(titulo="Cuerpo")
               .col-12
-                p.mb-0.px-5 Parte de las prendas superiores que va desde los hombros y hasta la cintura. 
+                p.mb-0.px-5 Parte de las prendas superiores que va desde los hombros y hasta la cintura.
             .row.px-5.py-4(titulo="Curva")
               .col-12
                 p.mb-0.px-5 Línea que se aparta de manera continua de la dirección recta, sin formar ángulos.
@@ -187,7 +187,7 @@
                 p.mb-0.px-5 Marcación de los patrones con la simbología y codificación necesarias para indicar características y acciones a realizar al momento de preparar y efectuar el corte y confección de la prenda.
             .row.px-5.py-4(titulo="Lateral")
               .col-12
-                p.mb-0.px-5 El lado o el costado de una pieza. 
+                p.mb-0.px-5 El lado o el costado de una pieza.
             .row.px-5.py-4(titulo="Línea")
               .col-12
                 p.mb-0.px-5 Adicional al concepto de línea en dibujo, en patronaje se refiere al conjunto de prendas de vestir dirigidas a un mercado específico, por ejemplo: línea femenina, línea masculina, línea infantil y línea interior, entre otras.
@@ -229,7 +229,7 @@
                 p.mb-0.px-5 Recta o plano que forma ángulo recto (de 90º) con otra recta o plano, en patronaje también conocido como escuadrar.
             .row.px-5.py-4(titulo="Pieza")
               .col-12
-                p.mb-0.px-5 Molde o patrón de cada una de las partes que, en conjunto, componen una prenda. 
+                p.mb-0.px-5 Molde o patrón de cada una de las partes que, en conjunto, componen una prenda.
             .row.px-5.py-4(titulo="Pinza")
               .col-12
                 p.mb-0.px-5 Pequeño pliegue cosido que termina en punta, que permite una mejor adaptación de la prenda a las formas del cuerpo (caderas, pecho, entre otras). La pinza se dibuja abierta en los patrones bases, siendo el largo de pinza la altura de la misma, y la profundidad de pinza la anchura.
@@ -287,7 +287,7 @@
             .row.px-5.py-4(titulo="Vivo")
               .col-12
                 p.mb-0.px-5 Franja de tejido o tela cortada al bies que se coloca para rematar la prenda, sustituyendo a la vista o el ruedo, también utilizadas para rematar aberturas y formar así bolsillos y ojales.
-    
+
     Separador
 
     #t_1_3.titulo-segundo
@@ -295,10 +295,10 @@
 
     .row.justify-content-center.align-items-center.caja-cafe.g-0.mb-5
       .col-lg-9.mb-lg-0.mb-5
-        p.mb-0.px-5 Antes de comenzar con el desarrollo de patrones es necesario conocer cuáles son las principales herramientas que existen para facilitar la construcción de la moldería, sus nombres y usos en el proceso del patronaje. 
+        p.mb-0.px-5 Antes de comenzar con el desarrollo de patrones es necesario conocer cuáles son las principales herramientas que existen para facilitar la construcción de la moldería, sus nombres y usos en el proceso del patronaje.
           br
           br
-          | Se agrupan en tres bloques dependiendo de su funcionalidad: herramientas de medición y construcción (cinta métrica, escuadras, reglas curvas, alfileres), herramientas de trazo y marcado (lápices de marcado, tiza, piqueteadora, perforadora) y, por último, herramientas de corte y pulido (tijeras, pulidora, desbaratador). 
+          | Se agrupan en tres bloques dependiendo de su funcionalidad: herramientas de medición y construcción (cinta métrica, escuadras, reglas curvas, alfileres), herramientas de trazo y marcado (lápices de marcado, tiza, piqueteadora, perforadora) y, por último, herramientas de corte y pulido (tijeras, pulidora, desbaratador).
       .col-lg-3
         figure
           img(src="@/assets/curso/tema1-imagen17.jpg")
@@ -361,25 +361,25 @@
           .cajon.color-primario.p-5.mb-4
             p.mb-0 Como su nombre lo indica, son aquellas herramientas que permitir cortar los patrones y eliminar algunas hebras que quedan en el proceso de confección de la muestra.
           h3.titulo-slyder-special Tijeras
-          p.mb-4 En el departamento de diseño se requieren diferentes tipos de tijeras y en sí, durante todo el proceso de diseño y desarrollo de prendas de vestir se deben tener tijeras especiales para cada actividad, así: 
+          p.mb-4 En el departamento de diseño se requieren diferentes tipos de tijeras y en sí, durante todo el proceso de diseño y desarrollo de prendas de vestir se deben tener tijeras especiales para cada actividad, así:
           .row.justify-content-center
             .col-lg-4.mb-lg-0.mb-5
               figure
                 img(src="@/assets/curso/tema1-imagen31.jpg")
             .col-lg-8
               ul.lista-ul--color
-                li 
+                li
                   i.fas.fa-angle-right
                   | Tijeras para cortar papel.
-                li 
+                li
                   i.fas.fa-angle-right
                   | Tijeras para cortar tela en recto.
-                li 
+                li
                   i.fas.fa-angle-right
                   | Tijeras para contar en zigzag.
-                li 
+                li
                   i.fas.fa-angle-right
-                  | Tijeras para cortar hebras. 
+                  | Tijeras para cortar hebras.
           .bloque-texto-d.color-secundario.p-4.mt-2.mb-5
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
@@ -387,7 +387,7 @@
               i.fas.fa-quote-right
             .bloque-texto-d__autor
               .h6.mb-0 - Palacios, s.f.).
-          p.mb-5.text-center En la imagen a continuación se pueden observar: 
+          p.mb-5.text-center En la imagen a continuación se pueden observar:
         .col-12.mb-5
           .row.justify-content-center
             .col-lg-3.mb-lg-0.mb-4
@@ -457,7 +457,7 @@
         p.mb-5 Por lo anterior es que, al momento de medir el cuerpo, se toman medidas de contornos (perimetrales), longitudinales verticales (largos) y longitudinales horizontales (anchos), que luego se traducirán sobre el patrón. Con el fin de mantener la simetría en los moldes, las medidas de contorno se trabajan por cuartos (1/4) con eje en el centro frente y el centro espalda.
           br
           br
-          | La antropometría, es un término proveniente del griego anthropos (hombre) y metrikos (medida), es el estudio del tamaño, proporción, forma y composición del cuerpo humano. Se basa en las medidas corporales, el somatotipo, el estudio de la proporcionalidad y de la composición corporal. 
+          | La antropometría, es un término proveniente del griego anthropos (hombre) y metrikos (medida), es el estudio del tamaño, proporción, forma y composición del cuerpo humano. Se basa en las medidas corporales, el somatotipo, el estudio de la proporcionalidad y de la composición corporal.
         p.mb-5.border-bottom.text-center Existen algunos términos de la antropometría que se emplean en la moda, tales como:
 
       .col-lg-11.mb-5
@@ -496,7 +496,7 @@
               | Dando como resultado los cuadros de tallas y medidas, los cuales deben corresponder al perfil del consumidor de la marca.
             img(src="@/assets/curso/tema1-imagen42.svg")
           .col-lg-5
-            figure
+            figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf\#page=23'))")
               img(src="@/assets/curso/tema1-imagen43.svg")
       .col-lg-9.mb-5
         .caja.temporal--azul.text-center.py-3
@@ -504,32 +504,32 @@
       .col-lg-11.mb-4
         p.mb-5 La ergonomía hace referencia a la adaptación entre los objetos (máquinas, muebles, utensilios, entre otros) y la persona que los emplea, para lograr una mayor comodidad y eficacia. Para el caso de la moda, la ergonomía del vestuario, es el ajuste de la ropa sobre el cuerpo humano, cubriendo de manera óptima cada una de sus partes y permitiendo la performance de la actividad para la que está diseñado cada producto.
       .col-lg-9.mb-4
-        figure.mb-5 
+        figure.mb-5
           img(src="@/assets/curso/tema1-imagen44.jpg")
         .row.justify-content-center
           .col-lg-6.mb-lg-0.mb-5
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/I_U1_Manual_toma_medidas_antropometricas_aplicadas_industria_vestuario_Inamod.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p 
-                  strong Anexo. 
-                  | Manual para la toma y registro de medidas antropométricas aplicadas en la industria del diseño de vestuario 
+                p
+                  strong Anexo.
+                  | Manual para la toma y registro de medidas antropométricas aplicadas en la industria del diseño de vestuario
           .col-lg-6.mb-lg-0.mb-5
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/K_U1_Dimensiones_antropometricas_de_la_poblacion_lationamericana.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p 
-                  strong Anexo. 
+                p
+                  strong Anexo.
                   | Dimensiones antropométricas de población latinoamericana.
           .col-lg-6
             a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/icono-youtube.svg")
               .anexo__texto
-                p 
-                  strong Anexo. 
+                p
+                  strong Anexo.
                   | Como entender el patronaje o moldería de ropa.
 
     Separador
@@ -544,7 +544,7 @@
     figure.mb-5
       img(src="@/assets/curso/tema1-imagen45.jpg")
 
-    p.mb-5 Como se ha expresado la margen de costura corresponde directamente a la operación, parte del patrón y a la máquina con que será confeccionada, es por ello que el patronista debe prestar atención a los detalles consignados en la ficha técnica, documento en el cual se reúne toda esta información. 
+    p.mb-5 Como se ha expresado la margen de costura corresponde directamente a la operación, parte del patrón y a la máquina con que será confeccionada, es por ello que el patronista debe prestar atención a los detalles consignados en la ficha técnica, documento en el cual se reúne toda esta información.
       br
       br
       | A continuación, se indicarán algunos ejemplos
@@ -557,37 +557,37 @@
               img(src="@/assets/curso/tema1-imagen46.jpg")
           .col-lg-9.mb-4
             ol.lista-ol--cuadro.lista-ol--separador.list-with--borders.py-4
-              li 
+              li
                 .lista-ol--cuadro__vineta.circle
                   span 1
                 | La fileteadora puntada sencilla utilizada generalmente en tejidos de punto requiere un margen de entre 0,25 cm a 0,5 cm dependiendo del tipo de prenda y la función que va a cumplir.
-              li 
+              li
                 .lista-ol--cuadro__vineta.circle
                   span 2
                 | La fileteadora con puntada de seguridad (utilizada en tejido plano) requiere de 0,7 cm, 1,2 cm o 1,5 cm; lo cual depende del ajuste de la máquina y el requerimiento de la parte o costura.
-              li 
+              li
                 .lista-ol--cuadro__vineta.circle
                   span 3
                 | Las cerradoras de codo (empleadas en costados de camisas y pantalones) utilizan entre 1,2 cm y 2,5 cm de margen de costura, esto debido a que la tela se dobla para ser encarterada.
-              li 
+              li
                 .lista-ol--cuadro__vineta.circle
                   span 4
                 | Para los ruedos o bajos dependerá del procedimiento que se realice, es decir, si se hará sencillo en una recubridora, sólo habrá que dar la ventaja deseada en el ruedo (Ej. 2,5 cm), mientras que si éste se hará dobladillado (doblado y vuelto a doblar) en plana se deberá adicionar la ventaja del ruedo más la del doblez (Ej. 2,5 cm + 1 cm de doblez).
           .col-lg-12
             p.text-center.mb-4.fw-bold Cuando no se cuenta con la información de las costuras ¿cuánto margen de costura añadir? ¿Hay una medida universal?
             ol.lista-ol--cuadro
-              li 
+              li
                 .lista-ol--cuadro__vineta
                   span a
-                | Los patrones comerciales que ya incluyen margen de costura generalmente utilizan un margen entre 1.5 cm y 2.0 cm. 
-              li 
+                | Los patrones comerciales que ya incluyen margen de costura generalmente utilizan un margen entre 1.5 cm y 2.0 cm.
+              li
                 .lista-ol--cuadro__vineta
                   span b
-                | En tejidos de punto lo normal es darle un margen de costura de 0.6 cm a 1 cm. 
-              li 
+                | En tejidos de punto lo normal es darle un margen de costura de 0.6 cm a 1 cm.
+              li
                 .lista-ol--cuadro__vineta
                   span c
-                | Para tejidos no elásticos se puede dejar 1 cm de costuras por todos los lados excepto por los dobladillos o bajos. 
+                | Para tejidos no elásticos se puede dejar 1 cm de costuras por todos los lados excepto por los dobladillos o bajos.
       .col-lg-6.mb-5
         .caja.temporal--azul.text-center.py-3
           p.mb-0 En cuanto a los márgenes de costura para hacer los dobladillos:
@@ -599,22 +599,22 @@
               img(src="@/assets/curso/tema1-imagen47.jpg")
           .col-lg-8
             ul.lista-ul--color
-              li 
+              li
                 i.lista-ul__vineta
                 | Para una falda circular completa: 1.25 cm.
-              li 
+              li
                 i.lista-ul__vineta
                 | Falda circular media: 2.5 cm.
-              li 
+              li
                 i.lista-ul__vineta
                 | Falda con vuelo: 3.7 cm.
-              li 
+              li
                 i.lista-ul__vineta
                 | Falda recta o pantalones: 5 cm.
-              li 
+              li
                 i.lista-ul__vineta
                 | Para dobladillos simples que se recogen por el revés se dejan 4 cm, 1 cm para pulir el borde y 3 cm para el dobladillo en sí.
-    
+
       .col-lg-6.mb-5
         .caja.temporal--rosa.text-center.py-3
           p.mb-0 Cómo añadir el margen de costura
@@ -635,7 +635,7 @@
               figure.mb-5
                 img(src="@/assets/curso/tema1-imagen57.svg")
                 figcaption Fuente: Celestecielo, s.f.
-      .col-lg-11.mb-5 
+      .col-lg-11.mb-5
         .row.justify-content-center
           .col-lg-7.mb-lg-0.mb-5
             figure
@@ -644,27 +644,27 @@
             p.mb-4 Es importante establecer el tipo de prenda a la que se le añadirán, si es interior o exterior, la línea a la que se dirige (femenino, masculino, infantil), el tejido que se utilizará y los puntos en que se ajustará o sujetará en el cuerpo humano. Las prendas se pueden clasificar en tres pieles o capas así:
             .cajon.color-primario.p-5.mb-5
               ul.lista-ul--color
-                li 
+                li
                   i.lista-ul__vineta
                   p.mb-0
-                    strong Primera piel:  
+                    strong Primera piel:
                     | están totalmente en contacto con la piel (prendas íntimas o ropa interior).
-                li 
+                li
                   i.lista-ul__vineta
                   p.mb-0
-                    strong Segunda piel:  
+                    strong Segunda piel:
                     | van sobre las anteriores y corresponden a las prendas exteriores.
-                li 
+                li
                   i.lista-ul__vineta
                   p.mb-0
-                    strong Tercera piel:  
+                    strong Tercera piel:
                     | corresponden a los abrigos y chaquetas, van sobre las prendas exteriores.
 
             p.mb-0 Según el tipo de país en el que se viva y su clima, pueden existir más capas de vestir o pieles. Cada una de las capas tendrá mayor capacidad o desahogo que la anterior, con el fin de poder cubrir cómodamente el cuerpo.
       .col-lg-9
         .titulo-sexto.color-acento-contenido
           span Tabla: valores de desahogo estimados según el tipo de prenda y volumen deseado (expresados en centímetros).
-        .tabla-a.color-acento-botones.mb-5 
+        .tabla-a.color-acento-botones.mb-5
           table
             caption  Fuente: Ajuste y holguras (Goyes, s.f.).
             thead
@@ -726,7 +726,7 @@
                 td 14
                 td 16
         p.mb-5.text-center En función al volumen de los tejidos los anteriores valores pueden ser ajustados así:
-        .tabla-a.color-acento-botones.mb-5 
+        .tabla-a.color-acento-botones.mb-5
           table
             caption  Fuente: Ajuste y holguras (Goyes, s.f.).
             thead
@@ -748,7 +748,7 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               span Tabla de reducción de medidas para tejido de punto con porcentaje de elongación del 25%.
-            .tabla-a.color-acento-botones.mb-5 
+            .tabla-a.color-acento-botones.mb-5
               table
                 caption  Fuente: Ajuste y holguras (Goyes, s.f.).
                 tbody
@@ -791,7 +791,7 @@
                 img(src="@/assets/curso/tema1-imagen61.jpg")
           .row(titulo="Silueta amplia – Large fit.")
             .col-lg-6.mb-lg-0.mb-5
-              p.mb-5 Esta silueta se usa para dar mucho vuelo y movilidad a los diseños. Se usan telas rígidas tanto livianas, medianas como pesadas.  Son prendas muy sueltas con gran movilidad. Se caracteriza por tener sisas muy grandes, no se marca la cintura, muchos fruncidos. Este tipo de prendas tienen holgura hasta de 20 cms en los contornos. 
+              p.mb-5 Esta silueta se usa para dar mucho vuelo y movilidad a los diseños. Se usan telas rígidas tanto livianas, medianas como pesadas.  Son prendas muy sueltas con gran movilidad. Se caracteriza por tener sisas muy grandes, no se marca la cintura, muchos fruncidos. Este tipo de prendas tienen holgura hasta de 20 cms en los contornos.
               a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
@@ -814,7 +814,7 @@
               .anexo__icono
                 img(src="@/assets/curso/icono-youtube.svg")
               .anexo__texto
-                p Enlace video.  Técnicas para marcar márgenes de costura 
+                p Enlace video.  Técnicas para marcar márgenes de costura
           .col-lg-6
             a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
               .anexo__icono
@@ -822,7 +822,7 @@
               .anexo__texto
                 p Enlace video.  Margen de costura en pinzas, esquinas y bajos | Patronaje para principiantes
           .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/N_U1_valores_de_desahogo_estimados_segun_el_tipo_de_prenda_y_volumen_deseado_2.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -840,9 +840,9 @@
         figure
           img(src="@/assets/curso/tema1-imagen64.jpg")
       .col-lg-7
-        p.mb-4 Para la toma de medidas se debe contar con unas condiciones adecuadas del espacio y unos equipos y herramientas apropiados. El espacio deberá ser agradable y propiciar privacidad, para que así la persona tenga la disposición voluntaria de participar y se sienta en confianza. 
+        p.mb-4 Para la toma de medidas se debe contar con unas condiciones adecuadas del espacio y unos equipos y herramientas apropiados. El espacio deberá ser agradable y propiciar privacidad, para que así la persona tenga la disposición voluntaria de participar y se sienta en confianza.
         .cajon.color-acento-contenido.p-5.mb-4
-          p.mb-0  Disponer del espacio suficiente en el que estarán el sujeto a medir, el antropómetra (persona que toma las medidas) y el anotador (persona que escribe las medidas). 
+          p.mb-0  Disponer del espacio suficiente en el que estarán el sujeto a medir, el antropómetra (persona que toma las medidas) y el anotador (persona que escribe las medidas).
         p.mb-0 La persona a medir deberá estar en ropa interior o ropa ligera (el traje de baño de dos piezas sin rellenos, o trusa, es el ideal para mujeres), no debe portar calzado ni medias, el cabello recogido (en caso de tenerlo largo). Asumirá una postura erguida de pie, con la cabeza al frente y los ojos mirando a un punto fijo, las extremidades superiores relajadas a los lados del cuerpo, con los dedos extendidos apuntando hacia abajo (la postura de las extremidades superiores podrá variar según la medida a tomar), los pies levemente separados. Se mantendrá en estado de relajación, con la respiración reposada y relajada, ya que puede afectar las medidas del tórax.
 
     .row.justify-content-center.mb-5
@@ -865,7 +865,7 @@
             .col-md-5
               figure
                 img(src='@/assets/curso/tema1-imagen66.jpg', alt='Texto que describa la imagen')
-          
+
           .row
             .col-md-5.mb-4.mb-md-0
               figure
@@ -904,7 +904,7 @@
             .row.justify-content-center
               .col-md-11
                 p.mb-4
-                  strong Estatura:   
+                  strong Estatura:
                   | distancia vertical desde el suelo hasta la parte superior de la cabeza.
                 figure
                   img(src="@/assets/curso/tema1-imagen73.jpg")
@@ -917,7 +917,7 @@
                       img(src="@/assets/curso/tema1-imagen71.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de cuello:   
+                      strong Contorno de cuello:
                       | perímetro del cuello al colocar la cinta métrica por debajo de la nuez de adán.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -926,7 +926,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno completo de hombro a hombro –bandeja:   
+                      strong Contorno completo de hombro a hombro –bandeja:
                       | perímetro tomado al nivel de la parte superior de ambos brazos.
             .row.justify-content-center
               .col-md-10
@@ -936,7 +936,7 @@
                       img(src="@/assets/curso/tema1-imagen74.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de busto:   
+                      strong Contorno de busto:
                       | perímetro horizontal máximo de busto; tomado en la parte más prominente del busto.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -945,7 +945,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Separación de busto:   
+                      strong Separación de busto:
                       | distancia horizontal existente de busto a busto, en el centro (generalmente de pezón a pezón).
 
             .row.justify-content-center
@@ -956,7 +956,7 @@
                       img(src="@/assets/curso/tema1-imagen76.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno pecho:   
+                      strong Contorno pecho:
                       | perímetro del tórax por encima del busto.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -965,7 +965,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno Submamario:   
+                      strong Contorno Submamario:
                       | perímetro justo debajo del busto.
             .row.justify-content-center
               .col-md-10
@@ -975,7 +975,7 @@
                       img(src="@/assets/curso/tema1-imagen78.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Ancho de espalda de hombro a hombro:   
+                      strong Ancho de espalda de hombro a hombro:
                       | distancia horizontal desde los puntos más laterales de los brazos (punto de acromio), por la parte posterior.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -984,7 +984,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Ancho frente de hombro a hombro:   
+                      strong Ancho frente de hombro a hombro:
                       | distancia horizontal desde los puntos más laterales de los brazos (punto de acromio), por la parte frontal.
             .row.justify-content-center
               .col-md-10
@@ -994,7 +994,7 @@
                       img(src="@/assets/curso/tema1-imagen80.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Longitud de hombro:   
+                      strong Longitud de hombro:
                       | medida horizontal desde el vértice de la unión del cuello hasta la punta del hombro, específicamente hasta el acromion.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1003,7 +1003,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Ancho de pecho de axila a axila:   
+                      strong Ancho de pecho de axila a axila:
                       | distancia horizontal entre los extremos del pecho, a nivel del cuarto espacio intercostal sobre el esternón (pliegue axilar).
             .row.justify-content-center
               .col-md-10
@@ -1013,7 +1013,7 @@
                       img(src="@/assets/curso/tema1-imagen82.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Altura de busto:   
+                      strong Altura de busto:
                       | distancia vertical desde el nacimiento del hombro en el vértice en donde se encuentra el cuello con el hombro hasta la parte más prominente del busto.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1022,7 +1022,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Longitud de busto a cintura:   
+                      strong Longitud de busto a cintura:
                       | distancia vertical desde la parte más prominente del busto hasta la cintura.
                       br
                       br
@@ -1035,7 +1035,7 @@
                       img(src="@/assets/curso/tema1-imagen84.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Longitud central frontal o centro frente:   
+                      strong Longitud central frontal o centro frente:
                       | distancia vertical entre el esternón (centro del puño o manubrio external) hasta el nivel de la cintura.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1044,7 +1044,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Longitud del centro de la espalda:   
+                      strong Longitud del centro de la espalda:
                       | distancia vertical tomada desde el centro del punto posterior del cuello (vértebra cervical o C7) hasta el nivel de la cintura.
             .row.justify-content-center
               .col-md-10
@@ -1054,7 +1054,7 @@
                       img(src="@/assets/curso/tema1-imagen86.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Longitud del brazo:   
+                      strong Longitud del brazo:
                       | distancia vertical desde punto acromial (en el hombro) hasta el punto estiloideo del cúbito (en la muñeca - apófisis estiloide del radio).
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1063,7 +1063,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de Bíceps o brazo:   
+                      strong Contorno de Bíceps o brazo:
                       | perímetro del punto medio de la distancia acromiale-radiale (hombro a codo).
             .row.justify-content-center
               .col-md-10
@@ -1073,7 +1073,7 @@
                       img(src="@/assets/curso/tema1-imagen88.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno completo de bíceps a bíceps -sobre brazos-:   
+                      strong Contorno completo de bíceps a bíceps -sobre brazos-:
                       | perímetro de bíceps a bíceps, pasando por el busto.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1082,7 +1082,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de muñeca:   
+                      strong Contorno de muñeca:
                       | perímetro de la muñeca. Coincide con la mínima circunferencia del antebrazo.
             .row.justify-content-center
               .col-md-10
@@ -1092,7 +1092,7 @@
                       img(src="@/assets/curso/tema1-imagen90.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de cintura:   
+                      strong Contorno de cintura:
                       | también llamado abdominal 1, perímetro tomado a nivel de la región más estrecha entre el punto medio de la distancia entre el borde costal (último arco costal (10ª costilla)) y la cresta iliaca (terminación de la reja costal).
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1101,7 +1101,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Perímetro abdominal:   
+                      strong Perímetro abdominal:
                       | medida de la circunferencia que pasa por debajo del ombligo.
             .row.justify-content-center
               .col-md-10
@@ -1111,7 +1111,7 @@
                       img(src="@/assets/curso/tema1-imagen92.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de cadera alta:   
+                      strong Contorno de cadera alta:
                       | perímetro de la cadera, a nivel del máximo relieve de los músculos glúteos.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1120,7 +1120,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de cadera o glúteo:   
+                      strong Contorno de cadera o glúteo:
                       | perímetro tomado desde el nivel de la máxima protuberancia de las nalgas.
             .row.justify-content-center
               .col-md-10
@@ -1130,7 +1130,7 @@
                       img(src="@/assets/curso/tema1-imagen94.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Altura de la cintura (ombligo a piso):   
+                      strong Altura de la cintura (ombligo a piso):
                       | distancia vertical desde el piso hasta el nivel de la cintura (cinta que demarca la cintura).
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1139,7 +1139,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Altura de cadera de la parte posterior:   
+                      strong Altura de cadera de la parte posterior:
                       | distancia vertical entre la cintura y la parte más prominente del glúteo.
             .row.justify-content-center
               .col-md-10
@@ -1149,7 +1149,7 @@
                       img(src="@/assets/curso/tema1-imagen96.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Tiro completo:   
+                      strong Tiro completo:
                       | distancia desde el centro de la cintura en la espalda hasta el centro delantero, pasando por la entrepierna.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1158,7 +1158,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de muslo (pliegue):   
+                      strong Contorno de muslo (pliegue):
                       | conocido como “Muslo 1”. Es el perímetro del muslo, tomando un centímetro por debajo del pliegue del glúteo.
             .row.justify-content-center
               .col-md-10
@@ -1168,7 +1168,7 @@
                       img(src="@/assets/curso/tema1-imagen98.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de muslo medio:   
+                      strong Contorno de muslo medio:
                       | perímetro situado en el punto medio entre el pliegue inguinal y la parte superior de la rótula (rodilla). Generalmente se ubica a 15 cm de la parte superior de la rótula.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1177,7 +1177,7 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de rodilla:   
+                      strong Contorno de rodilla:
                       | perímetro máximo de la rodilla, a nivel de la rótula.
             .row.justify-content-center
               .col-md-10
@@ -1187,7 +1187,7 @@
                       img(src="@/assets/curso/tema1-imagen100.jpg")
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de pantorrilla:   
+                      strong Contorno de pantorrilla:
                       | Contorno de pantorrilla: perímetro máximo de la pantorrilla a nivel de la marca del pliegue de Pantorrilla medial.
                 .row.justify-content-center.align-items-center
                   .col-lg-5.d-flex
@@ -1196,15 +1196,15 @@
                       figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
                   .col-lg-7.d-flex
                     p.mb-0
-                      strong Contorno de tobillo:   
+                      strong Contorno de tobillo:
                       | perímetro del tobillo es tomado en el punto más estrecho por encima del maléolo tibial lateral y medial, considerado el menor perímetro de la parte inferior de la pantorrilla.
         .row.justify-content-center.align-items-center.background1-especial2.border-radius.left.right.mb-5
           .col-auto.background1-especial1.border-radius.right
             figure.p-4
               img(src="@/assets/curso/tema1-imagen63.svg")
           .col
-            p.mb-0 Nota: las medidas deben ser tomadas sobre la superficie sin presionar o contraer el cuerpo con la cinta métrica y sin incluir el dedo del antropómetra. 
-        
+            p.mb-0 Nota: las medidas deben ser tomadas sobre la superficie sin presionar o contraer el cuerpo con la cinta métrica y sin incluir el dedo del antropómetra.
+
         figure
           img(src="@/assets/curso/tema1-imagen102.jpg")
       .col-lg-10
@@ -1215,17 +1215,17 @@
             figure
               img(src="@/assets/curso/tema1-imagen103.svg")
           .col-lg-5
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p Anexo. Manual de patronaje básico e interpretación de diseños.
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/I_U1_Manual_toma_medidas_antropometricas_aplicadas_industria_vestuario_Inamod.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p Anexo. Manual para la toma y registro de medidas antropométricas aplicadas en la industria del diseño de vestuario.
-        
+
     Separador
 
     #t_1_7.titulo-segundo
@@ -1270,8 +1270,8 @@
         p.mb-5 Al igual que todas las actividades humanas, el patronaje requiere de práctica y dedicación para conseguir la experticia en las diferentes líneas de vestuario y con diversos materiales.
           br
           | (Innovación y Cualificación, 2018; Lafayette, 2019)
-    
-    
+
+
     Separador
 
     #t_1_8.titulo-segundo
@@ -1281,26 +1281,26 @@
 
     .row.justify-content-center
       .col-lg-8
-        figure.mb-5 
+        figure.mb-5
           img(src="@/assets/curso/tema1-imagen113.svg")
           figcaption Fuente: Trazo, corte y confección de la falda clásica (SENA, 2014).
         p.mb-5 Además de estas convenciones, en el proceso de industrialización de la moldería se incluye la información relacionada con la clasificación de la prenda, es decir, número de la referencia, nombre del diseño, referencia, pieza a la que corresponde el patrón, toda la información que facilite su codificación y ágil interpretación del patrón.
-        figure.mb-5 
+        figure.mb-5
           img(src="@/assets/curso/tema1-imagen114.svg")
           figcaption Fuente: Trazo, corte y confección de la falda clásica (SENA, 2014).
         p.mb-5 De esta manera, la señalización e industrialización permiten al personal patronista hacer una interpretación del desarrollo del patrón, además de orientaciones al proceso de corte y confección.
-        figure.mb-5 
+        figure.mb-5
           img(src="@/assets/curso/tema1-imagen115.svg")
           figcaption Fuente: SENA, 2014.
 
       .col-lg-6.mb-lg-0.mb-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo Manual de patronaje básico e interpretación de diseños.
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/O_U1_Trazo _corte_ y_confeccion_de_la_falda.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -1324,7 +1324,7 @@
       .col-lg-10.mb-lg-0.mb-5
         .bloque-texto-c.color-secundario.p-4.mb-5
           i.fas.fa-quote-right
-          h4.mb-2 La importancia de conocer sobre acabados radica principalmente en dos razones: la primera es poder hacer selección de materiales dependiendo de la funcionalidad que se espera de la prenda, para determinar aspectos como la caída (suficiencia), control de fluidos y conservación de temperatura, entre otros. La segunda razón es lograr resaltar formas del cuerpo con el uso de materiales, es decir, las telas voluminosas o gruesas agregaran visualmente rigidez y tamaño al cuerpo que se viste. 
+          h4.mb-2 La importancia de conocer sobre acabados radica principalmente en dos razones: la primera es poder hacer selección de materiales dependiendo de la funcionalidad que se espera de la prenda, para determinar aspectos como la caída (suficiencia), control de fluidos y conservación de temperatura, entre otros. La segunda razón es lograr resaltar formas del cuerpo con el uso de materiales, es decir, las telas voluminosas o gruesas agregaran visualmente rigidez y tamaño al cuerpo que se viste.
           span -  Priest &amp; Pullen, 2001.
         p.mb-5 Los acabados se pueden clasificar en dos grandes grupos, los físicos y los químicos. Los acabados físicos son aquellos en los que, mediante el uso del calor, se modifica el tacto de la tela mediante la alteración de su estructura superficial, es decir, hay una modificación de la textura como lo son los grabados. Estos pueden ser sobre el tejido seco o húmedo.
         .tarjeta.tarjeta--gris.p-4.mb-5
@@ -1338,14 +1338,14 @@
                   img(src="@/assets/curso/tema1-imagen118.jpg")
                   figcaption Fuente: annamcneary.com (s.f.).
               .col-lg-8
-                p.mb-4.caja.temporal--azul.p-3.text-center Dentro de los acabados secos 
+                p.mb-4.caja.temporal--azul.p-3.text-center Dentro de los acabados secos
                   br
                   | (sin presencia de vapor o agua) están:
                 p.mb-5
-                  strong Calandrado:  
+                  strong Calandrado:
                   | Por medio de la fricción, presión y calor se obtiene un aspecto liso, brillante y compacto. Las fibras que sobresalen del tejido – y que son las causantes de la opacidad- son plegadas obteniendo mayor lisura y por ende aumentando su reflectancia, lo que da su apariencia de brillo. Es un acabado pasajero que disminuye con el lavado.
                 p.mb-5
-                  strong Gofrado:  
+                  strong Gofrado:
                   | También conocido como grabado. Es el proceso en donde un cilindro metálico tallado o grabado ejerce fricción y calor sobre la tela, como en el calandrado y transfiere el diseño a la tela. El efecto puede ser permanente mediante el uso de sustancias tipo resinas que termofijan (fijación por medio de calor) el material.
             .row.justify-content-center(titulo="")
               .col-12
@@ -1356,16 +1356,16 @@
                       figcaption Fuente: experimentaciontextilartesanal. wordpress.com (2016).
                   .col-lg-8
                     p.mb-0
-                      strong Esmerilado (lijado o arenado):  
+                      strong Esmerilado (lijado o arenado):
                       | da la apariencia de textura similar a la piel de durazno. La tela pasa por una maquina con varios rodillos que contienen un material abrasivo desgastando superficialmente el tejido. Este proceso se puede realizar de manera manual o artesanal con el uso de lijas de diferentes calibres.
                       br
                       br
-                      strong Cepillado:  
+                      strong Cepillado:
                       | se utiliza para limpiar impurezas, levantar o acostar el pelo de loes tejidos perchados o hacer un esmerilado ligero.
                 .row.justify-content-center
                   .col-lg-8.mb-lg-0.mb-5
                     p.mb-0
-                      strong Perchado:   
+                      strong Perchado:
                       | este acabado genera un efecto aislante y aumenta la cobertura del material dando la sensación de ser más abrigadora aumentando su suavidad por unas de las caras de la tela.
                   .col-lg-4
                     figure.mb-0
@@ -1381,11 +1381,11 @@
                       figcaption Fuente: tintoreriaindustrial.com (s.f.)
                   .col-lg-8
                     p.mb-0
-                      strong Sanforizado:   
+                      strong Sanforizado:
                       | lo que se pretende con este acabado es estabilizar las dimensiones aplicando vapor y fuerza, lo que produce un encogimiento comprensivo del material. La tela es sometida a tensión sobre una plancha o bandeja de goma, mientras se aplica vapor.
                       br
                       br
-                      strong Compactado:  
+                      strong Compactado:
                       | es un proceso similar al sanforizado, la diferencia es que se usa en tejidos de algodón 100% para garantizar al máximo su estabilidad dimensional durante todo el proceso de lavandería y teñido en los cuales por la fuerza de tensión ejercida sobre el material tiende a estirarse, esto es lo que pasa en ocasiones cuando las prendas son lavadas de manera doméstica y se encogen
             .row.justify-content-center(titulo="")
               .col-lg-4
@@ -1393,7 +1393,7 @@
                   img(src="@/assets/curso/tema1-imagen122.jpg")
               .col-lg-8
                 p.mb-0
-                  strong Batanado:   
+                  strong Batanado:
                   | con este acabado, mediante la aplicación de humedad combinada con calor, fricción y compresión, se pretende fieltrar los tejidos de lana, éstos pierden dimensiones, aumentan su espesor, peso por metro cuadrado y ofrecen más resistencia a la penetración.
                   br
                   | El batanado se basa en que la superficie de la fibra de lana está formada por escamas que se acoplan unas con otras al producir un movimiento relativo entre ellas. A pesar de que el diámetro de la fibra no cambia, el aire entre las fibras se elimina a medida que éstas se enredan, de modo que el tejido "se encoge".
@@ -1407,34 +1407,34 @@
                   img(src="@/assets/curso/tema1-imagen123.jpg")
               .col-lg-8
                 p.mb-0
-                  strong Vaporizado:  
-                  | el vaporizado sin tensión en tejidos de lana es la técnica más utilizada para obtener una buena estabilidad dimensional al planchado a vapor. 
+                  strong Vaporizado:
+                  | el vaporizado sin tensión en tejidos de lana es la técnica más utilizada para obtener una buena estabilidad dimensional al planchado a vapor.
                   br
                   | La acción de vapor implica el hinchamiento higroscópico de las fibras con una subsiguiente relajación o contracción de la tela, que recupera su forma natural. El vaporizado elimina también todas las tensiones residuales.
                   br
                   br
-                  strong Acabados químicos:  
+                  strong Acabados químicos:
                   | mediante la aplicación de productos o aditamentos químicos, un tejido puede obtener ciertas características dándoles un valor agregado pensando en su funcionalidad.
                   br
                   br
-                  strong Suavizado:   
+                  strong Suavizado:
                   | a partir del uso de un agente químico se contribuye a aumentar la suavidad de la tela al penetrar el tejido facilitando el deslizamiento de la fibra.
                   br
                   br
-                  strong Antiarrugas:  
+                  strong Antiarrugas:
                   | tratamiento que se aplica a la tela para reducir el nivel de arrugas e incluso obtener un planchado permanente.
             .row.justify-content-center(titulo="")
               .col-lg-8
                 p.mb-0
-                  strong Antimicrobianos:  
+                  strong Antimicrobianos:
                   | con este tipo de acabado se busca prevenir la transmisión y propagación de microorganismos y reducir los olores desagradables (desodorización). El agente antimicrobiano funciona ya sea por una lenta liberación del ingrediente activo. O por contacto de la superficie con los microbios.  En la práctica el efecto antimicrobiano se obtiene mediante la aplicación de productos químicos específicos durante la fase de acabado o en el proceso de hilatura.
                   br
                   br
-                  strong Fungicidas:  
+                  strong Fungicidas:
                   | evitan la formación de hongos sobre la fibra, en tejidos que están a la intemperie en contacto con la humedad o con el suelo, por ejemplo, lonas, redes, toldos, ropa interior. Se logra mediante la modificación química de las fibras, su impermeabilización o la aplicación de un recubrimiento.
                   br
                   br
-                  strong Antisépticos:  
+                  strong Antisépticos:
                   | tiene por objetivo destruir la acción perjudicial que producen ciertos organismos sobre las fibras textiles. Para eso se añaden al tejido ciertos productos que pueden inhibir la acción del microorganismo o destruirlo.
               .col-lg-4
                 figure
@@ -1448,7 +1448,7 @@
                       figcaption Fuente: La industria textil y su control de calidad (Lockuán; 2012).
                   .col-lg-4
                     p.mb-0
-                      strong  Transporte de la humedad (wicking):  
+                      strong  Transporte de la humedad (wicking):
                       br
                       | como su nombre lo indica permite que la humedad y el calor del cuerpo escapen fácilmente. Ayuda a transportar el vapor de agua fuera del cuerpo haciendo que se sienta comodidad y frescura; ayudando a evitar la frialdad del postejercicio.
                 .row.justify-content-center
@@ -1458,7 +1458,7 @@
                       figcaption Fuente: La industria textil y su control de calidad (Lockuán; 2012).
                   .col-lg-4
                     p.mb-0
-                      strong Repelencia al agua o acabado hidrófugo:  
+                      strong Repelencia al agua o acabado hidrófugo:
                       br
                       | permite el paso del aire, pero no del agua. (Lockuán, 2012)
             .row.justify-content-center(titulo="")
@@ -1470,20 +1470,20 @@
                       figcaption Fuente: La industria textil y su control de calidad. (Lockuán, 2012).
                   .col-lg-8
                     p.mb-0
-                      strong Repelencia y/o liberación de manchas:  
-                      | los tejidos por su naturaleza, superficie irregular y esponjosidad son propensos a almacenar diferentes tipos de suciedad. Este tipo de acabados busca repeler o liberar el tejido de las manchas y suciedades. Dependiendo del tipo de suciedad que se quiera evitar, existen varios tipos de acabado: 
+                      strong Repelencia y/o liberación de manchas:
+                      | los tejidos por su naturaleza, superficie irregular y esponjosidad son propensos a almacenar diferentes tipos de suciedad. Este tipo de acabados busca repeler o liberar el tejido de las manchas y suciedades. Dependiendo del tipo de suciedad que se quiera evitar, existen varios tipos de acabado:
                     ul.lista-ul--color
-                      li 
+                      li
                         i.lista-ul__vineta
                         | Antiestáticos: los tejidos electrostáticamente atraen el polvo, que desmejora el aspecto del tejido. Los antiestáticos son productos higroscópicos, que captan humedad y eliminan las cargas eléctricas de las fibras.
                 ul.lista-ul--color
-                  li 
+                  li
                     i.lista-ul__vineta
-                    | Repelentes a la impureza seca: se tratan los tejidos con óxidos metálicos que rellenan las cavidades de las fibras impidiendo que las impurezas se depositen allí, dando al tejido un color grisáceo. 
-                  li 
+                    | Repelentes a la impureza seca: se tratan los tejidos con óxidos metálicos que rellenan las cavidades de las fibras impidiendo que las impurezas se depositen allí, dando al tejido un color grisáceo.
+                  li
                     i.lista-ul__vineta
-                    | Repelentes a la suciedad húmeda (anti soil): Los repelentes a las manchas se usan en una variedad de telas de algodón, para prendas y hasta tapicería. La gran ventaja es que los tejidos resisten las manchas durante el uso. Cuando ocurre un derrame, esa zona puede limpiarse fácilmente, ya que la mancha se limita a la superficie y no penetra profundamente en el tejido. 
-                  li 
+                    | Repelentes a la suciedad húmeda (anti soil): Los repelentes a las manchas se usan en una variedad de telas de algodón, para prendas y hasta tapicería. La gran ventaja es que los tejidos resisten las manchas durante el uso. Cuando ocurre un derrame, esa zona puede limpiarse fácilmente, ya que la mancha se limita a la superficie y no penetra profundamente en el tejido.
+                  li
                     i.lista-ul__vineta
                     | Repelentes a las grasas, aceites y bencinas.
             .row.justify-content-center(titulo="")
@@ -1497,11 +1497,11 @@
               .col-lg-8
                 p.mb-5.caja.temporal--rosa.py-2.px-5.text-center Acabados ácidos
                 p.mb-0
-                  strong Apergaminado:  
+                  strong Apergaminado:
                   | en las telas de algodón, los efectos translúcidos se producen mediante un tratamiento con ácido sulfúrico concentrado llamado Orgendil. Como el ácido ataca el algodón, el proceso debe controlarse muy cuidadosamente cada 5 o 6 segundos. Con este acabado es posible lograr los efectos de apergaminado total, apergaminado parcial y efectos plissé.
                   br
                   br
-                  strong  Devorado (devoré):  
+                  strong  Devorado (devoré):
                   | Los efectos devorados se obtienen estampando ciertos productos químicos sobre una tela constituida con fibras de diferentes grupos (rayón-seda), una de las fibras se destruye, dejando áreas más delgadas en el tejido dando la ilusión de transparencia. (Lupita C.L, 2008)
             .row.justify-content-center(titulo="")
               .col-12
@@ -1512,17 +1512,17 @@
                   .col-lg-8
                     p.mb-4.caja.temporal--rosa.py-2.px-5.text-center Otros acabados
                     p.mb-0
-                      strong Blanqueado:   
+                      strong Blanqueado:
                       | consiste en eliminar o decolorar las materias naturales del algodón y de la lana, obteniendo así un tejido con aspecto más blanco. Se suelen utilizar oxidantes que reaccionan con las fibras, produciéndoles un aspecto mucho más blanco.
                       br
                       br
-                      strong Tintura:  
+                      strong Tintura:
                       | consiste en transferir un color artificial al tejido, por medio de colorantes convencionales o por impregnación pigmentaria.
                 .row.justify-content-center
                   .col-lg-8
                     p.mb-4.caja.temporal--rosa.py-2.px-5.text-center Otros acabados
                     p.mb-0
-                      strong Estampación:   
+                      strong Estampación:
                       | aplicar a la superficie del tejido un dibujo en uno o varios colores por medio de colorantes convencionales, pigmentos, transfer o aerografía, entre otros
                   .col-lg-4
                     figure
@@ -1536,12 +1536,12 @@
                 p.mb-4
                   strong  Tipos de Encogimiento
                 p.mb-4
-                  strong El encogimiento y sus causas se pueden separar en 2 tipos:   
+                  strong El encogimiento y sus causas se pueden separar en 2 tipos:
                   | encogimiento por construcción y encogimiento por proceso. Significa que el encogimiento se ve afectado tanto por los parámetros de construcción de la tela y las fuerzas aplicadas durante el teñido y el acabado. Los procesos de costura y acabados durante la confección también pueden afectar el encogimiento. El encogimiento de un producto se ve afectado tanto por la aplicación y remoción de factores de estrés (Cottonworks, s.f.).
                 .cajon.color-acento-contenido.p-4.mb-4
                   p.mb-0 Dentro de los acabados, los expuestos en la sección de acabados en húmedo, aportan a la estabilización de las dimensiones de la tela, ayudando así al manejo del encogimiento textil.
                 p.mb-0 Estos acabados son algunos de los más comunes y se pueden dar en tejidos o prendas. Para el patronista es relevante esta información pues al momento de desarrollar los patrones debe contemplar el efecto del proceso en la construcción de la prenda y los cambios dimensionales para hacer las correcciones necesarias en la moldería.
-                
+
 </template>
 
 <script>
@@ -1689,6 +1689,11 @@ export default {
   },
   updated() {
     this.$aosRefresh()
+  },
+  methods: {
+    openClickAnexo(anexo) {
+      window.open(anexo, '_blank')
+    },
   },
 }
 </script>

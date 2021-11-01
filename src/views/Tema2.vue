@@ -85,7 +85,7 @@
         p.mb-4 Como se observa en la figura anterior, se marcó el plano cartesiano sobre el punto y en cada uno de los ejes la medida correspondiente (0.84 cm en X y 0.76 cm en Y), para luego prolongar paralelamente estas líneas formando una retícula o cuadrícula, en la que se identifican cada uno de los puntos de cruces de las tallas. Teniendo como referencias cada uno de estos puntos se traza cada talla utilizando el molde base.
         p.mb-5.text-center.py-3.caja.temporal--rosa Adaptado de Carrera de Diseño y Gestión en Moda, 2015; Gaviria; 2018.
       .col-lg-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U2_Escalados_masculinos_Manual_ CMTC_ 10_ 11_ 2018.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -224,19 +224,19 @@
 
     .row.justify-content-center.mb-4
       .col-lg-3.mb-lg-0.mb-5.d-flex
-        figure
+        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf'))")
           img(src="@/assets/curso/tema2-imagen12.svg")
           figcaption Fuente: Manual de patronaje básico e interpretación de diseños (Gutiérrez Rengifo et al., 2011).
       .col-lg-3.mb-lg-0.mb-5.d-flex
-        figure
+        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/tablas_de_medidas_masculinas.pdf'))")
           img(src="@/assets/curso/tema2-imagen13.svg")
           figcaption Fuente: Texto Guía del participante Confección textil (Araujo et al., 2014).
       .col-lg-3.mb-lg-0.mb-5.d-flex
-        figure
+        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/tabla_de_tallas.pdf'))")
           img(src="@/assets/curso/tema2-imagen14.svg")
           figcaption Fuente: Módulo I: Patronaje Industrial Masculino. Versión Imprimible (SENA, s.f.).
       .col-lg-3.d-flex
-        figure
+        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/cuadro_de_tallas_masculino_en_centimetros.pdf'))")
           img(src="@/assets/curso/tema2-imagen15.svg")
           figcaption Fuente: Tallas tops. Instructora: Maritza Rodríguez (Rodríguez, 2018).
     .row.justify-content-center.mb-4
@@ -254,8 +254,8 @@
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p
-              strong Anexo.
-              | Escalados (Gaviria; 2018).
+              strong Enlace video.
+              | Patronaje industrial masculino: toma de medidas
 
     Separador
 
@@ -841,6 +841,7 @@
         p.mb-0 Delantero izquierdo
       .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
         p.mb-0 Pico izqdo. cuello
+
 
     .row.justify-content-center
       .col-lg-9
@@ -3726,6 +3727,11 @@ export default {
   },
   updated() {
     this.$aosRefresh()
+  },
+  methods: {
+    openClickAnexo(anexo) {
+      window.open(anexo, '_blank')
+    },
   },
 }
 </script>
