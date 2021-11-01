@@ -27,6 +27,8 @@ h3.titulo-slyder-special
   background-color: #F4DCE6
 .caja.temporal--pink
   background-color: #EDA0A8
+.caja.temporal--azul-primario
+  background-color: $color-acento-contenido
 
 .tabs-a__tab
   background-color: #EBEBEB
@@ -42,6 +44,11 @@ h3.titulo-slyder-special
 
 .tarjeta.color-primario
   background-color: #F4DCE6
+  *
+    color: #12263F!important
+
+.tarjeta.color-acento-contenido
+  background-color: #D8EFFB
   *
     color: #12263F!important
 .tarjeta-avatar
@@ -108,9 +115,14 @@ h3.titulo-slyder-special
 
 .caja-gris1
   background-color: #CFCDCE
+.caja-gris2
+  background-color: #F7F7F7
 
 .caja--outline-rosa
   border: 1px solid #F2D6E3
+
+.caja--outline-pink
+  border: 1px solid $color-primario
 
 .texto-rosa
   color: $color-primario
@@ -121,6 +133,10 @@ h3.titulo-slyder-special
   color: white
   &.normal
     border-top-right-radius: 0
+  &.azul
+    background-color: $color-acento-contenido
+  // &.rosa
+  //   background-color: #F4DCE6
 
 .circle
   border-radius: 9999px
@@ -147,3 +163,29 @@ h3.titulo-slyder-special
 
 .border-dotted-especial
   border: 2px dotted $color-primario
+
+.row-especial
+  position: relative
+  *
+    position: relative
+  &::before
+    position: absolute
+    content: ''
+    top: 65%
+    bottom: 0
+    right: 0
+    left: 0
+    background-color: #F4DCE6
+
+.tabla-b.color-acento-contenido
+  font-size: 13px
+  table
+    tr
+      th, td
+        padding: 5px 10px
+
+.text-table-subtitle
+  font-size: 13px
+  text-align: center
+  padding: 15px!important
+  font-weight: 600
