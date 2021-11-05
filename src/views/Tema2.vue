@@ -224,18 +224,26 @@
 
     .row.justify-content-center.mb-4
       .col-lg-3.mb-lg-0.mb-5.d-flex
+        .indicador__container
+              .indicador--click
         figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf'))")
           img(src="@/assets/curso/tema2-imagen12.svg")
           figcaption Fuente: Manual de patronaje básico e interpretación de diseños (Gutiérrez Rengifo et al., 2011).
       .col-lg-3.mb-lg-0.mb-5.d-flex
+        .indicador__container
+          .indicador--click
         figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/tablas_de_medidas_masculinas.pdf'))")
           img(src="@/assets/curso/tema2-imagen13.svg")
           figcaption Fuente: Texto Guía del participante Confección textil (Araujo et al., 2014).
       .col-lg-3.mb-lg-0.mb-5.d-flex
+        .indicador__container
+          .indicador--click
         figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/tabla_de_tallas.pdf'))")
           img(src="@/assets/curso/tema2-imagen14.svg")
           figcaption Fuente: Módulo I: Patronaje Industrial Masculino. Versión Imprimible (SENA, s.f.).
       .col-lg-3.d-flex
+        .indicador__container
+          .indicador--click
         figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/cuadro_de_tallas_masculino_en_centimetros.pdf'))")
           img(src="@/assets/curso/tema2-imagen15.svg")
           figcaption Fuente: Tallas tops. Instructora: Maritza Rodríguez (Rodríguez, 2018).
@@ -267,10 +275,9 @@
         figure
           img(src="@/assets/curso/tema2-imagen16.svg")
       .col-lg-8
-        p.mb-1 Para comenzar a trabajar los patrones es fundamental tener las medidas del cuerpo a vestir. Como se vio en la unidad Fundamentos de Patronaje, el patronaje industrializado se basa en las tablas de tallas y medidas, cuadro en los que se reúne la información antropométrica de los individuos o consumidores según las tallas. Cabe recordar que es imprescindible que cada marca trabaje con las medidas antropométricas del mercado o consumidor al que se dirige, ya que éstas varían según el estilo de vida de las personas o la ocasión de uso en la que se enfoca la línea de vestuario.
+        p.mb-1 La camisa es una prenda de vestir superior que cubre el torso y brazos, usualmente tiene mangas, cuello y botones en el frente, esta puede ser formal o informal dependiendo del diseño y las telas que se utilicen en su confección.
           br
-          br
-          | Para el desarrollo de patrones se emplean algunas medidas tomadas directamente sobre el cuerpo (antropométricas) y otras medidas que son deducidas, es decir que se construyen a partir de fórmulas matemáticas, estas se explicarán en cada desarrollo. En patronaje masculino las medidas más empleadas son:
+          | Conocer la construcción del patrón básico de camisa permite realizar variaciones a esta prenda superior según las especificaciones de diseño, además que servirá de base para la construcción del patrón de otras prendas como las chaquetas.
           br
           br
           strong Para su construcción se necesitarán las medidas de
@@ -426,7 +433,7 @@
     Separador
 
     #t_2_4.titulo-segundo
-      h2 2.4    Variaciones de la camisa: diferentes tipos de cortes, recogidos y almillas alforzas.
+      h2 2.4    Variaciones de la camisa: diferentes tipos de cortes, recogidos y almillas alforzas
 
     .cajon.color-primario.p-5.mb-4
       p.mb-0 Para desarrollar diferentes tipos de camisas se hace necesario modificar los moldes básicos, dependiendo de las especificaciones del diseño o ficha técnica. A continuación, se presentan algunas de las más comunes.
@@ -457,7 +464,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5
         .titulo-sexto.color-acento-contenido
-          span Alforzas.
+          span Alforzas
         figure.mb-4
           img(src="@/assets/curso/tema2-imagen78.svg")
           figcaption Fuente: elaboración propia en Optitex.
@@ -481,7 +488,7 @@
     Separador
 
     #t_2_5.titulo-segundo
-      h2 2.5    Cuellos, puños perillas, tapas y charreteras.
+      h2 2.5    Cuellos, puños perillas, tapas y charreteras
 
     p.mb-5 Así como la silueta, los cortes y recogidos modifican un molde, es fundamental entender que los cuellos, puños, perillas, tapas y charreteras intervienen en la creación de múltiples diseños a partir de la camisa básica, su modificación da como resultado un modelo diferente.
 
@@ -538,18 +545,18 @@
                 .circle
               .col-lg-auto
                 p.mb-0.fw-bold.texto-rosa Cuello francés
-            p.mb-0 Este tipo de cuello tiene su origen en Inglaterra, concretamente en el deporte del polo, donde se decidió por abotonar las palas de los polos (alas del cuello) para que estas no golpearan la cara del jinete al cabalgar. Sin embargo, fue en Estados Unidos donde se popularizó esta solución y se llevó fuera del mundo del deporte. Suele tener botones en las puntas.
+            p.mb-0 Se caracteriza porque las puntas en la parte superior están muy juntas y abajo suelen ser anchas, para permitir el uso corbatas con nudos grandes.
         .row.mb-4.align-items-center
           .col-lg-auto
             .circle
           .col-lg-auto
-            p.mb-0.fw-bold.texto-rosa Cuello de smoking, opera o wing collar
+            p.mb-0.fw-bold.texto-rosa Cuello de <i>smoking</i>, <i>opera</i> o <i>wing collar</i>
         .row.justify-content-center.mb-5
           .col-lg-9.mb-lg-0.mb-5
             p.mb-0 Se caracteriza por tener picos pequeños, separados y muy abiertos donde las palas(alas) son muy pequeñas. El objetivo es no restar ni un centímetro de protagonismo a la pajarita o corbatín, la cual se debe llevar sí o sí.
               br
               br
-              | Para el trazo del cuello de Smoking se debe dibujar un rectángulo de 11 x 22 cm. Paralelas a la línea horizontal, trazar dos líneas más de 5 y 3 cm. de separación, quedando el rectángulo dividido en 3 secciones, una de 5 cm, y dos de 3 cm.
+              | Para el trazo del cuello de <i>Smoking</i> se debe dibujar un rectángulo de 11 x 22 cm. Paralelas a la línea horizontal, trazar dos líneas más de 5 y 3 cm. de separación, quedando el rectángulo dividido en 3 secciones, una de 5 cm, y dos de 3 cm.
           .col-lg-3
             figure
               img(src="@/assets/curso/tema2-imagen91.svg")
@@ -1031,7 +1038,7 @@
           LineaTiempoC.color-acento-contenido(text-small)
             .row.px-5.py-4(titulo="Parte 1")
               .col-lg-6.mb-lg-0.mb-5
-                p.mb-0 Hace referencia a los diferentes procesos industriales para perfeccionar un producto. El acabado en los tejidos y prendas comprende el blanqueado, teñido, encogido, estirado, estampado, satinado y planchado, entre otros.
+                p.mb-0 Marcar en otro papel, las líneas de tiro, cintura y costado hasta 10 cm después de la línea que indica la altura de tiro del delantero.
               .col-lg-6
                 figure
                   img(src="@/assets/curso/tema2-imagen152.svg")
@@ -1059,7 +1066,7 @@
                   figcaption Fuente: elaboración propia en Optitex.
             .row.px-5.py-4(titulo="Parte 5")
               .col-lg-6.mb-lg-0.mb-5
-                p.mb-0 Nota: El fondo de bolsillo 1 es el área que esta sombreada, se le marca la línea de aplome y se corta 2 por talla.
+                p.mb-0 Nota: el fondo de bolsillo 1 es el área que esta sombreada, se le marca la línea de aplome y se corta 2 por talla.
               .col-lg-6
                 figure
                   img(src="@/assets/curso/tema2-imagen156.svg")
@@ -1078,7 +1085,7 @@
               img(src="@/assets/curso/tema2-imagen157.svg")
               figcaption Fuente: elaboración propia en Optitex.
           .col-lg-6.py-5.px-5(style="background-color: #FCF5F8")
-            p.mb-4 Se traza en otro papel el fondo de bolsillo N°1, seguidamente se sobrepone el delantero con la variación en el costado para la boca de bolsillo y se marca la boca de bolsillo, se traza esta diagonal y se elimina la esquina donde está el vértice de cintura costado.
+            p.mb-4 El fondo de bolsillo N° 2 es el que área sombreada, se le marca la línea de aplome y se corta 2 por talla.
             figure.px-5
               img(src="@/assets/curso/tema2-imagen158.svg")
               figcaption Fuente: elaboración propia en Optitex.
@@ -1251,22 +1258,22 @@
               p.mb-0.caja-titulo-bordes-especial.normal.text-center.py-2 Pasador
           .row.justify-content-center.mb-0
             .col-lg-7
-              p.mb-4  Los pasadores son tiras fijadas en sus extremos que se colocan en el contorno de la pretina y sirven para sostener la correa. El tamaño, la forma y la cantidad de pasadores depende del diseño que se esté realizando, sin embargo, el jean clásico lleva cinco pasadores de 1.2 cm de ancho por 6.5 cm o 7 cm de largo. Se ubican así: uno en cada pernera delantera justo en la boca de bolsillo, uno en el centro del tiro posterior y uno en cada pernera posterior a 4 cm o 5 cm del costado.  Para construirlo se realiza un rectángulo de 3.5 cm de ancho por 40 cm de largo.
+              p.mb-4  Los pasadores son tiras fijadas en sus extremos que se colocan en el contorno de la pretina y sirven para sostener la correa. El tamaño, la forma y la cantidad de pasadores depende del diseño que se esté realizando, sin embargo, el <i>jean</i> clásico lleva cinco pasadores de 1.2 cm de ancho por 6.5 cm o 7 cm de largo. Se ubican así: uno en cada pernera delantera justo en la boca de bolsillo, uno en el centro del tiro posterior y uno en cada pernera posterior a 4 cm o 5 cm del costado.  Para construirlo se realiza un rectángulo de 3.5 cm de ancho por 40 cm de largo.
               figure
                 img(src="@/assets/curso/tema2-imagen166.svg")
 
     #t_2_9.titulo-segundo
-      h2 2.9   Básico del jeans y avíos
+      h2 2.9   Básico del <i>jeans</i> y avíos
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-lg-0.mb-5
         figure
           img(src="@/assets/curso/tema2-imagen167.jpg")
       .col-lg-8
-        p.mb-4 El Jean es un pantalón confeccionado en tela de índigo, mezclilla o denim, que se caracteriza por tener cinco bolsillos, así: dos bolsillos delanteros de boca redonda, una relojera en el bolsillo derecho y dos bolsillos posteriores de parche tipo espada.
+        p.mb-4 El <i>jean</i> es un pantalón confeccionado en tela de índigo, mezclilla o denim, que se caracteriza por tener cinco bolsillos, así: dos bolsillos delanteros de boca redonda, una relojera en el bolsillo derecho y dos bolsillos posteriores de parche tipo espada.
           br
           br
-          | Para el trazo del básico de jean en talla 32, se deben tener en cuenta las siguientes medidas
+          | Para el trazo del básico de <i>jean</i> en talla 32, se deben tener en cuenta las siguientes medidas
         ol.lista-ol--cuadro
           li
             .lista-ol--cuadro__vineta
@@ -1360,7 +1367,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4
         p.mb-0.text-center.py-2.caja-titulo-bordes-especial.normal Vista
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-8
         p.mb-4 La vista es la pieza que va sobrepuesta en el fondo de bolsillo N° 1 y se corta en la misma tela del pantalón, ésta pieza no permite que el fondo de bolsillo se vea que va en diferente tela.
           br
@@ -1453,7 +1460,7 @@
             figure.mb-0
               img(src="@/assets/curso/tema2-imagen219.jpg")
           .col-lg-8
-            p.mb-0 Para la elaboración de los jeans se pueden trazar pretinas rectas o pretinas anatómicas, teniendo estás últimas un mejor ajuste sobre el cuerpo:
+            p.mb-0 Para la elaboración de los <i>jeans</i> se pueden trazar pretinas rectas o pretinas anatómicas, teniendo estás últimas un mejor ajuste sobre el cuerpo:
     .row.justify-content-center.mb-5
       .col-lg-4
         p.mb-0.text-center.py-2.caja-titulo-bordes-especial.normal Pretina recta
@@ -1488,7 +1495,7 @@
         p.mb-0 Los pasadores son tiras fijadas en sus extremos que se colocan en el contorno de la pretina y sirven para sostener el cinturón.
           br
           br
-          | El tamaño, la forma y la cantidad de pasadores depende del diseño que se esté realizando, sin embargo, el jean clásico lleva cinco pasadores de 1.2 cm de ancho por 6.5 cm o 7 cm de largo. Se ubican así: uno en cada pernera delantera justo en la boca de bolsillo, uno en el centro del tiro posterior y uno en cada pernera posterior a 4 cm o 5 cm del costado.
+          | El tamaño, la forma y la cantidad de pasadores depende del diseño que se esté realizando, sin embargo, el <i>jean</i> clásico lleva cinco pasadores de 1.2 cm de ancho por 6.5 cm o 7 cm de largo. Se ubican así: uno en cada pernera delantera justo en la boca de bolsillo, uno en el centro del tiro posterior y uno en cada pernera posterior a 4 cm o 5 cm del costado.
           br
           br
           | Para construirlo se realiza un rectángulo de 3.5 cm de ancho por 40 cm de largo.
@@ -1524,15 +1531,15 @@
               img(src="@/assets/curso/tema2-imagen226.svg")
               figcaption Fuente: elaboración propia en Optitex.
         .row.justify-content-center.mb-4
-          .col-lg-6
+          .col-lg-6.d-flex
             .caja.temporal--azul.p-4
               p.mb-4 Continuando con los complementos de la pernera delantera, se da costuras al falso. Como este sale de la boca de bolsillo y es allí donde va pegado, lleva las mismas márgenes que la boca: 1 cm en costado, boca y cintura. En la línea paralela a la boca, va filete sencillo (solo para evitar que se deshilache) y pegada sobre el fondo 2 en plana, por lo que no lleva ventaja de costuras.
               figure
                 img(src="@/assets/curso/tema2-imagen227.svg")
                 figcaption Fuente: elaboración propia en Optitex.
-          .col-lg-6
+          .col-lg-6.d-flex
             .caja.temporal--rosa.p-4
-              p.mb-4 Continuando con los complementos de la pernera delantera, se da costuras al falso. Como este sale de la boca de bolsillo y es allí donde va pegado, lleva las mismas márgenes que la boca: 1 cm en costado, boca y cintura. En la línea paralela a la boca, va filete sencillo (solo para evitar que se deshilache) y pegada sobre el fondo 2 en plana, por lo que no lleva ventaja de costuras.
+              p.mb-4 La vista lleva las mismas márgenes que la pernera en costado y cintura y en la curvatura va filete sencillo (solo para evitar que se deshilache) y pegada sobre el fondo 1 en plana, por lo que no lleva ventaja de costuras. Para facilitar la confección se hace un piquete en cada uno de los puntos que coincidirán con la boca de bolsillo.
               figure
                 img(src="@/assets/curso/tema2-imagen228.svg")
                 figcaption Fuente: elaboración propia en Optitex.
@@ -1785,7 +1792,7 @@
           img(src="@/assets/curso/tema2-imagen258.svg")
       .col-lg-8
         .h4.texto-rosa Bolsillo a la cadera y/o de costado
-        p.mb-0 Este tipo de bolsillo va integrado en la misma prenda, y funciona a través de falsos y aberturas. Su trazo se encuentra en el pantalón base y en el básico de jean.
+        p.mb-0 Este tipo de bolsillo va integrado en la misma prenda, y funciona a través de falsos y aberturas. Su trazo se encuentra en el pantalón base y en el básico de <i>jean</i>.
           br
           br
           | Este tipo de bolsillo puede presentar variaciones en términos de tamaños, formas, tipo de abertura o boca según diseño.
@@ -1797,10 +1804,6 @@
         p.mb-4.text-center A continuación, se verán algunos tipos de estos bolsillos y como se nombran según el tipo de corte o boca de bolsillo.
 
     .h4.texto-rosa Bolsillo lateral
-    p.mb-5 Este tipo de bolsillo va integrado en la misma prenda, y funciona a través de falsos y aberturas. Su trazo se encuentra en el pantalón base y en el básico de jean.
-      br
-      br
-      | Este tipo de bolsillo puede presentar variaciones en términos de tamaños, formas, tipo de abertura o boca según diseño.
     .row.justify-content-center.mb-5
       .col-lg-4
         figure
@@ -1852,7 +1855,7 @@
         p.text-center Para el desarrollo de los patrones se parte del básico de pantalón y se hacen las divisiones del largo de las perneras desde el tiro hasta el ruedo, así:
           br
           br
-          | Hot pants o pantalones calientes: en la pernera delantera, desde el tiro y por la entrepierna marcar 5 cm. Escuadrar con respecto a la línea de aplome.
+          | <i>hot pants</i> o pantalones calientes: en la pernera delantera, desde el tiro y por la entrepierna marcar 5 cm. Escuadrar con respecto a la línea de aplome.
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-6
         SlyderC.mb-5(:datos="datosSlyder15")
@@ -2240,13 +2243,13 @@
         SlyderC.mb-5(:datos="datosSlyder19")
 
     #t_2_15.titulo-segundo
-      h2 2.15   Básico de la chaqueta (vaquera jeans)
+      h2 2.15   Básico de la chaqueta (vaquera <i>jeans</i>)
 
     figure.mb-5
       img(src="@/assets/curso/tema2-imagen313.png")
 
     .h4.texto-rosa.mb-4 Chaqueta tipo vaquera
-    p.mb-5 La chaqueta de jean, cuya primera aparición se dio en 1905, complementaría a esos pantalones pensados para trabajar. Hecha en 9 onzas, la original Levi’s 506XX (término usado para describir la calidad y el peso –doblemente extrapesado– y para la cual fue diseñada (el trabajo pesado), luego fue pensada como un accesorio en la vestimenta dando toques personales a ella y cambiando cortes y posición de bolsillos o anexando más de ello (Revista Fucsia, s.f.).
+    p.mb-5 La chaqueta de <i>jean</i>, cuya primera aparición se dio en 1905, complementaría a esos pantalones pensados para trabajar. Hecha en 9 onzas, la original Levi’s 506XX (término usado para describir la calidad y el peso –doblemente extrapesado– y para la cual fue diseñada (el trabajo pesado), luego fue pensada como un accesorio en la vestimenta dando toques personales a ella y cambiando cortes y posición de bolsillos o anexando más de ello (Revista Fucsia, s.f.).
 
     .row.justify-content-center.mb-2
       .col-lg-8
@@ -2376,13 +2379,6 @@
               figcaption Fuente: elaboración propia en Optitex.
           .col-lg-7
             p.mb-0 Para crear la hoja bajera de la manga trazar de nuevo la manga con la línea de corte, pero esta vez los 2 cm de falso en la abertura serán hacia el lado izquierdo.
-        .row(titulo="Paso 15").px-5
-          .col-lg-5
-            figure
-              img(src="@/assets/curso/tema2-imagen342.svg")
-              figcaption Fuente: elaboración propia en Optitex.
-          .col-lg-7
-            p.mb-0 Para crear la hoja bajera de la manga trazar de nuevo la manga con la línea de corte, pero esta vez los 2 cm de falso en la abertura serán hacia el lado izquierdo.
 
     .row.justify-content-center.mb-4
       .col-lg-5
@@ -2488,11 +2484,11 @@
     Separador
 
     #t_2_16.titulo-segundo
-      h2 2.16   Básico de camiseta t-shirt
+      h2 2.16   Básico de camiseta <i>t-shirt</i>
 
     .row.justify-content-center.align-items-center.caja.temporal--rosa.p-5.mb-5
       .col-lg-7
-        p.mb-0 Fue considerada como una prenda interior y para deportistas al principio del siglo XX, luego de la segunda guerra mundial comenzó a usarse como una prenda más de vestir siendo la más versátil a la hora de usar en cuanto a colores, estampados y bordados su forma simple y básica se adecua perfectamente con otras prendas y el material preferible para esta es el algodón y también es llamada playera. Su trazo es hecho desde cero y se verá a continuación
+        p.mb-0 Fue considerada como una prenda interior y para deportistas al principio del siglo XX, luego de la segunda guerra mundial comenzó a usarse como una prenda más de vestir siendo la más versátil a la hora de usar en cuanto a colores, estampados y bordados su forma simple y básica se adecua perfectamente con otras prendas y el material preferible para esta es el algodón y también es llamada playera. Su trazo es hecho desde cero y se verá a continuación.
       .col-lg-5
         figure
           img(src="@/assets/curso/tema2-imagen357.svg")
@@ -3015,7 +3011,7 @@ export default {
       {
         titulo: '',
         texto:
-          '<strong class="texto-rosa">6.</strong> Marcar la mitad de ancho de bota sobre la línea de ruedo o bajo, a cada lado de la línea de aplome, para el caso del Jean clásico 8.5 cm. ',
+          '<strong class="texto-rosa">6.</strong> Marcar la mitad de ancho de bota sobre la línea de ruedo o bajo, a cada lado de la línea de aplome, para el caso del <i>jean</i> clásico 8.5 cm. ',
         imagen: require('@/assets/curso/tema2-imagen173.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
@@ -3107,95 +3103,92 @@ export default {
       },
       {
         titulo: '',
-        texto:
-          'Sobre la línea anterior, desde el ángulo formado por la línea de base y esta, hacer una marca hacia arriba con una medida igual a un décimo (1/10) de base.',
+        texto: 'Prolongar 10 cm la línea de cintura hacia la afuera.',
         imagen: require('@/assets/curso/tema2-imagen186.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
-          'Sobre la línea anterior, desde el ángulo formado por la línea de base y esta, hacer una marca hacia arriba con una medida igual a un décimo (1/10) de base.',
-        imagen: require('@/assets/curso/tema2-imagen187.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto: 'Prolongar 10 cm la línea de cintura hacia la afuera.',
-        imagen: require('@/assets/curso/tema2-imagen188.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto:
           'A partir de los 4.5 cm que se subió en pasos anteriores, colocar la regla inclinada, cayendo sobre la prolongación de la línea de cintura y medir 1/4 de cintura más 3 cm (estos 3 cm para pinzas de la parte posterior que luego se cerrarán en papel).',
-        imagen: require('@/assets/curso/tema2-imagen189.svg'),
+        imagen: require('@/assets/curso/tema2-imagen187.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Trazar una paralela de la línea de base a los 1.5 cm hacia abajo y prolongar la misma medida de ancho (profundidad) de tiro del delantero.',
-        imagen: require('@/assets/curso/tema2-imagen190.svg'),
+        imagen: require('@/assets/curso/tema2-imagen188.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto: 'Unir con curva los nuevos puntos de tiro.',
-        imagen: require('@/assets/curso/tema2-imagen191.svg'),
+        imagen: require('@/assets/curso/tema2-imagen189.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Unir con la regla de cadera, el tiro posterior con la ampliación de la línea de rodilla, hecha en el paso 1 y cerrar costado con línea recta',
-        imagen: require('@/assets/curso/tema2-imagen192.svg'),
+        imagen: require('@/assets/curso/tema2-imagen190.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto: 'Marcar la pretina posterior paralela a la cintura a 4 cm.',
-        imagen: require('@/assets/curso/tema2-imagen193.svg'),
+        imagen: require('@/assets/curso/tema2-imagen191.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
-          'Marcar la cotilla, para esto, desde del nuevo punto de pretina o cintura bajar y marcar 7 cm en tiro y 2.5 cm en costado.   ',
-        imagen: require('@/assets/curso/tema2-imagen194.svg'),
+          'Marcar la cotilla, para esto, desde del nuevo punto de pretina o cintura bajar y marcar 7 cm en tiro y 2.5 cm en costado.',
+        imagen: require('@/assets/curso/tema2-imagen192.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Para realizar las pinzas posteriores del jean, dividir en 3 partes iguales la línea de cintura y escuadrar hasta la línea de cotilla, marcar a ambos lados de cada pinza 0.75 cm (cada pinza es de 1.5 cm).',
-        imagen: require('@/assets/curso/tema2-imagen195.svg'),
+        imagen: require('@/assets/curso/tema2-imagen193.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto: 'Separar por la línea de pretina y por la línea de cotilla.  ',
-        imagen: require('@/assets/curso/tema2-imagen196.svg'),
+        texto: 'Separar por la línea de pretina y por la línea de cotilla.',
+        imagen: require('@/assets/curso/tema2-imagen194.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Cerrar las pinzas de la pretina y de la cotilla. Para cerrar las pinzas se unen sus líneas, doblando una de ellas y llevándola hasta la otra, ayudándose de un trozo de cinta adhesiva.',
-        imagen: require('@/assets/curso/tema2-imagen197.svg'),
+        imagen: require('@/assets/curso/tema2-imagen195.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Suavizar con curva las líneas quebradas, con la ayuda de un curvígrafo.',
+        imagen: require('@/assets/curso/tema2-imagen196.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
+        imagen: require('@/assets/curso/tema2-imagen197.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: '',
         imagen: require('@/assets/curso/tema2-imagen198.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto:
-          'Quedando así, la pretina anatómica posterior, cotilla y pernera posterior.',
+        texto: '',
         imagen: require('@/assets/curso/tema2-imagen199.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
@@ -3283,7 +3276,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Para los siguientes largos, sobre la línea de entrepierna de la pernera delantera hallar la mitad entre el largo de hot pants y el ruedo, marcar y escuadrar (con respecto a la línea de aplome) hasta el costado, proyectar esta línea en la pernera posterior.',
+          'Para los siguientes largos, sobre la línea de entrepierna de la pernera delantera hallar la mitad entre el largo de <i>hot pants</i> y el ruedo, marcar y escuadrar (con respecto a la línea de aplome) hasta el costado, proyectar esta línea en la pernera posterior.',
         imagen: require('@/assets/curso/tema2-imagen267.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
@@ -3303,7 +3296,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Dividir entre dos (2) sobre la entrepierna de la pernera delantera la distancia entre hot pants y short, marcar, escuadrar (con respecto a la línea de aplome) y proyectar a la pernera posterior. Marcar con el nombre minishort.',
+          'Dividir entre dos (2) sobre la entrepierna de la pernera delantera la distancia entre <i>hot pants</i> y short, marcar, escuadrar (con respecto a la línea de aplome) y proyectar a la pernera posterior. Marcar con el nombre <i>minishort</i>.',
         imagen: require('@/assets/curso/tema2-imagen270.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
@@ -3333,7 +3326,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Al igual que cuando se hace un corte o un ruedo en dobladillo, siempre que se trabajen pinzas, pliegues o prenses se debe doblar antes de cortar, y cortar con el papel doblado (lo que se denomina descargue).',
+          'La operación anterior dará como resultado un pequeño pico en el molde, que al doblarse garantiza material en toda la pinza, si no se hiciera este paso, el prense podría quedarse sin tela al momento de coser, lo que se conoce como coser al aire.',
         imagen: require('@/assets/curso/tema2-imagen275.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },

@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Fundamentos del patronaje y patronaje masculino básico.',
+      'Fundamentos del patronaje y patronaje masculino básico',
     descripcionCurso:
       'La industria de la moda demanda profesionales capaces de desarrollar todo tipo de prendas requeridas por los diferentes mercados y consumidores, con materiales variados, durante los tiempos establecidos por las temporadas y económicamente aptos para ser producidos. Conseguirlo es el resultado de múltiples actividades de índole artística, ergonómica, tecnológica y económica; van desde el boceto, pasando por los diseños, trazados, documentación técnica, confección y validación de prototipos, para concluir en la producción de las cantidades industriales requeridas.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -252,24 +252,6 @@ export default {
     },
     {
       referencia:
-        'Carrera de Diseño y Gestión en Moda. (2015). Técnicas de patronaje. Tomo II - Hombre. Universidad Peruana de Ciencias Aplicadas (UPC). ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=4184904',
-    },
-    {
-      referencia:
-        'Carrera de Diseño y Gestión en Moda. (2015a). Técnicas de patronaje. Tomo I: Mujer. Universidad Peruana de Ciencias Aplicadas (UPC).',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=4184903',
-    },
-    {
-      referencia:
-        'Carrera de Diseño y Gestión en Moda. (2015b). Técnicas de patronaje. Tomo II - Hombre. Universidad Peruana de Ciencias Aplicadas (UPC).',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=4184904',
-    },
-    {
-      referencia:
         'Celestecielo. (s.f.). El Rincon De Celestecielo: Desahogos, holguras o flojos y costuras en los patrones para tejido plano. El Rincón de Celestecielo.',
       link:
         'https://elrincondecelestecielo.blogspot.com/2012/08/desahogos-o-flojos-y-costuras-en-los.html',
@@ -308,12 +290,6 @@ export default {
         'Cottonworks. (s.f.). El Arte del Control de Encogimiento | CottonWorksTM. Cottonworks. ',
       link:
         'https://www.cottonworks.com/topics/en-espanol/procesos-de-algodon/el-arte-del-control-de-encogimiento/',
-    },
-    {
-      referencia:
-        'Cristóbal Antón, P. (2012). Escalar el patrón modelo (C. Prada (Ed.); Cristina P). Ministerio de Educación de España. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3215884',
     },
     {
       referencia: 'Definicion.de. (s.f.). Definicion.de. Definicion.De.',
@@ -400,12 +376,6 @@ export default {
     },
     {
       referencia:
-        'Innovación y Cualificación, S. L. (2018). UF1030: Técnicas básicas de corte, ensamblado y acabado de productos textiles (2. ed.). IC Editorial. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=5885418',
-    },
-    {
-      referencia:
         'Isn’t that sew. (s.f.). Pattern Drafting Tools. Isn’t That Sew. ',
       link: 'http://isntthatsew.org/pattern-drafting-tools-functions/',
     },
@@ -472,12 +442,6 @@ export default {
         'Palacios, N. (s.f.). Corte y confeccion: Herramientas de trabajo. ',
       link:
         'http://corteyconfeccioncnp.blogspot.com/2010/05/herramientas-de-trabajo.html',
-    },
-    {
-      referencia:
-        'Priest, T. F., & Pullen, J. A. (2001). Guía para vestir. McGraw-Hill Interamericana. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3193272',
     },
     {
       referencia:
@@ -965,6 +929,38 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Marisol Osorio',
+        cargo: 'Líder sennova',
+        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'María Luisa Yepes',
+        cargo: 'Instructora',
+        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'Fabio Andrés Gaviria',
+        cargo: 'Instructor',
+        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'Jhon Fernando Jaramillo Taborda',
+        cargo: 'Investigador – Grupo de investigación INAMOD',
+        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -979,25 +975,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: '',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Sergio Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
