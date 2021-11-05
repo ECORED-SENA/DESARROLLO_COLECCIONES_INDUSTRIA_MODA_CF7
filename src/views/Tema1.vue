@@ -32,7 +32,16 @@
         figure
           img(src="@/assets/curso/tema1-imagen3.svg")
       .col-md-10.mb-5
-        p.mb-0 El ejercicio del patronaje comienza por el análisis y toma de medidas del cuerpo humano, su constitución, dimensiones, proporciones y tipología, para así, interpretar la construcción adecuada de cada molde o pieza y cumplir con los requerimientos de la prenda (Gutiérrez Rengifo et al., 2011).
+        p.mb-4 El ejercicio del patronaje comienza por el análisis y toma de medidas del cuerpo humano, su constitución, dimensiones, proporciones y tipología, para así, interpretar la construcción adecuada de cada molde o pieza y cumplir con los requerimientos de la prenda (Gutiérrez Rengifo et al., 2011).
+        .row.justify-content-center
+          .col-lg-6
+            a.anexo.mb-4(href="https://www.youtube.com/watch?v=8aICqukm-Ng" target="_blank")
+              .anexo__icono
+                img(src="@/assets/curso/icono-youtube.svg")
+              .anexo__texto
+                p
+                  strong Video.
+                  |   Fines del Patronaje.
       .col-md-10.mb-4
         figure.mb-0
           img(src="@/assets/curso/tema1-imagen4.jpg")
@@ -755,26 +764,26 @@
                 td 2
                 td 4
         p.mb-5 A las prendas de vestir que se desarrollan en tejido de punto con elongación y son ajustadas sobre el cuerpo (Ej. interior, active) no se les aplica desahogo, por el contrario, se aplica una reducción de medida, conocida como porcentaje de elongación, el cual dependerá de cuán elástico sea el material textil, a continuación, se presenta un ejemplo de aplicación de la fórmula de porcentaje de elongación para un material con 25%.
-        .row.justify-content-center
+        .row.justify-content-center.mb-5
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               span Tabla de reducción de medidas para tejido de punto con porcentaje de elongación del 25%.
-            .tabla-a.color-acento-botones.mb-5
-              table
-                caption  Fuente: Ajuste y holguras (Goyes, s.f.).
-                tbody
-                  tr
-                    td Pecho    44
-                    td 44/125= 35.2
-                  tr
-                    td Busto    48
-                    td 48/125= 36. 8
-                  tr
-                    td Cintura  36
-                    td 36/125=28. 8
-                  tr
-                    td Cadera   48
-                    td 48/125=38. 4
+
+            table.special
+              caption  Fuente: Ajuste y holguras (Goyes, s.f.).
+              tbody
+                tr(style="background-color: #F4F4F4;")
+                  td(style="text-align: center;") Pecho    44
+                  td(style="text-align: center;") 44/125= 35.2
+                tr
+                  td(style="text-align: center;") Busto    48
+                  td(style="text-align: center;") 48/125= 36. 8
+                tr(style="background-color: #F4F4F4;")
+                  td(style="text-align: center;") Cintura  36
+                  td(style="text-align: center;") 36/125=28. 8
+                tr
+                  td(style="text-align: center;") Cadera   48
+                  td(style="text-align: center;") 48/125=38. 4
         .cajon.color-acento-contenido.p-5.mb-5
           p.mb-0  La holgura es una amplitud determinada a veces como espacio independiente a los desahogos. Estos valores se trabajan de forma estándar, aunque algunas marcas de ropa comercial y diseñadores famosos han hecho variantes apropiándose de otros nombres y estilos.
         p.mb-5.text-center
