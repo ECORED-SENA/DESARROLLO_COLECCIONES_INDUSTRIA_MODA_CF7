@@ -516,7 +516,7 @@
           .col-lg-5
             .indicador__container
               .indicador--click
-            figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf\#page=23'))")
+            figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_diseno.pdf\#page=23'))")
               img(src="@/assets/curso/tema1-imagen43.svg")
       .col-lg-9.mb-5
         .caja.temporal--azul.text-center.py-3
@@ -1235,7 +1235,7 @@
             figure
               img(src="@/assets/curso/tema1-imagen103.svg")
           .col-lg-5
-            a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_diseno.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -1314,7 +1314,7 @@
           figcaption Fuente: SENA, 2014.
 
       .col-lg-6.mb-lg-0.mb-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_diseno.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

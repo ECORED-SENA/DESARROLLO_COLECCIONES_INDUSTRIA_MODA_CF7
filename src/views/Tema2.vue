@@ -226,7 +226,7 @@
       .col-lg-3.mb-lg-0.mb-5.d-flex
         .indicador__container
               .indicador--click
-        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.pdf'))")
+        figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/A_U1_Manual_patronaje_basico_interpretacion_diseno.pdf'))")
           img(src="@/assets/curso/tema2-imagen12.svg")
           figcaption Fuente: Manual de patronaje básico e interpretación de diseños (Gutiérrez Rengifo et al., 2011).
       .col-lg-3.mb-lg-0.mb-5.d-flex

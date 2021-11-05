@@ -816,7 +816,7 @@ export default {
         '(Gutiérrez Rengifo et al., 2011) Manual de patronaje básico e interpretación de diseños.',
       tipo: 'PDF',
       descarga:
-        '/downloads/A_U1_Manual_patronaje_basico_interpretacion_disenos.PDF',
+        '/downloads/A_U1_Manual_patronaje_basico_interpretacion_diseno.PDF',
     },
     {
       texto: '(Fernández, 2016) Vocabulario de patronaje y confección',
