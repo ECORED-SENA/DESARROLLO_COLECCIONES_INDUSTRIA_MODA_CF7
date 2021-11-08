@@ -256,14 +256,14 @@
     .row.justify-content-center.mb-4
       .col-lg-8.mb-4
         p.mb-0.py-2.caja.temporal--rosa.text-center Gaviria, F. et al., 2019; Gutiérrez Rengifo et al., 2011; SENA, s.f.-a.
-      .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p
-              strong Enlace video.
-              | Patronaje industrial masculino: toma de medidas
+      //- .col-lg-6
+      //-   a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-pdf.svg")
+      //-     .anexo__texto
+      //-       p
+      //-         strong Enlace video.
+      //-         | Patronaje industrial masculino: toma de medidas
 
     Separador
 
@@ -844,62 +844,62 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2-imagen122.svg')
-      .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
-        p.mb-0 Delantero izquierdo
-      .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
-        p.mb-0 Pico izqdo. cuello
-      .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
-        p.mb-0 Pico dcho. cuello
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
-        p.mb-0 Puño derecho centro
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
-        p.mb-0 Encima bolsillo izquierdo
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
-        p.mb-0 Centro bolsillo izquierdo
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
-        p.mb-0 Debajo bolsillo izquierdo
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
-        p.mb-0 Delantero izqdo. 5º botón
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
-        p.mb-0 Delantero dcho. 5º botón
-      .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
-        p.mb-0 Delantero izqdo. 4º botón
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
-        p.mb-0 Bolsillo izquierdo esquina derecha
-      .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
-        p.mb-0 Delantero derecho. 4º botón
-      .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
-        p.mb-0 Delantero izquierdo 6º botón
-      .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
-        p.mb-0 Puño izquierdo esquina inferior
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
-        p.mb-0 Puño izquierdo esquina superior
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
-        p.mb-0 Puño derecho esquina inferior
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
-        p.mb-0 Puño derecho esquina superior
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
-        p.mb-0 Izquierda altura 7º botón
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
-        p.mb-0 Derecha altura 7º botón
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
-        p.mb-0 Izquierda entre 7º y 8º botón
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
-        p.mb-0 Derecha entre 7º y 8º botón
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
-        p.mb-0 Bajo delantero izquierdo
-      .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
-        p.mb-0 Interior canesú
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
-        p.mb-0 Tirilla interior
-      .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
-        p.mb-0 Encima bolsillo derecho
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
-        p.mb-0 Centro bolsillo derecho
-      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
-        p.mb-0 Debajo bolsillo derecho
-      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
-        p.mb-0
+      //- .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
+      //-   p.mb-0 Delantero izquierdo
+      //- .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
+      //-   p.mb-0 Pico izqdo. cuello
+      //- .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
+      //-   p.mb-0 Pico dcho. cuello
+      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
+      //-   p.mb-0 Puño derecho centro
+      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
+      //-   p.mb-0 Encima bolsillo izquierdo
+      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
+      //-   p.mb-0 Centro bolsillo izquierdo
+      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
+      //-   p.mb-0 Debajo bolsillo izquierdo
+      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
+      //-   p.mb-0 Delantero izqdo. 5º botón
+      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
+      //-   p.mb-0 Delantero dcho. 5º botón
+      //- .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
+      //-   p.mb-0 Delantero izqdo. 4º botón
+      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
+      //-   p.mb-0 Bolsillo izquierdo esquina derecha
+      //- .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
+      //-   p.mb-0 Delantero derecho. 4º botón
+      //- .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
+      //-   p.mb-0 Delantero izquierdo 6º botón
+      //- .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
+      //-   p.mb-0 Puño izquierdo esquina inferior
+      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
+      //-   p.mb-0 Puño izquierdo esquina superior
+      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
+      //-   p.mb-0 Puño derecho esquina inferior
+      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
+      //-   p.mb-0 Puño derecho esquina superior
+      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
+      //-   p.mb-0 Izquierda altura 7º botón
+      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
+      //-   p.mb-0 Derecha altura 7º botón
+      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
+      //-   p.mb-0 Izquierda entre 7º y 8º botón
+      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
+      //-   p.mb-0 Derecha entre 7º y 8º botón
+      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
+      //-   p.mb-0 Bajo delantero izquierdo
+      //- .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
+      //-   p.mb-0 Interior canesú
+      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
+      //-   p.mb-0 Tirilla interior
+      //- .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
+      //-   p.mb-0 Encima bolsillo derecho
+      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
+      //-   p.mb-0 Centro bolsillo derecho
+      //- .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
+      //-   p.mb-0 Debajo bolsillo derecho
+      //- .tarjeta.color-acento-botones.p-3(x="1.8%" y="13.8%")
+      //-   p.mb-0
 
 
 
@@ -2956,6 +2956,13 @@ export default {
         texto:
           'En el ángulo que se forma entre las líneas de tiro y base posterior, medir 3 cm en diagonal (45°) y trazar una curva que una los 3 puntos.',
         imagen: require('@/assets/curso/tema2-imagen144.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Unir con la regla de cadera, el tiro posterior con la ampliación de los 2 cm en la línea de rodilla, hecha en el paso 1 y cerrar costado con línea recta.',
+        imagen: require('@/assets/curso/tema2-imagen383.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {

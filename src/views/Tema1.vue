@@ -35,7 +35,7 @@
         p.mb-4 El ejercicio del patronaje comienza por el análisis y toma de medidas del cuerpo humano, su constitución, dimensiones, proporciones y tipología, para así, interpretar la construcción adecuada de cada molde o pieza y cumplir con los requerimientos de la prenda (Gutiérrez Rengifo et al., 2011).
         .row.justify-content-center
           .col-lg-6
-            a.anexo.mb-4(href="https://www.youtube.com/watch?v=8aICqukm-Ng" target="_blank")
+            a.anexo.mb-4(href="https://youtu.be/8aICqukm-Ng" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/icono-youtube.svg")
               .anexo__texto
@@ -544,7 +544,7 @@
                   strong Anexo.
                   | Dimensiones antropométricas de población latinoamericana.
           .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(href="https://www.youtube.com/watch?v=-3iETPRjy5w" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/icono-youtube.svg")
               .anexo__texto
@@ -812,14 +812,11 @@
           .row(titulo="Silueta amplia – <i>Large fit</i>")
             .col-lg-6.mb-lg-0.mb-5
               p.mb-5 Esta silueta se usa para dar mucho vuelo y movilidad a los diseños. Se usan telas rígidas tanto livianas, medianas como pesadas.  Son prendas muy sueltas con gran movilidad. Se caracteriza por tener sisas muy grandes, no se marca la cintura, muchos fruncidos. Este tipo de prendas tienen holgura hasta de 20 cms en los contornos.
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p Anexo. Guía fit, pantalón de mujer.
             .col-lg-6
-              figure
-                img(src="@/assets/curso/tema1-imagen62.jpg")
+              .indicador__container
+                .indicador--click
+              figure.hover-image(@click="openClickAnexo(obtenerLink('/downloads/guia_de_fit-pantalon_de_mujer.pdf'))")
+                img(src="@/assets/curso/tema1-imagen62.svg")
       .col-lg-10
         .row.justify-content-center.align-items-center.background1-especial2.border-radius.left.right.mb-5
           .col-auto.background1-especial1.border-radius.right
@@ -829,18 +826,18 @@
             p.mb-0 Observación:  el aumento se da a las medidas totales de contorno de busto, cintura y cadera y no se debe confundir la holgura o desahogo con el aumento para costuras.
         p.text-center.mb-5 Adaptado de ¿Qué Es Un Margen de Costura?; Araujo et al., 2014; Celestecielo, s.f.; García, 2016; Goyes, s.f.; Handbox, 2016; Skarlett Costura, s.f.
         .row.justify-content-center
-          .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/curso/icono-youtube.svg")
-              .anexo__texto
-                p Enlace video.  Técnicas para marcar márgenes de costura
-          .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/curso/icono-youtube.svg")
-              .anexo__texto
-                p Enlace video.  Margen de costura en pinzas, esquinas y bajos | Patronaje para principiantes
+          //- .col-lg-6
+          //-   a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          //-     .anexo__icono
+          //-       img(src="@/assets/curso/icono-youtube.svg")
+          //-     .anexo__texto
+          //-       p Enlace video.  Técnicas para marcar márgenes de costura
+          //- .col-lg-6
+          //-   a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          //-     .anexo__icono
+          //-       img(src="@/assets/curso/icono-youtube.svg")
+          //-     .anexo__texto
+          //-       p Enlace video.  Margen de costura en pinzas, esquinas y bajos | Patronaje para principiantes
           .col-lg-6
             a.anexo.mb-4(:href="obtenerLink('/downloads/N_U1_valores_de_desahogo_estimados_segun_el_tipo_de_prenda_y_volumen_deseado_2.pdf')" target="_blank")
               .anexo__icono
@@ -1180,6 +1177,25 @@
                     p.mb-0
                       strong Contorno de muslo (pliegue):
                       |   conocido como “Muslo 1”. Es el perímetro del muslo, tomando un centímetro por debajo del pliegue del glúteo.
+            .row.justify-content-center
+              .col-md-10
+                .row.justify-content-center.align-items-center
+                  .col-lg-5.d-flex
+                    figure
+                      img(src="@/assets/curso/tema1-imagen133.svg")
+                  .col-lg-7.d-flex
+                    p.mb-0
+                      strong Pierna costura externa o largo pantalón:
+                      |   Distancia lateral desde piso hasta el nivel de la cintura.
+                .row.justify-content-center.align-items-center
+                  .col-lg-5.d-flex
+                    figure
+                      img(src="@/assets/curso/tema1-imagen134.svg")
+                      figcaption Fuente: Grupo de Investigación INAMOD (Gaviria et al., 2019).
+                  .col-lg-7.d-flex
+                    p.mb-0
+                      strong Longitud de la entrepierna:
+                      |   Distancia vertical desde el piso hasta el pliegue glúteo (marca en que la curva glútea intercepta al muslo).
             .row.justify-content-center
               .col-md-10
                 .row.justify-content-center.align-items-center
