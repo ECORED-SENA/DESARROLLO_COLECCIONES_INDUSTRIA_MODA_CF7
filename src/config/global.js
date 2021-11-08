@@ -932,34 +932,34 @@ export default {
       {
         nombre: 'Marisol Osorio',
         cargo: 'Líder sennova',
-        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+        centro: 'Centro de Diseño Confección y Moda - Regional Antioquia.',
       },
       {
         nombre: 'María Luisa Yepes',
         cargo: 'Instructora',
-        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+        centro: 'Centro de Diseño Confección y Moda - Regional Antioquia.',
       },
       {
         nombre: 'Fabio Andrés Gaviria',
         cargo: 'Instructor',
-        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+        centro: 'Centro de Diseño Confección y Moda - Regional Antioquia.',
       },
       {
         nombre: 'Jhon Fernando Jaramillo Taborda',
         cargo: 'Investigador – Grupo de investigación INAMOD',
-        centro: 'Centro de diseño confección y moda - Regional Antioquia.',
+        centro: 'Centro de Diseño Confección y Moda - Regional Antioquia.',
       },
       {
         nombre: 'Liliana Victoria Morales Gualdrón',
         cargo: 'Diseñador instruccional',
         centro:
-          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+          'Centro para la Comunicación de la Industria Gráfica – Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital',
         cargo: 'Corrector de estilo',
         centro:
-          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+          'Centro para la Comunicación de la Industria Gráfica – Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

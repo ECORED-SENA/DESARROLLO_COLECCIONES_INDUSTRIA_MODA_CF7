@@ -1367,7 +1367,7 @@
               .col-lg-4.mb-lg-0.mb-5
                 figure.mb-4
                   img(src="@/assets/curso/tema1-imagen117.jpg")
-                  figcaption Fuente:tintoreriaindustrial.com (s.f.)
+                  figcaption Fuente: tintoreriaindustrial.com (s.f.)
                 figure.mb-4
                   img(src="@/assets/curso/tema1-imagen118.jpg")
                   figcaption Fuente: annamcneary.com (s.f.).
@@ -1377,10 +1377,10 @@
                   | (sin presencia de vapor o agua) están:
                 p.mb-5
                   strong Calandrado:
-                  |    Por medio de la fricción, presión y calor se obtiene un aspecto liso, brillante y compacto. Las fibras que sobresalen del tejido – y que son las causantes de la opacidad- son plegadas obteniendo mayor lisura y por ende aumentando su reflectancia, lo que da su apariencia de brillo. Es un acabado pasajero que disminuye con el lavado.
+                  |    por medio de la fricción, presión y calor se obtiene un aspecto liso, brillante y compacto. Las fibras que sobresalen del tejido – y que son las causantes de la opacidad- son plegadas obteniendo mayor lisura y por ende aumentando su reflectancia, lo que da su apariencia de brillo. Es un acabado pasajero que disminuye con el lavado.
                 p.mb-5
                   strong Gofrado:
-                  |    También conocido como grabado. Es el proceso en donde un cilindro metálico tallado o grabado ejerce fricción y calor sobre la tela, como en el calandrado y transfiere el diseño a la tela. El efecto puede ser permanente mediante el uso de sustancias tipo resinas que termofijan (fijación por medio de calor) el material.
+                  |    también conocido como grabado. Es el proceso en donde un cilindro metálico tallado o grabado ejerce fricción y calor sobre la tela, como en el calandrado y transfiere el diseño a la tela. El efecto puede ser permanente mediante el uso de sustancias tipo resinas que termofijan (fijación por medio de calor) el material.
             .row.justify-content-center(titulo="Parte 2")
               .col-12
                 .row.justify-content-center.mb-4
@@ -1479,7 +1479,7 @@
                   .col-lg-8
                     figure
                       img(src="@/assets/curso/tema1-imagen125.jpg")
-                      figcaption Fuente: La industria textil y su control de calidad (Lockuán; 2012).
+                      figcaption Fuente: la industria textil y su control de calidad (Lockuán; 2012).
                   .col-lg-4
                     p.mb-0
                       strong  Transporte de la humedad (<i>wicking</i>):
@@ -1489,7 +1489,7 @@
                   .col-lg-8
                     figure
                       img(src="@/assets/curso/tema1-imagen126.jpg")
-                      figcaption Fuente: La industria textil y su control de calidad (Lockuán; 2012).
+                      figcaption Fuente: la industria textil y su control de calidad (Lockuán; 2012).
                   .col-lg-4
                     p.mb-0
                       strong Repelencia al agua o acabado hidrófugo:
@@ -1501,7 +1501,7 @@
                   .col-lg-4
                     figure
                       img(src="@/assets/curso/tema1-imagen127.jpg")
-                      figcaption Fuente: La industria textil y su control de calidad. (Lockuán, 2012).
+                      figcaption Fuente: la industria textil y su control de calidad. (Lockuán, 2012).
                   .col-lg-8
                     p.mb-0
                       strong Repelencia y/o liberación de manchas:
@@ -1516,7 +1516,7 @@
                     | Repelentes a la impureza seca: se tratan los tejidos con óxidos metálicos que rellenan las cavidades de las fibras impidiendo que las impurezas se depositen allí, dando al tejido un color grisáceo.
                   li
                     i.lista-ul__vineta
-                    | Repelentes a la suciedad húmeda (anti soil): Los repelentes a las manchas se usan en una variedad de telas de algodón, para prendas y hasta tapicería. La gran ventaja es que los tejidos resisten las manchas durante el uso. Cuando ocurre un derrame, esa zona puede limpiarse fácilmente, ya que la mancha se limita a la superficie y no penetra profundamente en el tejido.
+                    | Repelentes a la suciedad húmeda (anti soil): los repelentes a las manchas se usan en una variedad de telas de algodón, para prendas y hasta tapicería. La gran ventaja es que los tejidos resisten las manchas durante el uso. Cuando ocurre un derrame, esa zona puede limpiarse fácilmente, ya que la mancha se limita a la superficie y no penetra profundamente en el tejido.
                   li
                     i.lista-ul__vineta
                     | Repelentes a las grasas, aceites y bencinas.
@@ -1536,7 +1536,7 @@
                   br
                   br
                   strong  Devorado (devoré):
-                  |   Los efectos devorados se obtienen estampando ciertos productos químicos sobre una tela constituida con fibras de diferentes grupos (rayón-seda), una de las fibras se destruye, dejando áreas más delgadas en el tejido dando la ilusión de transparencia. (Lupita C.L, 2008)
+                  |   los efectos devorados se obtienen estampando ciertos productos químicos sobre una tela constituida con fibras de diferentes grupos (rayón-seda), una de las fibras se destruye, dejando áreas más delgadas en el tejido dando la ilusión de transparencia. (Lupita C.L, 2008)
             .row.justify-content-center(titulo="Parte 10")
               .col-12
                 .row.justify-content-center.mb-5

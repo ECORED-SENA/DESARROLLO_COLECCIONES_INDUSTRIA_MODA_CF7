@@ -460,15 +460,50 @@
       strong.texto-rosa.fw-bold Almilla
       br
       br
-      | la almilla o canesú, es una pieza (corte) en la parte superior de la camisa, la más común es la almilla de espalda, sin embargo, también se hace en ocasiones en el frente. La almilla sirve como refuerzo de los hombros, por lo tanto, va doble (se corta dos veces por talla) y se confecciona encarterada.
+      | La almilla o canesú, es una pieza (corte) en la parte superior de la camisa, la más común es la almilla de espalda, sin embargo, también se hace en ocasiones en el frente. La almilla sirve como refuerzo de los hombros, por lo tanto, va doble (se corta dos veces por talla) y se confecciona encarterada.
+      br
       br
       | Para el desarrollo de la almilla se traza una línea perpendicular al centro de la espalda, ésta se traza según diseño, generalmente a 11 cm o 12 cm.
+
+    .row.justify-content-center
+      .col-lg-8.mb-5
+        figure.mb-4
+          img(src="@/assets/curso/tema2-imagen384.svg")
+          figcaption Fuente: elaboración propia en Optitex.
+        .row.justify-content-center
+          .col-lg-6.d-flex
+            .caja.temporal--rosa.mb-5.p-5
+              p.mb-0 Con el fin de que la camisa se ajuste mejor a la espalda, se marca una pinza (curva) con un ancho igual a la altura de escote delantero dividido entre seis (6) y de largo mitad de línea de almilla menos 2 cm y se descuenta a la espalda, así:
+          .col-lg-6.d-flex
+            .caja.temporal--rosa.mb-5.p-5
+              p.mb-0 Tanto la almilla como la espalda van abiertas por espejo en la línea de centro espalda. Al ser un corte que se realiza, se deben dar márgenes de costura.
+        .row.justify-content-center
+          .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              span Almilla.
+            figure.mb-4
+              img(src="@/assets/curso/tema2-imagen385.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+
+          .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              span Almilla.
+            figure.mb-4
+              img(src="@/assets/curso/tema2-imagen386.svg")
+              figcaption Fuente: elaboración propia en Optitex.
+          .col-lg-12
+              .row.justify-content-center.align-items-center.background1-especial2.border-radius.left.right.mb-5
+                .col-auto.background1-especial1.border-radius.right
+                  figure.p-4
+                    img(src="@/assets/curso/tema1-imagen63.svg")
+                .col
+                  p.mb-0 Nota: la almilla se corta al través de la tela, es decir, el aplome se marca perpendicular a la línea de centro.
 
     p.mb-5
       strong.texto-rosa.fw-bold Alforzas
       br
       br
-      | son una serie de pliegues planos cosidos secuencialmente en la tela, que se vuelcan hacia un lado, las hay de todas las medidas. Para realizar las alforzas se deben marcar las líneas por las cuales se abrirá la pieza, para el ejemplo se harán en el frente cuatro (4) alforzas paralelas al centro frente, con una separación de 1.5 cm, la primera a 4 cm del punto hombro por escote, así:
+      | Son una serie de pliegues planos cosidos secuencialmente en la tela, que se vuelcan hacia un lado, las hay de todas las medidas. Para realizar las alforzas se deben marcar las líneas por las cuales se abrirá la pieza, para el ejemplo se harán en el frente cuatro (4) alforzas paralelas al centro frente, con una separación de 1.5 cm, la primera a 4 cm del punto hombro por escote, así:
 
     .row.justify-content-center
       .col-lg-8.mb-5
@@ -853,62 +888,84 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2-imagen122.svg')
-      //- .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
-      //-   p.mb-0 Delantero izquierdo
-      //- .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
-      //-   p.mb-0 Pico izqdo. cuello
-      //- .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
-      //-   p.mb-0 Pico dcho. cuello
-      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
-      //-   p.mb-0 Puño derecho centro
-      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
-      //-   p.mb-0 Encima bolsillo izquierdo
-      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
-      //-   p.mb-0 Centro bolsillo izquierdo
-      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
-      //-   p.mb-0 Debajo bolsillo izquierdo
-      //- .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
-      //-   p.mb-0 Delantero izqdo. 5º botón
-      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
-      //-   p.mb-0 Delantero dcho. 5º botón
-      //- .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
-      //-   p.mb-0 Delantero izqdo. 4º botón
-      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
-      //-   p.mb-0 Bolsillo izquierdo esquina derecha
-      //- .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
-      //-   p.mb-0 Delantero derecho. 4º botón
-      //- .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
-      //-   p.mb-0 Delantero izquierdo 6º botón
-      //- .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
-      //-   p.mb-0 Puño izquierdo esquina inferior
-      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
-      //-   p.mb-0 Puño izquierdo esquina superior
-      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
-      //-   p.mb-0 Puño derecho esquina inferior
-      //- .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
-      //-   p.mb-0 Puño derecho esquina superior
-      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
-      //-   p.mb-0 Izquierda altura 7º botón
-      //- .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
-      //-   p.mb-0 Derecha altura 7º botón
-      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
-      //-   p.mb-0 Izquierda entre 7º y 8º botón
-      //- .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
-      //-   p.mb-0 Derecha entre 7º y 8º botón
-      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
-      //-   p.mb-0 Bajo delantero izquierdo
-      //- .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
-      //-   p.mb-0 Interior canesú
-      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
-      //-   p.mb-0 Tirilla interior
-      //- .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
-      //-   p.mb-0 Encima bolsillo derecho
-      //- .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
-      //-   p.mb-0 Centro bolsillo derecho
-      //- .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
-      //-   p.mb-0 Debajo bolsillo derecho
-      //- .tarjeta.color-acento-botones.p-3(x="1.8%" y="13.8%")
-      //-   p.mb-0
+      .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
+        p.mb-0 1
+      .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
+        p.mb-0 2
+      .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
+        p.mb-0 3
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
+        p.mb-0 5
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
+        p.mb-0 6
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
+        p.mb-0 7
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
+        p.mb-0 8
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
+        p.mb-0 9
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
+        p.mb-0 10
+      .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
+        p.mb-0 11
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
+        p.mb-0 12
+      .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
+        p.mb-0 13
+      .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
+        p.mb-0 16
+      .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
+        p.mb-0 17
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
+        p.mb-0 18
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
+        p.mb-0 19
+      .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
+        p.mb-0 20
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
+        p.mb-0 21
+      .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
+        p.mb-0 22
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
+        p.mb-0 23
+      .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
+        p.mb-0 24
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
+        p.mb-0 25
+      .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
+        p.mb-0 26
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
+        p.mb-0 27
+      .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
+        p.mb-0 28
+      .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
+        p.mb-0 29
+      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
+        p.mb-0 30
+      .tarjeta.color-acento-botones.p-3(x="49.8%" y="9.8%")
+        p.mb-0 34
+      .tarjeta.color-acento-botones.p-3(x="12.1%" y="50.7%")
+        p.mb-0 35
+      .tarjeta.color-acento-botones.p-3(x="12.1%" y="61.7%")
+        p.mb-0 36
+      .tarjeta.color-acento-botones.p-3(x="12.1%" y="74.8%")
+        p.mb-0 37
+      .tarjeta.color-acento-botones.p-3(x="16.5%" y="55.7%")
+        p.mb-0 38
+      .tarjeta.color-acento-botones.p-3(x="12.1%" y="55.7%")
+        p.mb-0 39
+      .tarjeta.color-acento-botones.p-3(x="36.8%" y="68.7%")
+        p.mb-0 40
+      .tarjeta.color-acento-botones.p-3(x="86.2%" y="67.8%")
+        p.mb-0 41
+      .tarjeta.color-acento-botones.p-3(x="82.9%" y="26%")
+        p.mb-0 42
+      .tarjeta.color-acento-botones.p-3(x="87.1%" y="42%")
+        p.mb-0 43
+      .tarjeta.color-acento-botones.p-3(x="43.8%" y="62.7%")
+        p.mb-0 44
+      .tarjeta.color-acento-botones.p-3(x="49.8%" y="4.8%")
+        p.mb-0 45
 
 
 
