@@ -455,6 +455,15 @@
       .col-lg-7.mb-4
         SlyderC(:datos="datosSlyder7")
 
+
+    p.mb-5
+      strong.texto-rosa.fw-bold Almilla
+      br
+      br
+      | la almilla o canesú, es una pieza (corte) en la parte superior de la camisa, la más común es la almilla de espalda, sin embargo, también se hace en ocasiones en el frente. La almilla sirve como refuerzo de los hombros, por lo tanto, va doble (se corta dos veces por talla) y se confecciona encarterada.
+      br
+      | Para el desarrollo de la almilla se traza una línea perpendicular al centro de la espalda, ésta se traza según diseño, generalmente a 11 cm o 12 cm.
+
     p.mb-5
       strong.texto-rosa.fw-bold Alforzas
       br
@@ -1346,7 +1355,7 @@
             figure.p-4
               img(src="@/assets/curso/tema1-imagen63.svg")
           .col
-            p.mb-0 Nota: El fondo de bolsillo 1 es el que esta sombreado, se le marca la línea de aplome y se corta 2 por talla.
+            p.mb-0 Nota: el fondo de bolsillo 1 es el que esta sombreado, se le marca la línea de aplome y se corta 2 por talla.
     .row.justify-content-center.mb-5
       .col-lg-4
         p.mb-0.text-center.py-2.caja-titulo-bordes-especial.normal Fondo No 2
@@ -1988,7 +1997,7 @@
     .tabla-b.color-acento-contenido.mb-5
       .tabla-b__header
         h5.mb-0.text-white Tallas
-      table
+      table.text-center
         tr
           th Bottoms<br>(inferiores)
           td 27

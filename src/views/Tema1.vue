@@ -431,7 +431,7 @@
           p.mb-4 Estas son solo algunas de las herramientas que existen para el desarrollo de patrones. Son las más utilizadas por su funcionalidad y versatilidad lo cual facilita al patronista la construcción y materialización de la moldería.
           .row.justify-content-center
             .col-lg-6.mb-lg-0.mb-5
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-Set5reglasadulto.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -443,13 +443,13 @@
                 .anexo__texto
                   p Anexo. Regla curva sastre (Coser es fácil, s.f.-b)
             .col-lg-6.mb-lg-0.mb-5
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo-Regla-curva-francesa.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
                   p Anexo. Regla curva francesa (Coser es fácil, s.f.-a)
             .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(href="https://www.youtube.com/watch?v=zi_5puNAvLc" target="_blank")
                 .anexo__icono
                   img(src="@/assets/curso/icono-youtube.svg")
                 .anexo__texto
