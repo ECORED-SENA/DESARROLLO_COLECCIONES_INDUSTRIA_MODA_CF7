@@ -76,12 +76,12 @@
 
     p.mb-5 Cada actividad técnica emplea terminología específica, es decir, palabras que se entienden en el contexto de la profesión. A continuación, se presenta vocabulario relacionado con el patronaje:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-md-3.mb-md-0.mb-5
         figure.mb-0
           img(src="@/assets/curso/tema1-imagen8.svg")
       .col-md-9
-        .tarjeta.tarjeta--gris.p-4.mb-5
+        .tarjeta.tarjeta--gris.p-4.mb-0
           LineaTiempoC.color-acento-contenido(text-small)
             .row.px-5.py-4(titulo="Acabado")
               .col-12
@@ -296,16 +296,14 @@
             .row.px-5.py-4(titulo="Vivo")
               .col-12
                 p.mb-0.px-5 Franja de tejido o tela cortada al bies que se coloca para rematar la prenda, sustituyendo a la vista o el ruedo, también utilizadas para rematar aberturas y formar así bolsillos y ojales.
-                  br
-                  br
-                  | En el ejercicio profesional se hace fundamental emplear adecuadamente los términos, al igual que mantener actualizado el léxico según los avances de las técnicas y tecnologías.
-                  br
-                  br
-                  | Los términos concernientes a los instrumentos, herramientas y toma de medidas se presentarán en los temas siguientes.
-                  br
-                  br
-                  | (Adaptado de: Carrera de Diseño y Gestión en Moda, 2015a; Fernández, 2016; Marimar, 2016; Real Academia Española, s.f.; Rebasado, s.f.; Santiago, 2018; <i>Vocabulario Técnico  de Patronaje</i>, s.f.)
 
+    p.mb-0 En el ejercicio profesional se hace fundamental emplear adecuadamente los términos, al igual que mantener actualizado el léxico según los avances de las técnicas y tecnologías.
+      br
+      br
+      | Los términos concernientes a los instrumentos, herramientas y toma de medidas se presentarán en los temas siguientes.
+      br
+      br
+      | (Adaptado de: Carrera de Diseño y Gestión en Moda, 2015a; Fernández, 2016; Marimar, 2016; Real Academia Española, s.f.; Rebasado, s.f.; Santiago, 2018; <i>Vocabulario Técnico  de Patronaje</i>, s.f.)
     Separador
 
     #t_1_3.titulo-segundo
@@ -1379,10 +1377,10 @@
                   | (sin presencia de vapor o agua) están:
                 p.mb-5
                   strong Calandrado:
-                  | Por medio de la fricción, presión y calor se obtiene un aspecto liso, brillante y compacto. Las fibras que sobresalen del tejido – y que son las causantes de la opacidad- son plegadas obteniendo mayor lisura y por ende aumentando su reflectancia, lo que da su apariencia de brillo. Es un acabado pasajero que disminuye con el lavado.
+                  |    Por medio de la fricción, presión y calor se obtiene un aspecto liso, brillante y compacto. Las fibras que sobresalen del tejido – y que son las causantes de la opacidad- son plegadas obteniendo mayor lisura y por ende aumentando su reflectancia, lo que da su apariencia de brillo. Es un acabado pasajero que disminuye con el lavado.
                 p.mb-5
                   strong Gofrado:
-                  | También conocido como grabado. Es el proceso en donde un cilindro metálico tallado o grabado ejerce fricción y calor sobre la tela, como en el calandrado y transfiere el diseño a la tela. El efecto puede ser permanente mediante el uso de sustancias tipo resinas que termofijan (fijación por medio de calor) el material.
+                  |    También conocido como grabado. Es el proceso en donde un cilindro metálico tallado o grabado ejerce fricción y calor sobre la tela, como en el calandrado y transfiere el diseño a la tela. El efecto puede ser permanente mediante el uso de sustancias tipo resinas que termofijan (fijación por medio de calor) el material.
             .row.justify-content-center(titulo="Parte 2")
               .col-12
                 .row.justify-content-center.mb-4
@@ -1393,16 +1391,16 @@
                   .col-lg-8
                     p.mb-0
                       strong Esmerilado (lijado o arenado):
-                      | da la apariencia de textura similar a la piel de durazno. La tela pasa por una maquina con varios rodillos que contienen un material abrasivo desgastando superficialmente el tejido. Este proceso se puede realizar de manera manual o artesanal con el uso de lijas de diferentes calibres.
+                      |   da la apariencia de textura similar a la piel de durazno. La tela pasa por una maquina con varios rodillos que contienen un material abrasivo desgastando superficialmente el tejido. Este proceso se puede realizar de manera manual o artesanal con el uso de lijas de diferentes calibres.
                       br
                       br
                       strong Cepillado:
-                      | se utiliza para limpiar impurezas, levantar o acostar el pelo de loes tejidos perchados o hacer un esmerilado ligero.
+                      |   se utiliza para limpiar impurezas, levantar o acostar el pelo de loes tejidos perchados o hacer un esmerilado ligero.
                 .row.justify-content-center
                   .col-lg-8.mb-lg-0.mb-5
                     p.mb-0
                       strong Perchado:
-                      | este acabado genera un efecto aislante y aumenta la cobertura del material dando la sensación de ser más abrigadora aumentando su suavidad por unas de las caras de la tela.
+                      |   este acabado genera un efecto aislante y aumenta la cobertura del material dando la sensación de ser más abrigadora aumentando su suavidad por unas de las caras de la tela.
                   .col-lg-4
                     figure.mb-0
                       img(src="@/assets/curso/tema1-imagen120.jpg")
@@ -1418,11 +1416,11 @@
                   .col-lg-8
                     p.mb-0
                       strong Sanforizado:
-                      | lo que se pretende con este acabado es estabilizar las dimensiones aplicando vapor y fuerza, lo que produce un encogimiento comprensivo del material. La tela es sometida a tensión sobre una plancha o bandeja de goma, mientras se aplica vapor.
+                      |   lo que se pretende con este acabado es estabilizar las dimensiones aplicando vapor y fuerza, lo que produce un encogimiento comprensivo del material. La tela es sometida a tensión sobre una plancha o bandeja de goma, mientras se aplica vapor.
                       br
                       br
                       strong Compactado:
-                      | es un proceso similar al sanforizado, la diferencia es que se usa en tejidos de algodón 100% para garantizar al máximo su estabilidad dimensional durante todo el proceso de lavandería y teñido en los cuales por la fuerza de tensión ejercida sobre el material tiende a estirarse, esto es lo que pasa en ocasiones cuando las prendas son lavadas de manera doméstica y se encogen
+                      |   es un proceso similar al sanforizado, la diferencia es que se usa en tejidos de algodón 100% para garantizar al máximo su estabilidad dimensional durante todo el proceso de lavandería y teñido en los cuales por la fuerza de tensión ejercida sobre el material tiende a estirarse, esto es lo que pasa en ocasiones cuando las prendas son lavadas de manera doméstica y se encogen
             .row.justify-content-center(titulo="Parte 4")
               .col-lg-4
                 figure
@@ -1430,13 +1428,13 @@
               .col-lg-8
                 p.mb-0
                   strong Batanado:
-                  | con este acabado, mediante la aplicación de humedad combinada con calor, fricción y compresión, se pretende fieltrar los tejidos de lana, éstos pierden dimensiones, aumentan su espesor, peso por metro cuadrado y ofrecen más resistencia a la penetración.
+                  |   con este acabado, mediante la aplicación de humedad combinada con calor, fricción y compresión, se pretende fieltrar los tejidos de lana, éstos pierden dimensiones, aumentan su espesor, peso por metro cuadrado y ofrecen más resistencia a la penetración.
                   br
                   | El batanado se basa en que la superficie de la fibra de lana está formada por escamas que se acoplan unas con otras al producir un movimiento relativo entre ellas. A pesar de que el diámetro de la fibra no cambia, el aire entre las fibras se elimina a medida que éstas se enredan, de modo que el tejido "se encoge".
                   br
                   br
                   strong Decatizado:
-                  | similar al sanforizado, pero para tejidos de calada de lana y sus mezclas. Se adquiere importantes cualidades básicas como buena caída, resistencia a las arrugas, moderado lustre y estabilidad dimensional óptima – en longitud y anchura – gracias a la aplicación de vapor a presión.
+                  |   similar al sanforizado, pero para tejidos de calada de lana y sus mezclas. Se adquiere importantes cualidades básicas como buena caída, resistencia a las arrugas, moderado lustre y estabilidad dimensional óptima – en longitud y anchura – gracias a la aplicación de vapor a presión.
             .row.justify-content-center(titulo="Parte 5")
               .col-lg-4
                 figure
@@ -1444,34 +1442,34 @@
               .col-lg-8
                 p.mb-0
                   strong Vaporizado:
-                  | el vaporizado sin tensión en tejidos de lana es la técnica más utilizada para obtener una buena estabilidad dimensional al planchado a vapor.
+                  |   el vaporizado sin tensión en tejidos de lana es la técnica más utilizada para obtener una buena estabilidad dimensional al planchado a vapor.
                   br
                   | La acción de vapor implica el hinchamiento higroscópico de las fibras con una subsiguiente relajación o contracción de la tela, que recupera su forma natural. El vaporizado elimina también todas las tensiones residuales.
                   br
                   br
                   strong Acabados químicos:
-                  | mediante la aplicación de productos o aditamentos químicos, un tejido puede obtener ciertas características dándoles un valor agregado pensando en su funcionalidad.
+                  |   mediante la aplicación de productos o aditamentos químicos, un tejido puede obtener ciertas características dándoles un valor agregado pensando en su funcionalidad.
                   br
                   br
                   strong Suavizado:
-                  | a partir del uso de un agente químico se contribuye a aumentar la suavidad de la tela al penetrar el tejido facilitando el deslizamiento de la fibra.
+                  |   a partir del uso de un agente químico se contribuye a aumentar la suavidad de la tela al penetrar el tejido facilitando el deslizamiento de la fibra.
                   br
                   br
                   strong Antiarrugas:
-                  | tratamiento que se aplica a la tela para reducir el nivel de arrugas e incluso obtener un planchado permanente.
+                  |   tratamiento que se aplica a la tela para reducir el nivel de arrugas e incluso obtener un planchado permanente.
             .row.justify-content-center(titulo="Parte 6")
               .col-lg-8
                 p.mb-0
                   strong Antimicrobianos:
-                  | con este tipo de acabado se busca prevenir la transmisión y propagación de microorganismos y reducir los olores desagradables (desodorización). El agente antimicrobiano funciona ya sea por una lenta liberación del ingrediente activo. O por contacto de la superficie con los microbios.  En la práctica el efecto antimicrobiano se obtiene mediante la aplicación de productos químicos específicos durante la fase de acabado o en el proceso de hilatura.
+                  |   con este tipo de acabado se busca prevenir la transmisión y propagación de microorganismos y reducir los olores desagradables (desodorización). El agente antimicrobiano funciona ya sea por una lenta liberación del ingrediente activo. O por contacto de la superficie con los microbios.  En la práctica el efecto antimicrobiano se obtiene mediante la aplicación de productos químicos específicos durante la fase de acabado o en el proceso de hilatura.
                   br
                   br
                   strong Fungicidas:
-                  | evitan la formación de hongos sobre la fibra, en tejidos que están a la intemperie en contacto con la humedad o con el suelo, por ejemplo, lonas, redes, toldos, ropa interior. Se logra mediante la modificación química de las fibras, su impermeabilización o la aplicación de un recubrimiento.
+                  |   evitan la formación de hongos sobre la fibra, en tejidos que están a la intemperie en contacto con la humedad o con el suelo, por ejemplo, lonas, redes, toldos, ropa interior. Se logra mediante la modificación química de las fibras, su impermeabilización o la aplicación de un recubrimiento.
                   br
                   br
                   strong Antisépticos:
-                  | tiene por objetivo destruir la acción perjudicial que producen ciertos organismos sobre las fibras textiles. Para eso se añaden al tejido ciertos productos que pueden inhibir la acción del microorganismo o destruirlo.
+                  |   tiene por objetivo destruir la acción perjudicial que producen ciertos organismos sobre las fibras textiles. Para eso se añaden al tejido ciertos productos que pueden inhibir la acción del microorganismo o destruirlo.
               .col-lg-4
                 figure
                   img(src="@/assets/curso/tema1-imagen124.jpg")
@@ -1486,7 +1484,7 @@
                     p.mb-0
                       strong  Transporte de la humedad (<i>wicking</i>):
                       br
-                      | como su nombre lo indica permite que la humedad y el calor del cuerpo escapen fácilmente. Ayuda a transportar el vapor de agua fuera del cuerpo haciendo que se sienta comodidad y frescura; ayudando a evitar la frialdad del postejercicio.
+                      |   como su nombre lo indica permite que la humedad y el calor del cuerpo escapen fácilmente. Ayuda a transportar el vapor de agua fuera del cuerpo haciendo que se sienta comodidad y frescura; ayudando a evitar la frialdad del postejercicio.
                 .row.justify-content-center
                   .col-lg-8
                     figure
@@ -1496,7 +1494,7 @@
                     p.mb-0
                       strong Repelencia al agua o acabado hidrófugo:
                       br
-                      | permite el paso del aire, pero no del agua. (Lockuán, 2012)
+                      |   permite el paso del aire, pero no del agua. (Lockuán, 2012)
             .row.justify-content-center(titulo="Parte 8")
               .col-12
                 .row.justify-content-center.mb-5
@@ -1507,7 +1505,7 @@
                   .col-lg-8
                     p.mb-0
                       strong Repelencia y/o liberación de manchas:
-                      | los tejidos por su naturaleza, superficie irregular y esponjosidad son propensos a almacenar diferentes tipos de suciedad. Este tipo de acabados busca repeler o liberar el tejido de las manchas y suciedades. Dependiendo del tipo de suciedad que se quiera evitar, existen varios tipos de acabado:
+                      |   los tejidos por su naturaleza, superficie irregular y esponjosidad son propensos a almacenar diferentes tipos de suciedad. Este tipo de acabados busca repeler o liberar el tejido de las manchas y suciedades. Dependiendo del tipo de suciedad que se quiera evitar, existen varios tipos de acabado:
                     ul.lista-ul--color
                       li
                         i.lista-ul__vineta
@@ -1534,11 +1532,11 @@
                 p.mb-5.caja.temporal--rosa.py-2.px-5.text-center Acabados ácidos
                 p.mb-0
                   strong Apergaminado:
-                  | en las telas de algodón, los efectos translúcidos se producen mediante un tratamiento con ácido sulfúrico concentrado llamado Orgendil. Como el ácido ataca el algodón, el proceso debe controlarse muy cuidadosamente cada 5 o 6 segundos. Con este acabado es posible lograr los efectos de apergaminado total, apergaminado parcial y efectos plissé.
+                  |   en las telas de algodón, los efectos translúcidos se producen mediante un tratamiento con ácido sulfúrico concentrado llamado Orgendil. Como el ácido ataca el algodón, el proceso debe controlarse muy cuidadosamente cada 5 o 6 segundos. Con este acabado es posible lograr los efectos de apergaminado total, apergaminado parcial y efectos plissé.
                   br
                   br
                   strong  Devorado (devoré):
-                  | Los efectos devorados se obtienen estampando ciertos productos químicos sobre una tela constituida con fibras de diferentes grupos (rayón-seda), una de las fibras se destruye, dejando áreas más delgadas en el tejido dando la ilusión de transparencia. (Lupita C.L, 2008)
+                  |   Los efectos devorados se obtienen estampando ciertos productos químicos sobre una tela constituida con fibras de diferentes grupos (rayón-seda), una de las fibras se destruye, dejando áreas más delgadas en el tejido dando la ilusión de transparencia. (Lupita C.L, 2008)
             .row.justify-content-center(titulo="Parte 10")
               .col-12
                 .row.justify-content-center.mb-5
@@ -1549,17 +1547,17 @@
                     p.mb-4.caja.temporal--rosa.py-2.px-5.text-center Otros acabados
                     p.mb-0
                       strong Blanqueado:
-                      | consiste en eliminar o decolorar las materias naturales del algodón y de la lana, obteniendo así un tejido con aspecto más blanco. Se suelen utilizar oxidantes que reaccionan con las fibras, produciéndoles un aspecto mucho más blanco.
+                      |   consiste en eliminar o decolorar las materias naturales del algodón y de la lana, obteniendo así un tejido con aspecto más blanco. Se suelen utilizar oxidantes que reaccionan con las fibras, produciéndoles un aspecto mucho más blanco.
                       br
                       br
                       strong Tintura:
-                      | consiste en transferir un color artificial al tejido, por medio de colorantes convencionales o por impregnación pigmentaria.
+                      |   consiste en transferir un color artificial al tejido, por medio de colorantes convencionales o por impregnación pigmentaria.
                 .row.justify-content-center
                   .col-lg-8
                     p.mb-4.caja.temporal--rosa.py-2.px-5.text-center Otros acabados
                     p.mb-0
                       strong Estampación:
-                      | aplicar a la superficie del tejido un dibujo en uno o varios colores por medio de colorantes convencionales, pigmentos, transfer o aerografía, entre otros
+                      |   aplicar a la superficie del tejido un dibujo en uno o varios colores por medio de colorantes convencionales, pigmentos, transfer o aerografía, entre otros
                   .col-lg-4
                     figure
                       img(src="@/assets/curso/tema1-imagen131.jpg")
@@ -1573,7 +1571,7 @@
                   strong  Tipos de Encogimiento
                 p.mb-4
                   strong El encogimiento y sus causas se pueden separar en 2 tipos:
-                  | encogimiento por construcción y encogimiento por proceso. Significa que el encogimiento se ve afectado tanto por los parámetros de construcción de la tela y las fuerzas aplicadas durante el teñido y el acabado. Los procesos de costura y acabados durante la confección también pueden afectar el encogimiento. El encogimiento de un producto se ve afectado tanto por la aplicación y remoción de factores de estrés (Cottonworks, s.f.).
+                  |   encogimiento por construcción y encogimiento por proceso. Significa que el encogimiento se ve afectado tanto por los parámetros de construcción de la tela y las fuerzas aplicadas durante el teñido y el acabado. Los procesos de costura y acabados durante la confección también pueden afectar el encogimiento. El encogimiento de un producto se ve afectado tanto por la aplicación y remoción de factores de estrés (Cottonworks, s.f.).
                 .cajon.color-acento-contenido.p-4.mb-4
                   p.mb-0 Dentro de los acabados, los expuestos en la sección de acabados en húmedo, aportan a la estabilización de las dimensiones de la tela, ayudando así al manejo del encogimiento textil.
                 p.mb-0 Estos acabados son algunos de los más comunes y se pueden dar en tejidos o prendas. Para el patronista es relevante esta información pues al momento de desarrollar los patrones debe contemplar el efecto del proceso en la construcción de la prenda y los cambios dimensionales para hacer las correcciones necesarias en la moldería.
