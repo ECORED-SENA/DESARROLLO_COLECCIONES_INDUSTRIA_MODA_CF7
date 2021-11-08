@@ -3111,91 +3111,80 @@ export default {
       {
         titulo: '',
         texto: 'Prolongar 10 cm la línea de cintura hacia la afuera.',
-        imagen: require('@/assets/curso/tema2-imagen186.svg'),
+        imagen: require('@/assets/curso/tema2-imagen188.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'A partir de los 4.5 cm que se subió en pasos anteriores, colocar la regla inclinada, cayendo sobre la prolongación de la línea de cintura y medir 1/4 de cintura más 3 cm (estos 3 cm para pinzas de la parte posterior que luego se cerrarán en papel).',
-        imagen: require('@/assets/curso/tema2-imagen187.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto:
-          'Trazar una paralela de la línea de base a los 1.5 cm hacia abajo y prolongar la misma medida de ancho (profundidad) de tiro del delantero.',
-        imagen: require('@/assets/curso/tema2-imagen188.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto: 'Unir con curva los nuevos puntos de tiro.',
         imagen: require('@/assets/curso/tema2-imagen189.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
-          'Unir con la regla de cadera, el tiro posterior con la ampliación de la línea de rodilla, hecha en el paso 1 y cerrar costado con línea recta',
+          'Trazar una paralela de la línea de base a los 1.5 cm hacia abajo y prolongar la misma medida de ancho (profundidad) de tiro del delantero.',
         imagen: require('@/assets/curso/tema2-imagen190.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto: 'Marcar la pretina posterior paralela a la cintura a 4 cm.',
+        texto: 'Unir con curva los nuevos puntos de tiro.',
         imagen: require('@/assets/curso/tema2-imagen191.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
-          'Marcar la cotilla, para esto, desde del nuevo punto de pretina o cintura bajar y marcar 7 cm en tiro y 2.5 cm en costado.',
+          'Unir con la regla de cadera, el tiro posterior con la ampliación de la línea de rodilla, hecha en el paso 1 y cerrar costado con línea recta',
         imagen: require('@/assets/curso/tema2-imagen192.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto:
-          'Para realizar las pinzas posteriores del jean, dividir en 3 partes iguales la línea de cintura y escuadrar hasta la línea de cotilla, marcar a ambos lados de cada pinza 0.75 cm (cada pinza es de 1.5 cm).',
+        texto: 'Marcar la pretina posterior paralela a la cintura a 4 cm.',
         imagen: require('@/assets/curso/tema2-imagen193.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto: 'Separar por la línea de pretina y por la línea de cotilla.',
+        texto:
+          'Marcar la cotilla, para esto, desde del nuevo punto de pretina o cintura bajar y marcar 7 cm en tiro y 2.5 cm en costado.',
         imagen: require('@/assets/curso/tema2-imagen194.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
-          'Cerrar las pinzas de la pretina y de la cotilla. Para cerrar las pinzas se unen sus líneas, doblando una de ellas y llevándola hasta la otra, ayudándose de un trozo de cinta adhesiva.',
+          'Para realizar las pinzas posteriores del jean, dividir en 3 partes iguales la línea de cintura y escuadrar hasta la línea de cotilla, marcar a ambos lados de cada pinza 0.75 cm (cada pinza es de 1.5 cm).',
         imagen: require('@/assets/curso/tema2-imagen195.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto: 'Separar por la línea de pretina y por la línea de cotilla.',
+        imagen: require('@/assets/curso/tema2-imagen196.svg'),
+        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
+      },
+      {
+        titulo: '',
+        texto:
+          'Cerrar las pinzas de la pretina y de la cotilla. Para cerrar las pinzas se unen sus líneas, doblando una de ellas y llevándola hasta la otra, ayudándose de un trozo de cinta adhesiva.',
+        imagen: require('@/assets/curso/tema2-imagen197.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
         texto:
           'Suavizar con curva las líneas quebradas, con la ayuda de un curvígrafo.',
-        imagen: require('@/assets/curso/tema2-imagen196.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto: '',
-        imagen: require('@/assets/curso/tema2-imagen197.svg'),
-        leyendaImagen: 'Fuente: elaboración propia en Optitex.',
-      },
-      {
-        titulo: '',
-        texto: '',
         imagen: require('@/assets/curso/tema2-imagen198.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
       {
         titulo: '',
-        texto: '',
+        texto:
+          'Quedando así, la pretina anatómica posterior, cotilla y pernera posterior.',
         imagen: require('@/assets/curso/tema2-imagen199.svg'),
         leyendaImagen: 'Fuente: elaboración propia en Optitex.',
       },
