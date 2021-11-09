@@ -437,9 +437,9 @@
                 .anexo__texto
                   p Anexo. Set 5 reglas+ 1 niños, (Coser y cantar, s.f.)
             .col-lg-6.mb-lg-0.mb-5
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(href="https://differenttreat.blogspot.com/2014/07/regla-curva-sastre.html" target="_blank")
                 .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
+                  img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p Anexo. Regla curva sastre (Coser es fácil, s.f.-b)
             .col-lg-6.mb-lg-0.mb-5
