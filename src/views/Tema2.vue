@@ -888,86 +888,30 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2-imagen122.svg')
-      .tarjeta.color-acento-botones.p-3(x="55.5%" y="31%")
-        p.mb-0 1
-      .tarjeta.color-acento-botones.p-3(x="52.5%" y="25.8%")
-        p.mb-0 2
-      .tarjeta.color-acento-botones.p-3(x="46.5%" y="25.8%")
-        p.mb-0 3
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="67.8%")
-        p.mb-0 5
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="72.8%")
-        p.mb-0 6
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="20.8%")
-        p.mb-0 7
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="31%")
-        p.mb-0 8
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="45%")
-        p.mb-0 9
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="55%")
-        p.mb-0 10
-      .tarjeta.color-acento-botones.p-3(x="43.8%" y="55.4%")
-        p.mb-0 11
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="45%")
-        p.mb-0 12
-      .tarjeta.color-acento-botones.p-3(x="79%" y="26%")
-        p.mb-0 13
-      .tarjeta.color-acento-botones.p-3(x="44%" y="45%")
-        p.mb-0 16
-      .tarjeta.color-acento-botones.p-3(x="44%" y="31.4%")
-        p.mb-0 17
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="50%")
-        p.mb-0 18
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="60%")
-        p.mb-0 19
-      .tarjeta.color-acento-botones.p-3(x="55.3%" y="65%")
-        p.mb-0 20
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="72.8%")
-        p.mb-0 21
-      .tarjeta.color-acento-botones.p-3(x="90.5%" y="62.8%")
-        p.mb-0 22
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="78.2%")
-        p.mb-0 23
-      .tarjeta.color-acento-botones.p-3(x="32.5%" y="68.2%")
-        p.mb-0 24
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="74.2%")
-        p.mb-0 25
-      .tarjeta.color-acento-botones.p-3(x="44.3%" y="74.2%")
-        p.mb-0 26
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="80.8%")
-        p.mb-0 27
-      .tarjeta.color-acento-botones.p-3(x="44.3%" y="80.8%")
-        p.mb-0 28
-      .tarjeta.color-acento-botones.p-3(x="55.4%" y="88.8%")
-        p.mb-0 29
-      .tarjeta.color-acento-botones.p-3(x="49.8%" y="13.8%")
-        p.mb-0 30
-      .tarjeta.color-acento-botones.p-3(x="49.8%" y="9.8%")
-        p.mb-0 34
-      .tarjeta.color-acento-botones.p-3(x="12.1%" y="50.7%")
-        p.mb-0 35
-      .tarjeta.color-acento-botones.p-3(x="12.1%" y="61.7%")
-        p.mb-0 36
-      .tarjeta.color-acento-botones.p-3(x="12.1%" y="74.8%")
-        p.mb-0 37
-      .tarjeta.color-acento-botones.p-3(x="16.5%" y="55.7%")
-        p.mb-0 38
-      .tarjeta.color-acento-botones.p-3(x="12.1%" y="55.7%")
-        p.mb-0 39
-      .tarjeta.color-acento-botones.p-3(x="36.8%" y="68.7%")
-        p.mb-0 40
-      .tarjeta.color-acento-botones.p-3(x="86.2%" y="67.8%")
-        p.mb-0 41
-      .tarjeta.color-acento-botones.p-3(x="82.9%" y="26%")
-        p.mb-0 42
-      .tarjeta.color-acento-botones.p-3(x="87.1%" y="42%")
-        p.mb-0 43
-      .tarjeta.color-acento-botones.p-3(x="43.8%" y="62.7%")
-        p.mb-0 44
-      .tarjeta.color-acento-botones.p-3(x="49.8%" y="4.8%")
-        p.mb-0 45
-
-
+      .tarjeta.color-acento-botones.p-3(x="56.7%" y="35.4%")
+        p.mb-0 Delantero izquierdo
+      .tarjeta.color-acento-botones.p-3(x="54%" y="25.6%")
+        p.mb-0 Pico izqdo. cuello
+      .tarjeta.color-acento-botones.p-3(x="47.8%" y="25.6%")
+        p.mb-0 Pico dcho. cuello
+      .tarjeta.color-acento-botones.p-3(x="50.7%" y="7.7%")
+        p.mb-0 Banda de Cuello Centro
+      .tarjeta.color-acento-botones.p-3(x="50.7%" y="12.8%")
+        p.mb-0 Interior Almilla
+      .tarjeta.color-acento-botones.p-3(x="50.7%" y="55.4%")
+        p.mb-0 Perilla Delantera izqdo. Entre 4º y 5º botón
+      .tarjeta.color-acento-botones.p-3(x="50.7%" y="93.4%")
+        p.mb-0 Perilla Delantera bajo
+      .tarjeta.color-acento-botones.p-3(x="70.3%" y="84.4%")
+        p.mb-0 Puño Izquierdo o Derecho Centro
+      .tarjeta.color-acento-botones.p-3(x="38.2%" y="68.7%")
+        p.mb-0 Tapa contraria botón puño Izquierdo o Derecho
+      .tarjeta.color-acento-botones.p-3(x="77.5%" y="27%")
+        p.mb-0 Bolsillo izquierdo o derecho esquina superior
+      .tarjeta.color-acento-botones.p-3(x="81.5%" y="34.4%")
+        p.mb-0 Centro bolsillo izquierdo
+      .tarjeta.color-acento-botones.p-3(x="85.1%" y="42%")
+        p.mb-0 Bolsillo izquierdo o derecho esquina inferior
 
     .row.justify-content-center
       .col-lg-9
